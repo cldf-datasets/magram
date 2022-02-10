@@ -1,0 +1,199 @@
+Number,Concept Label,Definition
+1,A-POSSESSIVE,"marker of attributive (nominal) possession; this includes genitive, associative and connective functions (both head and dependent marking)"
+2,ABLATIVE (SPATIAL),marker introducing a spatial (source) participant; ‘(away) from’; also ‘from above/below/inside’
+3,ABLATIVE (TEMPORAL),"marker introducing a temporal (source) participant; ‘from’, ‘since’"
+4,ABSOLUTE QUANTITATIVE,quantifier; marker of 'absolute quantitative intensification'; 'a lot'
+5,ABSTRACT POSTPOSITION,Preposition with an abstract meaning used for different ‘oblique’ case relations
+6,ACCORD (CASE/CONJUNCTION),"marker introducing a (nominal or clausal) participant with a function which can be paraphrased as ‘as stated in/by, as laid down in, conforming to, according to’"
+7,ADHESIVE,marker specifying the spatial relation of participants invoking the notion of  'affixed attachment'; '(on)to/against'
+8,ADJECTIVIZER,"marker used to derive adjectives from verbs, nouns, and other categories"
+9,ADVERBIALIZER,"marker used to derive adverbs from verbs, nouns, adjectives and other categories"
+10,AFTER,"marker introducing an anterior temporal participant; ‘later than’, ‘after’"
+11,AGENT (CASE),"marker for a participant that instigates or performs the action described by the main verb – comprising nominatives (and similar) as well as oblique agents, but excluding ergatives, which are treated separately; ‘by’"
+12,AGREEMENT,"marker of grammatical agreement, i.e. of grammatical properties of main participants like person, number, gender, or class, (typically but not necessarily) on the verb"
+13,ALIENABLE,"marker differentiating alienable, i.e. tranferrable possession from inalienable or inherent possession"
+14,ALLATIVE,"marker introducing a spatial (directional) participant; ‘direction toward, to’"
+15,ALSO,"marker modifying nouns and other categories; ‘also’, ‘too’, ‘as well’"
+16,ANDATIVE,"marker for a movement away from the speaker or deictic centre; sometimes called itive, translocative; ‘motion thither’"
+17,ANTICAUSATIVE,"marker reducing the valency of a verb, typically by one participant, typically the agent"
+18,ANTIPASSIVE,"marker reducing the valency of a verb, demoting the patient of a transitive verb, potentially turning the agent into the only argument of the verb"
+19,APPLICATIVE,"marker increasing the valency of a verb, typically by one participant, whose function is often restricted (ablative, benefactive, comitative, goal, locative, ...)"
+20,ASSOCIATED MOTION,marker expressing that the predicate is conceptualized as the purpose of a motion
+21,ATTENUATIVE (ASPECT),"marker indicating that the action is attentuated, eased, shortened, etc.; ‘a bit’"
+22,AUGMENTATIVE,"marker indicating increased size of an entity; ‘bigger, larger than normalʼ"
+23,AVERTIVE,"marker indicating that an action or event was on the verge of taking place but did not take place; ‘almost, nearly’"
+24,B-NECESSITY,marker indicating that the agent needs to perform the action descibed out of their own will (boulomaic necessity); ‘to intend to’
+25,"B-NECESSITY, NEGATIVE",marker indicating that the agent feels no need to perform the action descibed out of their own will (negative boulomaic necessity); ‘not intend to’
+26,BEFORE (TEMPORAL),"marker introducing a posterior temporal participant; ‘before’, ‘earlier’"
+27,BEHIND,"marker introducing a locative (“backterior”) participant; ‘behind’, ‘back’, ‘in back of ‘, ‘after’"
+28,BENEFACTIVE,"marker indicating that an action is for the benefit of the participant introduced; ‘for’, ‘for the benefit of ‘"
+29,BETWEEN,"marker introducing two or more (locative) participants, indicating that another entity or action occupies a position in the space or interval separating the participants introduced"
+30,CARITIVE (CASE),"marker introducing a participant, which is missing, or explicitly not present; ‘free of, without’"
+31,CAUSATIVE,"Verbal valency marker introducing an agent that brings about the action or state it describes; ‘cause to be’, ‘cause to do’"
+32,CAUSE (CASE),"marker introducing a (nominal) participant indicating cause or reason; ‘because of’, ‘on account of’"
+33,CAUSE (CONJUNCTION),"marker introducing a (clausal) participant indicating cause or reason; ‘because’, ‘since’, ‘therefore’"
+34,CERTAINTY (EPISTEMIC MODALITY),marker used by the speaker to emphasize commitment to the truth value of the proposition; ‘it is certain that’
+35,CESSATIVE (ASPECT),marker indicating that an event stops but not necessarily that it is completed
+36,CHANGE-OF-STATE,"marker indicating the beginning of a state (contrasted to an action); also called inchoative, ingressive; ‘become’, ‘turn into’, ‘start being’"
+37,CISLOCATIVE,marker indicating event occurrence in proximity to the speaker or deictic centre
+38,CLASSIFIER,marker taking part in a classificatory system assigning nouns (or verbs) to certain groups
+39,COLLECTIVE (NUMBER),"marker indicating a plurality of entities, which is conceptualized as a single unit of some kind"
+40,COLLECTIVE NUMERAL,numeral indicating that the given amount is to be seen as a set; e.g. ‘pair’ as ‘set of two’; ‘set of’
+41,COMITATIVE,"marker introducing a comitative participant, i.e. an ‘accompanier’; ‘(together) with’"
+42,COMPARATIVE (CASE),marker of standard in comparative constructions of inequality; ‘than’
+43,COMPLEMENTIZER,marker introducing complement clauses (conjunction); ‘that’
+44,COMPLETIVE,marker indicating that something is done thoroughly and to completion
+45,CONCERN (CASE),"marker introducing a nominal or clausal participant that signals the topic or concern of what a predication is about; ‘about’, ‘concerning’"
+46,CONCESSIVE (CONJUNCTION),"marker introducing a concessive participant; ‘despite the fact that’, ‘even though’"
+47,CONDITIONAL (CONJUNCTION),marker of conditional protasis; ‘if ‘
+48,CONSECUTIVE (CONJUNCTION),"marker signalling a new event in narrative discourse; ‘and then’, ‘thereafter’"
+49,CONTACT (SPATIAL),marker introducing a locative participant indicating direct contact; ‘in contact with’
+50,COPULA,"predicate marker used in propositions asserting identity, equality, classification; ‘be’"
+51,"COPULA, NEGATIVE","predicate marker used in propositions negating identity, equality, classification; ‘be not’"
+52,CORRELATIVE,"A conjunctional marker used in the main part of the complex clause with a reference to an element in a subordinate clause, in a broader sense conjunctional markers used in both clauses of a complex construction (e.g. ‘both … and …’, ‘if… then)"
+53,COUNTEREXPECTATION,marker indicating the speaker’s acknowledgement of the proposition as true despite prior disbelief; ‘it turns out that P’
+54,D-NECESSITY,"marker indicating that the agent is required to perform the action described (obligation); ‘must, have to’"
+55,D-POSSIBILITY,marker indicating that the agent is allowed to perform the action described (deontic possibility); ‘be allowed to’
+56,DEFINITE,marker indicating that the referent of a nominal can be uniquely identified by the hearer; ‘the’
+57,DELIBERATIVE (MOOD),marker indicating that an action is done deliberately or carefully
+58,DEMONSTRATIVE,"marker indicating that the hearer is intended to direct their attention towards something in the physical environment, often in combination with specification of the physical, temporal or other distance to the speaker and/or hearer; ‘this/these’, ‘that/those’"
+59,DESIDERATIVE (MOOD),"Verbal modal marker indicating that the proposition represents the speaker’s will, desire or need"
+60,DESIGNATIVE (CASE),A case marker introducing a participant as a direct object and simultaneously enforcing the interpretation of its possessor as a recipient/beneficiary
+61,DIMINUTIVE,"marker indicating that a referent is smaller than normal; ‘small, -let’"
+62,DISCOURSE MARKER,"marker serving mainly the organization of discourse; e.g. anyway, indeed, in fact, now, etc."
+63,DISSATISFACTION,"Illocutionary marker indicating the dissatisfaction of the speaker as well as, possibly, concessive meaning"
+64,DISTAL (SPATIAL),deictic marker for spatial distance; ‘far away’
+65,DISTRIBUTIVE,"marker indicating a plurality of entities, which are conceptualized as belonging to the same class of entities, yet differ in their specific properties (like Eng. ‘cheeses’)"
+66,DOWN,"marker used to introduce a locative participant, which takes a position directly or indirectly elevated in comparison to another entity; ‘down’, ‘below’, ‘under’, ‘underneath’"
+67,DUAL,marker indicating that there are exactly two entitites
+68,DURATIVE,marker indicating the prolonged extension of an action; ‘keep doing’
+69,E-NECESSITY,"marker indicating that the speaker considers the truth of the proposition to be highly likely (epistemic necessity); ‘must, have to’"
+70,E-POSSIBILITY,marker expressing that the speaker indicates that the situation described in the proposition is possibly true (epistemic possibility); ‘it is possible that’
+71,EGRESSIVE,verbal marker indicating that an event is finished; 'stop doing’
+72,EMPHATIC,marker expressing emphasis or contrast
+73,ERGATIVE,marker introducing the agent argument of a transitive verb in ergative languages
+74,EVIDENTIAL,marker providing information about the evidence on which a statement is based
+75,"EVIDENTIAL, DIRECT","marker providing information about the evidence on which a statement is based, where the speaker is a direct witness of the situation. The evidence is frequently visual but it can also be based on hearing, smell, and occasionally on touch"
+76,"EVIDENTIAL, EGOPHORIC","marker providing information about the evidence on which a statement is based, which is direct personal knowledge"
+77,"EVIDENTIAL, INFERENTIAL","marker providing information about the evidence on which a report rests, based on information acquired through inductive or deductive inference"
+78,"EVIDENTIAL, REPORTED",marker providing information about the evidence on which a report rests with no reference to the author of the report
+79,EXCEPT,"marker introducing (nominal or clausal) participants, whose exclusion from the reference of another nominal or verbal element is expressed"
+80,EXCESSIVE,verbal marker indicating that an action is done excessively; ‘too much’
+81,EXCLAMATION,"marker expressing the speaker’s affective response to a situation, such as an exclamative utterance"
+82,EXIST,"marker expressing the existence of its sole argument; ‘there is [X]’, ‘[X] exists’"
+83,"EXIST, NEGATIVE","marker expressing the non-existence of its sole argument; ‘there is no [X]’, ‘[X] does not exist’"
+84,EXPERIENTIAL,marker indicating that an event denoted by the verb has taken place at least once
+85,FEMALE,gender marker used as a nominal modifier to refer to female participants; ‘female’
+86,FINITENESS,marker distinguishing finite verbal forms from nonfinite ones
+87,FOCUS,"marker used to indicate the central role of a constituent in current discourse, typically presenting that participant as new information"
+88,FREQUENTATIVE,"marker indicating that an event takes place frequently, i.e. neither once nor habitually"
+89,FRONT (CASE),"marker introducing a locative (“fronterior”) participant; ‘in front of’, ‘before’"
+90,FUNCTIONAL,"marker for nominals expressing the notion ‘in the function of, as’"
+91,FUTURE,"marker indicating that the speaker predicts an event to occur after the moment of speech; ‘will’, ‘shall’"
+92,"FUTURE, NEAR","marker indicating that the speaker predicts an event to occur very soon after the moment of speech; near future, immediate future"
+93,H-POSSESSIVE,"marker of predicative possession; ‘have, own, possess’"
+94,HABITUAL,marker indicaating that an event occurs habitually or usually (repeated on different occasions); ‘do habitually’
+95,HONORIFIC,marker of honorific reference (acknowledging the social status of either addressee or a third person)
+96,HORTATIVE,marker used to encourage or incite someone to action
+97,IAMITIVE PROGRESSIVE,marker which combines meanings typical of words like ʽalreadyʼ with those of perfects
+98,IMPERATIVE,"marker used to express directives, commands, requests"
+99,IMPERFECTIVE,marker used to indicate that an event is viewed as unbounded temporally
+100,IN (SPATIAL),"marker introducing an interior locative participant; ‘in’, ‘inside’, ‘within’"
+101,INALIENABLE,"marker differentiating inalienable, i.e. inherent or intranferrable possession from alienable possession"
+102,INCEPTIVE,"marker indicating that the action is in its beginning (also: ingressive); ‘start doing’, ‘begin doing’"
+103,INCLINATIVE,marker expressing the spatial relation ‘against’ (‘oblique contact’)
+104,INCLUSIVE,marker distinguishing whether the interlocutor(s)/hearer(s) is included in a group referred to by the first person plural; ‘we including you’
+105,INCOMPLETIVE,aspect marker indicating that an action or process has been completed; ‘still’
+106,INCREMENTAL,property degree marker of incremental development (some property already present increases); ‘-er and -er’
+107,INDEFINITE,"marker indicating that the referent of a nominal can not be uniquely identified by the hearer, either because the referent is unknown to the hearer or because it is nonspecific; ‘a’ (also ‘some’)"
+108,INDEFINITE PRONOUN,"pronoun signaling the indefiniteness of its referent (specific, nonspecific or generic); ‘some-, any-’"
+109,"INDEFINITE PRONOUN, NEGATIVE","pronoun signaling negation and indefiniteness of its referent (specific, nonspecific or generic); ‘(not) any-, no-’"
+110,INFINITIVE,marker used to derive nouns from verbs (typically without changes in meaning); specialized kind of nominalizer
+111,INSTRUMENTAL,"marker used to present a participant as an instrument; ‘with’, ‘by means of ‘"
+112,INTENSIFIER,"marker used to emphasize an argument (mostly agenthood or identity) in a given clause; frequently referred to as emphatic reflexive; ‘-selfʼ; as in The king himself, The king did it himself; frequently referred to as emphatic reflexive, identifier"
+113,INTENSIVE,"marker indicating intensification (of the predicate); ‘very’, ‘extremely’"
+114,INTRANSITIVE,marker transforming a transitive verb into an intransitive one
+115,IRREALIS,verbal mood marker indicating the non-reality of an event
+116,ITERATIVE,marker indicating that an action is repeated; ‘do repeatedly’
+117,LACK of CONTROL,marker indicating a lack of control on the part of the subject (low agentivity)
+118,LINKER,marker  used to introduce  a modifier of some kind added to a nominal
+119,LOCATIVE,marker introducing a locative participant
+120,MALE,gender marker used as a nominal modifier to refer to male participants; ‘male’
+121,MANNER (CONJUNCTION),marker introducing a (clausal) manner participant
+122,MATERIAL (CASE),"marker for a participant typically indicating the material from which an object is made; ‘from’, ‘with’"
+123,MEDIAL (SPATIAL),deictic marker for intermediate spatial distance; ‘over there’
+124,MIDDLE,marker indicating that the patient of the action is implicated as contributing to the action in some way
+125,MIRATIVE,"marker of surprise for the speaker’s sudden awareness of a fact hitherto unknown, unappreciated or not considered relevant to the present"
+126,MODAL (shared knowledge),marker indicating that the information conveyed is already shared knowledge of speaker and hearer
+127,MOMENTATIVE,marker expressing the spatial relation ‘against’ (as 'momentary impact'); 'against'
+128,NEGATION,"marker of negation (where negation is viewed as asserting the inversion of truth values of a proposition on any structural level of language); ‘not’, ‘no’"
+129,NOMINALIZER,"marker used to derive nouns from verbs, adjectives, and other categories"
+130,NP-AND,marker conjoining noun phrases; ‘and’
+131,ONLY,"A discourse marker used to indicate exhaustiveness; ‘alone’, ‘merely’, ‘just’"
+132,OPTATIVE,illocutionary mood marker indicating that the proposition represents the speaker’s will
+133,OR,"alternative marker, conjoining noun phrases or clauses; ‘or’"
+134,ORDINAL NUMERAL,"numeral indicating that the number given indicates a rank in a hierarchy, enumeration etc. in respect to some aspect clarified by the direct or indirect linguistic environment"
+135,OTHER,"marker of non-identity; ‘another’, ‘other’"
+136,OUT (SPATIAL),"marker introducing an (exterior) locative participant; ‘out’, ‘outside’"
+137,PARTITIVE,marker introducing a participant expressing the notion ‘a part of’ or ‘partly affected’
+138,PASSIVE,"marker indicating that the action is viewed from the perspective of the more recipient- or patient-like argument of the verb, while the agent is suppressed or demoted"
+139,PAST,marker indicating that an event occurs before the moment of speech
+140,"PAST, DISTANT",marker indicating that an event occurred a long time before the moment of speech
+141,"PAST, NEAR","marker indicating that an event occurred immediately before the moment of speech (recent past, near past, immediate past)"
+142,"PATH (SPATIAL, CASE)","marker introducing a locative participant, expressing a path; ‘through’, ‘via’, ‘by’"
+143,PATIENT (CASE),marker indicating that a participant is the undergoer of the action denoted by the verb (direct object)
+144,PEJORATIVE,marker expressing a negative connotation
+145,PENSILATIVE,marker expressing the spatial relation ‘onto’ in the sense of 'suspended attachment'
+146,PERFECT (ASPECT),marker indicating that a past event is relevant to the situation at reference time (anterior)
+147,PERFECTIVE,marker used to indicate that an event is viewed as bounded temporally
+148,PERSISTIVE,aspectual marker indicating the prolonged extension of an action; ‘keep doing’
+149,PERSONAL PRONOUN,"linguistic item used to substitute a nominal, often with reference to grammatical properties of the substituted element"
+150,PI-POSSIBILITY,"marker expressing that the speaker indicates that has the ability to perform an action (person-internal possibility); ‘can, be able’"
+151,"PI-POSSIBILITY, NEGATIVE","marker expressing that the speaker indicates that does not have the ability to perform an action (person-internal possibility); ‘can not, be unable’"
+152,PLUPERFECT,"marker indicating that a past event is relevant to the situation at reference time (anterior), which itself lies in the past at the moment of speech"
+153,PLURAL,marker indicating that a nominal refers to more than one referent of the kind denoted
+154,PRESENT,marker whose main function it is to indicate that an event is occurring simultaneously with the moment of speech
+155,PREVENTIVE,marker used to warn the addressee of potentially harmful consequences of an action; also called apprehensive; ‘lest’
+156,PRO-VERB,semantically empty predicate marker standing for other verbs in certain contexts; ‘do’
+157,PROGRESSIVE,marker for an event that is in progress at reference time; ‘be doing’
+158,PROPRIETIVE PRONOUN,pronoun indicating that the dependent in a genitival construction (possessor) must be identified with a discursively salient notion; ‘that of x (retrievable from context)’
+159,PROHIBITIVE,"negative imperative, i.e. a command ordering to refrain from an action; ‘don’t do!’"
+160,PROMISSIVE,marker indicating that the sentence is to be understood as a promise
+161,"PRONOUN, NEGATION","negative pronoun; ‘no x, none, nothing’"
+162,PROXIMAL (SPATIAL),"deictic marker for spatial proximity; ‘nearby’, ‘close to’"
+163,PROXIMATIVE (ASPECT),"marker indicating that an event is viewed as begin imminent; ‘be on the verge of doing’, ‘be about to’"
+164,PURPOSE (CASE),"marker introducing a nominal participant expressing the purpose of an action; ‘for’, ‘for the purpose of’’"
+165,PURPOSE (CONJUNCTION),"marker introducing a clausal participant expressing the purpose of an action; ‘in order to’, ‘so that’"
+166,QUOTATIVE,marker introducing direct speech
+167,RECIPIENT (CASE),"marker introducing a typically human goal or recipient (indirect object, dative); ‘to’"
+168,RECIPROCAL (PRONOUN),marker indicating that participants act upon each other; ‘each other’
+169,REFLEXIVE,marker indicating that the patient is the same referent as the agent (i.e. the two have identical reference); ‘-self ‘
+170,RELATIVIZER,"marker introducing relative clauses; ‘who’, ‘which’, ‘that’"
+171,REPLACIVE,"‘instead ofʼ, ʽrather thanʼ; marker introducing a nominal or clausal participant other than the expected one"
+172,RESULTATIVE (ASPECT),marker expressing that a participant has undergone a change in state as the result of the completion of the event; ‘having reached a new state’
+173,S-AND,marker conjoining clauses; ‘and’
+174,S-QUESTION,marker of polar (yes–no) questions
+175,SAME,"‘(the) same’, ‘identical’"
+176,SIDE (CASE),"marker introducing a locative participant indicating (lateral) adjacency; ‘beside’, ‘at the side of ʼ"
+177,SIMILATIVE (CASE),"marker of nominal similarity participants; ‘like’, ‘as if ‘, ‘thus’, ʽin the manner ofʼ"
+178,SIMILATIVE (CONJUNCTION),"marker of clausal similarity participants; ‘like’, ‘as if ‘, ‘thus’, ʽin the manner ofʼ"
+179,SINGULATIVE (NUMBER),marker restricting the reference (of a noun) to a single entity
+180,SOME,marker expressing an approximative quantity; ‘some’
+181,SPATIAL TERMINATIVE,spatial marker indicating that something is performed 'to the top’
+182,STATIVE (ASPECT),"Verbal aspect marker, which characterizes the event as non-dynamic"
+183,SUBJUNCTIVE,Irrealis mood marker used predominantly in subordinate clauses
+184,SUBORDINATOR,"marker introducing adverbial clauses, having a range of adverbial functions (e.g. locative, temporal, causal, and/or conditional functions)"
+185,SUCCEED,"marker expressing the success/fulfilment of an action; ‘manage to do’, ‘succeed in doing’"
+186,"SUCCEED, NEGATIVE","marker expressing the lack of success/fulfilment of an action; ‘not manage to do’, ‘not succeed in doing’"
+187,SUPERLATIVE,marker indicating the maximal intensity of a property; ‘(the) most’
+188,SWITCH-REFERENCE,marker indicating whether the referent of an argument of a verb is different from that of a preceding verb
+189,TEMPORAL MARKER,marker indicating the relevance of temporality or introducing a temporal participant
+190,THEN,"temporal marker of sequentiality; ‘then’, ‘afterwards’, ‘later’"
+191,TOPIC,"marker indicating the theme of a sentence, that is, what the sentence is about; ʽas for Xʼ"
+192,TRANSITIVIZER,marker transforming an intransitive verb into a transitive one
+193,UNTIL (CASE/CONJUNCTION),"marker introducing a nominal or clausal temporal (goal) participant; ‘until’, ‘up to’"
+194,UP (SPATIAL),"marker introducing a locative (“superior”) participant; ‘up’, ‘on’, ‘above’, ‘over’"
+195,VENITIVE,"marker for a movement toward the speaker or deictic centre; (also called ventive); ‘motion hither’, ‘motion towards’"
+196,VERBALIZER,"marker used to derive verbs from nouns, adjectives, and other categories"
+197,VERIFICATIVE,A verbal marker expressing the meaning ‘find out whether V is true’.
+198,INTERROGATIVE PROFORM,"marker of word questions; ‘who?’, ‘what?’, etc."
