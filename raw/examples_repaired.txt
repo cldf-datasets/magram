@@ -1,0 +1,188 @@
+023061-wacyayati-si-evidential - šī ǰa
+šī	ǰa
+say.PRS.3SG hit.PST
+
+018036-ini-ini-imminence - Ù bɛ ́ ɲíní kà sà
+Ù	bɛ́	ɲíní	kà	sà
+3PL	ICPL	look.for	INF	die
+
+005027-ebhadid-ebhadid-untilcaseconjunction - oːn i=kaːm=oːk heː=heːb baruːk oː=buːn  gʷʔa-ti=eːb hadiːd  drink-aor.2sg.m=rel.m limit
+oːn	i=kaːm=oːk	heː=heːb	baruːk	oː=buːn	gʷʔa-ti=eːb	hadiːd
+PROX.SG.M.ACC	DEF.M=camel=POSS.2SG.ACC	give\IMP.[SG.M]=OBJ.1SG	2SG.M.NOM	DEF.SG.M.ACC=coffee drink-aor.2sg.m=rel.m limit
+
+015004-kin-kin-inspatial - ɔ́lì ùgín ríì vbí ɛ́kɛ́ín àkpótì / ɔ́ì.
+ɔ́lì	ùgín	ríì	vbí	ɛ́kɛ́ín	àkpótì	/	ɔ́ì.
+the	basket	PRP.be	LOC	inside	box	/	it
+
+015014-fghoo-feeghoo-bnecessitynegative - ójè ló ù féé ghòò.
+ójè	ló	ù	féé	ghòò.
+Oje	PRED	die	NAI NAI
+
+015016-bakun-bakun-succeednegative - òjè hɔ́ɔ́ ɔ́lí úkpùn bá kùn.
+òjè	hɔ́ɔ́	ɔ́lí	úkpùn	bá	kùn.
+Oje	PRP.wash	the	cloth	NAF NAF
+
+015019-deeegbe-degbe-deliberativemood - òjè ɔ̀ ɔ́ dègbé è émàè.
+òjè	ɔ̀	ɔ́	dègbé	è	ólí émàè.
+Oje	SC	C	carefully	eat	the	food
+
+017025-hona-hona-dnecessity - tumhẽ āj jaldī sonā hogā
+tumhẽ	āj	jaldī	sonā	hogā
+2.DAT	today	early	sleep.INF	OBLIG.FUT.3M.SG
+
+002002-ya-ra-definite - wicąwą=ra kiisak wa-mąące=nąk-ga rook=ra suu=ra hanąąc wa-gigop=nąk=ga k'orok'oros jiinąk-ire=gi 'eegi haruce wa-hamąxara=ną=ną
+wicąwą=ra	kiisak	wa-mąące=nąk-ga	rook=ra	suu=ra	hanąąc	wa-gigop=nąk=ga	k'orok'oros	jiinąk-ire=gi	'eegi	haruce	wa-hamąxara=ną=ną
+squash=DEF	half	OBJ.3PL-cut=POS.NTL=CONT	inside=DEF	seed=DEF	all	OBJ.3PL-hollow.out=POS.NTL=CONT	be.hollowed.out(OBJ.3SG)	become-SBJ.3PL=TOP	and.then	cross(SBJ.3SG) OBJ.3PL-slice=POT=DECL
+
+002005-kaa-ga-subordinator - stoo-ire=ga hegų wąąkšik ha-jee=wi=ra že'e wąąga-heesge= wi=gają hegų kii'ų=ra kii'ų-ire=šge hegų
+stoo-ire=ga	hegų	wąąkšik	ha-jee=wi=ra	že'e	wąąga-heesge=wi=gają	hegų	kii'ų=ra	kii'ų-ire=šge	hegų
+gather-SBJ.3PL=CONT	that.way	Indian/person	1E.A-POS.VERT=PL=DEF	that	1PI.U-that's.how=PL=SEQ	that.why	game=DEF	gamble-SBJ.3PL=also	that.way
+
+002009-apiape-wi-plural - nįge paaši ha-jee-wi=ga 'eeja hąho žegų howé hiperes kįį=jee=ną
+nįge	paaši	ha-jee-wi=ga'eeja	hąho	žegų	howé	hiperes	kįį=jee=ną
+where	dance\1E.A	COLL-POS.VERT-PL=DEM.DIST	there	INTJ	thus	go.about	know(SBJ.3SG)	make.self=POS.VERT=DECL
+
+002010-wakwaakwi-waagawaagawi-agreement - Stóo-ire=ga hegų wąąkšík ha-jee-wį=ra že'e wąąga-heesge= wi=gają hegų kii'ų=ra kii'ų-ire=šge hegų
+Stóo-ire=ga	hegų	wąąkšík	ha-jee=wį=ra	že'e	wąąga-heesge=wi=gają	hegų	kii'ų=ra	kii'ų-ire=šge	hegų
+gather-SBJ.3PL=CONT	that.way	Indian/person	1E.A-POS.VERT=PL=DEF	that	1PI.U-that's.how=PL=SEQ	that.why	game=DEF	gamble-SBJ.3PL=also	that.way
+
+021034-facere-fare-proverb - Ha fatto un bel lavoro
+Ha	fatto	un	bel	lavoro
+have.PRS.IND.3SG	done	INDEF.SG.m good work
+
+021040-hince-ci-personalpronoun - Ci videro
+Ci	videro
+we.ACC	see.PST.IND.3PL
+
+021048-vedersi-vedersiv-passive - Il giovane si vide assalito/assalire dalla folla
+Il	giovane	si	vide	assalito/assalire	dalla	folla
+the	young_man	RFL	see.PST.3SG	assault.PST.PTCP.M.SG/assault.INF	by	the_crowd
+
+016014-nmga-nmga-purposeconjunction - tɕe kɯpɤz nɯ mɯ-ɲɯ-kɤ-βzu kɤ-nɯmga, iʑɤra, ji-mthɯm nɯra <binggui> tu-χtɯ-j tɕe nɯ ɯ-ŋgɯ ri pjɯ-nɯ-rku-j ɕti ma [...]
+tɕe	kɯpɤz	nɯ	mɯ-ɲɯ-kɤ-βzu	kɤ-nɯmga,	iʑɤra,	ji-mthɯm	nɯra	<binggui>	tu-χtɯ-j	tɕe	nɯ	ɯ-ŋgɯ	ri	pjɯ-nɯ-rku-j	ɕti	ma [...]
+lnk	type.of.bug	dem	neg-ipfv-inf-grow inf-want.from	1pl	1pl.poss-meat	dem:pl	refrigerator	ipfv-buy-1pl	lnk	dem	3sg.poss-in	loc	ipfv-auto-put.in-1pl	be.aff:fact	lnk [...]
+
+016017-wja--reflexive - nɤʑo kɤ-nɯ-ʑɣɤ-ftsɯn kɯnɤ mɯ́j-tɯ-spe ɕti
+nɤʑo	kɤ-nɯ-ʑɣɤ-ftsɯn	kɯnɤ	mɯ́j-tɯ-spe	ɕti
+2sg	inf-auto-refl-serve	also	neg:sens-2-be.able[III]	be.aff:fact
+
+016021-n-n-personalpronoun - stu kɯ-wxti nɯ ɯ-ɕki to-ti ri, nɯ kɯ mɯ-to-ti
+stu	kɯ-wxti	nɯ	ɯ-ɕki	to-ti	ri,	nɯ	kɯ	mɯ-to-ti
+most	nmlz:S/A-be.big	dem	3sg-dat loc	ifr-say	dem	erg	neg-ifr-say
+
+014008--v-plural - bɛr-ɛŋ
+bɛr-ɛŋ
+do-ANOM
+
+014019-k-k-transitivizer - qima iliŋis daiɣuksives
+qima	iliŋis	da=igda-u-k-si-bes	
+grandma	food	3FEM.SG.SBJ=into.open.space-3INAN.OBJ-with-PRES-pass
+
+027012-nuh-nuh-definite - kme:ŋ nùh rìǝp cɔ:p rùǝc srec, …
+kme:ŋ	nùh	rìǝp	cɔ:p	rùǝc	srec,	…
+child	DEM	prepare	spade	achieve	finish,	…
+
+027013-thv-thv-causative - cɔmnoc dael thvɤ̀:ʔaoy bɔndo:l-nì:ǝŋ khɤŋ mɯ̀n phlec
+cɔmnoc	dael	thvɤ̀:ʔaoy	bɔndo:l-nì:ǝŋ	khɤŋ	mɯ̀n	phlec
+point	REL	CAUS	Bondol-Mrs	angry	NEG	forget	DEM
+
+027030-ban-ban-succeed - kɔ́ǝt cap trɤy mɯ̀n ba:n tè:
+kɔ́ǝt	cap	trɤy	mɯ̀n	ba:n	tè:
+3SG	catch	fish NEG can NEG
+
+018005-nin--definite - ñǐŋ mùsûŋ
+ñǐŋ	mùsûŋ
+DEM	woman.D
+
+018015-kr-kr-down - À tɛ́ sé à kɔ́rɔ́.
+À	tɛ́	sé	à	kɔ́rɔ́.
+3SG	ICPL.NEG	reach	3SG	under
+
+018056-ayeatara-ayeatara-subordinator - À yè díŋó sòtó, à yè à tàrá à mâŋ fútûu fólóo.
+À	yè	díŋó	sòtó,	à	yè	à	tàrá	à	mâŋ	fútûu	fólóo.
+3SG	CPL	child.D	get 3SG	CPL	3SG	find	3SG	CPL.NEG	marry	first
+
+018080-soto-soto-hpossessive - À yè báadíŋ-ò-lú sòtó ñǐŋ sàatêe tó.
+À	yè	báadíŋ-ò-lú	sòtó	ñǐŋ	sàatêe	tó.
+3SG	CPL	relative-D-PL	get	DEM	village.D	in
+
+010014-avek-avekek-recipientcase - (av)ek ki sanla to'n don larzaṅ la?
+(av)ek	ki	sanla	to'n	don	larzaṅ	la?
+with	who	that.one	2SG.PFV	give	money	DEF
+
+007012-lo-lo-perfective - imen=o ule-l-ûb'-e-s-ib=ta
+imen=o	ule-l-ûb'-e-s-ib=ta
+taro=PL.N1 pull.out-PFV-give.PFV-PL.AN.R-DS.SEQ-2/3PL.AN.SBJ=MED
+
+006004-ne-nen-definite - na'tathón:ne' ne ronón:kwe . . .
+na'tathón:ne'	ne	ronón:kwe	.	.	.
+they	came	back	the_aforementioned_male_persons
+
+006012-kweni-kweni-pipossibility - A:kkwé:ni' ahsontakwé:kon a:khthá:ren'.
+A:kkwé:ni'	ahsontakwé:kon	a:khthá:ren'.
+I_would_be_able	all_night	I_would_talk
+
+006014-hkw-hkw-applicative - ke-r-ahkw-ha'
+ke-r-ahkw-ha'
+1SG.AGT-insert-INS.APPL-HAB
+
+006015-en-iaken-evidentialreported - wa-h-onnis-e-' iak-en-' ka-nat-a-kon rati-i'teront-ahkwe' ka-ieri ni-hati-i ron-onkwe
+wa-h-onnis-e-'	iak-en-'	ka-nat-a-kon	rati-i'teront-ahkwe'	ka-ieri	ni-hati-i	ron-onkwe
+FACTUAL-NEUTER-be.a.long.time-EP-PFV FI.PAT-say-ST	NEUTER-town-EP-be.in	M.PL.AGT-dwell-PAST.HAB	N-be.right	PRT-M.PL-amount	M.PL.AGT-person\
+
+009006-e-ea-negation - Gad-a-se-mbi
+Gad-a-se-mbi
+take-NEG-AOR-1SG
+
+012004-yiburu-yiburu-untilcaseconjunction - wakalman dalaw yi-m-barnji-na-da kunbulu-yibur
+wakalman	dalaw	yi-m-barnji-na-da	kunbulu-yibur
+blow.to.head	cut	3MIN.NOM-EN-exchange-PST-HAB blood-RES
+
+008003-ji-oejv-agreement - My vid-im krasiv-uju devušk-u
+My	vid-im	krasiv-uju	devušk-u
+we.NOM	see[.IPFV]-PRS.1.PL	beautiful-ACC.SG.F	girl[.F]-ACC.SG
+
+008004-sebja-sja-passive - Naš-a mašin-a mo-et-sja každoe voskresen'e
+Naš-a	mašin-a	mo-et-sja	každoe	voskresen'e
+our-NOM.SG.F	car[.F]-NOM.SG	wash[IPFV]-PRS.3SG-REFL every sunday
+
+008019-bylol-bylol-avertive - Reši-l by-l-o id-ti domoj.
+Reši-l	by-l-o	id-ti	domoj.
+decide[.PFV]-PST-(SG.M)	be-PST-N	go[.IPFV]-INF	home	[but	he	changed	his	mind].
+
+021018-acabarde-acabarde-pastnear - El acaba de salir de prison
+El	acaba	de	salir	de	prison
+he	finish.PRS.IND.3SG	of	go_out.INF	prison
+
+021028-hacer-hacer-causative - Juan hizo a su mujer traer un regalo
+Juan	hizo	a	su	mujer	traer	un	regalo
+John	make.PST.IND.3SG	OBJ	his	wife	bring.INF	a	PRESENT
+
+026025-daj-daj-epossibility - thamay khǎw cyŋ pen khŷn maa dây naymŷa khǎw dây taay pay sìp-sɔ̌ɔŋ chûamooŋ lɛ́ɛw.
+why thamay	khǎw	cyŋ	pen	khŷn	maa	dây	naymŷa	khǎw	dây	taay	pay	sìp-sɔ̌ɔŋ	chûamooŋ	lɛ́ɛw.
+3.SG	then	alive	move.up	come	can	while	3.SG	PST	day	go	ten-two	hour	PFV
+
+019010-k-k-agentcase - lɩ̀-káú lɩ́-bɩ̀dítswè kɩ́ má-pòdîːsì.
+lɩ̀-káú	lɩ́-bɩ̀dítswè	kɩ́	má-pòdîːsì.
+CL5-boy	S.CL5-hit:PASS:PRF:CJ	by	CL6-policeman
+
+019051-tsamaja-tsamaja-durative - ŋw-àná !jó !ʊ́-tsámájà á-bùá má-àːká.
+ŋw-àná	!jó	!ʊ́-tsámájà	á-bùá	má-àːká.
+CL1-child	CL1:DEM	S.CL1-sprend_the_time:PRS:CJ	S.CL1-tell:CIRC:PRS CL6-lie
+
+006003-hane-ha-definite - Wa'kayę'na'natkáhri'θ ha' uhé̜'nę' ru'né̜'ę,
+Wa'kayę'na'natkáhri'θ	ha'	uhé̜'nę'	ru'né̜'ę,
+they_told_him	the	in_front	he_had_become
+
+008026-sydac-sydac-exist - [...] što k wječer-i syda.
+[...] što	k	wječer-i	syda.
+[...] what	to	dinner-DAT	sit[.IPFV].PRS.3SG
+
+003011-tsok-ts-egressive - (h) ts'o'k in meyah
+(h)	ts'o'k	in	meyah
+PFV	finish(CMPL:B.3)	A.1.SG work
+
+003014-bin-biin-future - Bíin suu-nak yéetel bíin in wil-eh.
+Bíin	suu-nak	yéetel	bíin	in	wil-eh.
+FUT	return-SUBJ(B.3.SG)	and	FUT A.1.SG	see-SUBJ(B.3)
+
