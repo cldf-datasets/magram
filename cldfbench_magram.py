@@ -46,7 +46,10 @@ class Dataset(BaseDataset):
     id = "magram"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(dir=self.cldf_dir, module='Wordlist')
+        return CLDFSpec(
+            dir=self.cldf_dir,
+            module='Wordlist',
+            data_fnames={'ParameterTable': 'concepts.csv'})
 
     def cmd_download(self, args):
         pass
@@ -114,38 +117,38 @@ class Dataset(BaseDataset):
             }
             for row in raw_data]
 
-        args.writer.cldf.add_component('LanguageTable')
-        args.writer.cldf.add_component('ParameterTable')
-        args.writer.cldf.add_component('ContributionTable')
-        args.writer.cldf.add_component('ExampleTable')
-        args.writer.cldf.add_columns('FormTable', 'Type')
-        args.writer.cldf.add_table(
-            'paths.csv',
-            {
-                "name": "ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-            },
-            {
-                "name": "Source_Form_ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference",
-            },
-            {
-                "name": "Target_Form_ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
-            },
-            {
-                "name": "Subset",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
-            },
-            {
-                "name": "Example_ID",
-                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
-            },
-        )
+        with self.cldf_writer(args) as writer:
+            writer.cldf.add_component('LanguageTable')
+            writer.cldf.add_component('ContributionTable')
+            writer.cldf.add_component('ExampleTable')
+            writer.cldf.add_columns('FormTable', 'Type')
+            writer.cldf.add_table(
+                'paths.csv',
+                {
+                    "name": "ID",
+                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                },
+                {
+                    "name": "Source_Form_ID",
+                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference",
+                },
+                {
+                    "name": "Target_Form_ID",
+                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
+                },
+                {
+                    "name": "Subset",
+                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                },
+                {
+                    "name": "Example_ID",
+                    "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                },
+            )
 
-        args.writer.objects['LanguageTable'] = language_table.values()
-        args.writer.objects['ParameterTable'] = concept_table.values()
-        args.writer.objects['ContributionTable'] = contribution_table.values()
-        args.writer.objects['ExampleTable'] = example_table
-        args.writer.objects['FormTable'] = form_table
-        args.writer.objects['paths.csv'] = path_table
+            writer.objects['LanguageTable'] = language_table.values()
+            writer.objects['ParameterTable'] = concept_table.values()
+            writer.objects['ContributionTable'] = contribution_table.values()
+            writer.objects['ExampleTable'] = example_table
+            writer.objects['FormTable'] = form_table
+            writer.objects['paths.csv'] = path_table
