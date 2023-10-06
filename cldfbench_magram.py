@@ -20,6 +20,12 @@ def make_contrib_id(row):
     return slug(row['Subset'])
 
 
+def make_construction_id(row):
+    return '{}-{}'.format(
+        make_language_id(row),
+        slug(row['Target:Form']))
+
+
 def make_example(row):
     row_id = make_row_id(row)
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
@@ -46,10 +52,17 @@ class Dataset(BaseDataset):
     id = "magram"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
-        return CLDFSpec(
-            dir=self.cldf_dir,
-            module='Wordlist',
-            data_fnames={'ParameterTable': 'concepts.csv'})
+        return {
+            None: CLDFSpec(
+                dir=self.cldf_dir,
+                module='Wordlist',
+                data_fnames={'ParameterTable': 'concepts.csv'}),
+            'crossgram': CLDFSpec(
+                dir=self.cldf_dir,
+                module='StructureDataset',
+                metadata_fname='CrossGram-metadata.csv',
+                data_fnames={'ParameterTable': 'crossgram-parameters.csv'}),
+        }
 
     def cmd_download(self, args):
         pass
@@ -57,6 +70,10 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         raw_data = self.raw_dir.read_csv('MAGRAM_database.csv', dicts=True)
         raw_data.sort(key=lambda row: make_language_id(row))
+
+        crossgram_parameters = {
+            row['Original_Column_Name']: row
+            for row in self.etc_dir.read_csv('parameters.csv', dicts=True)}
 
         language_table = {}
         for row in raw_data:
@@ -117,6 +134,32 @@ class Dataset(BaseDataset):
             }
             for row in raw_data]
 
+        constructions = {}
+        for row in raw_data:
+            construction_id = make_construction_id(row)
+            if construction_id not in constructions:
+                constructions[construction_id] = {
+                    'ID': construction_id,
+                    'Language_ID': make_language_id(row),
+                    'Name': row['Target:Form'],
+                    'Description': row['Target:Meaning'],
+                }
+
+        cvalues = []
+        for row in raw_data:
+            construction_id = make_construction_id(row)
+            for col_name, parameter in crossgram_parameters.items():
+                cvalue = {
+                    'ID': '{}-{}'.format(construction_id, parameter['ID']),
+                    'Construction_ID': construction_id,
+                    'Parameter_ID': parameter['ID'],
+                    'Value': row[col_name],
+                }
+                if parameter['ID'] == 'source-form':
+                    cvalue['Comment'] = row['Source:Meaning']
+                    cvalue['Example_IDs'] = [make_row_id(row)]
+                cvalues.append(cvalue)
+
         with self.cldf_writer(args) as writer:
             writer.cldf.add_component('LanguageTable')
             writer.cldf.add_component('ContributionTable')
@@ -152,3 +195,38 @@ class Dataset(BaseDataset):
             writer.objects['ExampleTable'] = example_table
             writer.objects['FormTable'] = form_table
             writer.objects['paths.csv'] = path_table
+
+        with self.cldf_writer(args, cldf_spec='crossgram', clean=False) as writer:
+            writer.cldf.add_component('LanguageTable')
+            writer.cldf.add_component('ExampleTable')
+            writer.cldf.add_table(
+                'constructions.csv',
+                'http://cldf.clld.org/v1.0/terms.rdf#id',
+                'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
+                'http://cldf.clld.org/v1.0/terms.rdf#name',
+                'http://cldf.clld.org/v1.0/terms.rdf#description')
+            writer.cldf.add_table(
+                'cvalues.csv',
+                'http://cldf.clld.org/v1.0/terms.rdf#id',
+                {
+                    'datatype': {'base': 'string', 'format': '[a-zA-Z0-9_\\-]+'},
+                    'required': True,
+                    'name': 'Construction_ID',
+                },
+                'http://cldf.clld.org/v1.0/terms.rdf#parameterReference',
+                'http://cldf.clld.org/v1.0/terms.rdf#codeReference',
+                {
+                    'datatype': {'base': 'string', 'format': '[a-zA-Z0-9_\\-]+'},
+                    'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
+                    'separator': ';',
+                    'name': 'Example_IDs',
+                },
+                'http://cldf.clld.org/v1.0/terms.rdf#source',
+                'http://cldf.clld.org/v1.0/terms.rdf#value')
+
+            writer.cldf.add_foreign_key(
+                'cvalues.csv', 'Construction_ID', 'constructions.csv', 'ID')
+
+            writer.objects['constructions.csv'] = contribution_table.values()
+            writer.objects['ParameterTable'] = crossgram_parameters.values()
+            writer.objects['cvalues.csv'] = cvalues
