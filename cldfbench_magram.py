@@ -1,8 +1,44 @@
 import pathlib
-import itertools
 
 from clldutils.misc import slug
 from cldfbench import Dataset as BaseDataset, CLDFSpec
+
+
+def make_row_id(row):
+    return '{}-{}-{}-{}'.format(
+        row['Code'],
+        slug(row['Source:Form']),
+        slug(row['Target:Form']),
+        slug(row['Target:Meaning_simplified']))
+
+
+def make_language_id(row):
+    return slug(row['Language'])
+
+
+def make_contrib_id(row):
+    return slug(row['Subset'])
+
+
+def make_example(row):
+    row_id = make_row_id(row)
+    analysed = row['Example:Material'].replace(' \u0301', '\u0301')
+    analysed = analysed.strip().split()
+    gloss = row['Example:Glossing'].strip().split()
+    if len(analysed) != len(gloss):
+        print('{} - {}'.format(row_id, row['Example:Material']))
+        print('\t'.join(analysed))
+        print('\t'.join(gloss))
+        print('')
+    return {
+        'ID': row_id,
+        'Language_ID': make_language_id(row),
+        'Primary_Text': row['Example:Material'].strip(),
+        'Analyzed_Word': row['Example:Material'].strip().split(),
+        'Gloss': row['Example:Glossing'].strip().split(),
+        'Translated_Text': row['Example:Translation'],
+        # FIXME: 'Example:Reference'
+    }
 
 
 class Dataset(BaseDataset):
@@ -16,9 +52,71 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
+        raw_data = self.raw_dir.read_csv('MAGRAM_database.csv', dicts=True)
+        raw_data.sort(key=lambda row: make_language_id(row))
+
+        language_table = {}
+        for row in raw_data:
+            if (language_id := make_language_id(row)) not in language_table:
+                language_table[language_id] = {
+                    'ID': language_id,
+                    'Name': row['Language'],
+                    'Glottocode': row['Glottocode'],
+                }
+
+        contribution_table = {}
+        for row in raw_data:
+            if (contrib_id := make_contrib_id(row)) not in contribution_table:
+                contribution_table[contrib_id] = {
+                    'ID': contrib_id,
+                    'Name': row['Subset'],
+                }
+
+        concept_table = {}
+        for row in raw_data:
+            target_id = slug(row['Target:Meaning_simplified'])
+            if target_id not in concept_table:
+                concept_table[target_id] = {
+                    'ID': target_id,
+                    'Name': row['Target:Meaning_simplified'],
+                }
+            source_id = slug(row['Source:Meaning_simplified'])
+            if source_id not in concept_table:
+                concept_table[source_id] = {
+                    'ID': source_id,
+                    'Name': row['Source:Meaning_simplified'],
+                }
+
+        example_table = list(map(make_example, raw_data))
+
+        form_table = []
+        for row in raw_data:
+            row_id = make_row_id(row)
+            language_id = make_language_id(row)
+            form_table.append({
+                'ID': '{}-s'.format(row_id),
+                'Form': row['Source:Form'],
+                'Language_ID': language_id,
+                'Parameter_ID': slug(row['Source:Meaning_simplified'])})
+            form_table.append({
+                'ID': '{}-t'.format(row_id),
+                'Form': row['Target:Form'],
+                'Language_ID': language_id,
+                'Parameter_ID': slug(row['Target:Meaning_simplified'])})
+
+        path_table = [
+            {
+                'ID': (row_id := make_row_id(row)),
+                'Source_Form_ID': '{}-s'.format(row_id),
+                'Target_Form_ID': '{}-t'.format(row_id),
+                'Subset': make_contrib_id(row),
+                'Example_ID': row_id,
+            }
+            for row in raw_data]
+
         args.writer.cldf.add_component('LanguageTable')
-        args.writer.cldf.add_component('ContributionTable')
         args.writer.cldf.add_component('ParameterTable')
+        args.writer.cldf.add_component('ContributionTable')
         args.writer.cldf.add_component('ExampleTable')
         args.writer.cldf.add_columns('FormTable', 'Type')
         args.writer.cldf.add_table(
@@ -44,95 +142,10 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
             },
         )
-        concepts, contribs = set(), set()
 
-        for lid, rows in itertools.groupby(
-            sorted(
-                self.raw_dir.read_csv('MAGRAM_database.csv', dicts=True),
-                key=lambda r: slug(r['Language'])),
-            lambda r: slug(r['Language']),
-        ):
-            """
-            1 Code, 
-            2 Subset, 
-            3 Data_Source, 
-            4 Author(s), 
-            5 Macro-Area_Dryer, 
-            6 Macro-Area_Hammarström_Donohue, 
-            7 Family, 
-            8 Glottocode, 
-            9 ISO 639-3, 
-            10 Genus, 
-            11 Language, 
-            12 level_of_reconstruction_if_applicable, 
-            13 Source:Form, 
-            14 Source:Meaning, 
-            15 Source:Meaning_simplified, 
-            16 Source:Label_Group, 
-            17 Target:Form, 
-            18 Target:Meaning, 
-            19 Target:Meaning_simplified, 
-            20 Target:Label_Group, 
-            Example:Material, 
-            Example:Glossing, 
-            Example:Translation, 
-            Example:Reference, 
-            Comments, 
-            value:semantic_integrity, 
-            value:phonetic_reduction, 
-            value:paradigmaticity, 
-            value:bondedness, 
-            value:paradigmatic_variability, 
-            value:syntagmatic_variability, 
-            value:decategorization, 
-            value:allomorphy, 
-            change:semantic_integrity, 
-            change:phonetic_reduction, 
-            change:paradigmaticity, 
-            change:bondedness, 
-            change:paradigmatic_variability, 
-            change:syntagmatic_variability, 
-            change:decategorization, 
-            change:allomorphy
-            """
-            rows = list(rows)
-            row = rows[0]
-            args.writer.objects['LanguageTable'].append(
-                dict(ID=lid, Name=row['Language'], Glottocode=row['Glottocode']))
-            for row in rows:
-                rid = '{}-{}-{}-{}'.format(row['Code'], slug(row['Source:Form']), slug(row['Target:Form']), slug(row['Target:Meaning_simplified']))
-                for m in ['Target:Meaning_simplified', 'Source:Meaning_simplified']:
-                    if slug(row[m]) not in concepts:
-                        concepts.add(slug(row[m]))
-                        args.writer.objects['ParameterTable'].append(
-                            dict(ID=slug(row[m]), Name=row[m]))
-                if row['Subset'] not in contribs:
-                    contribs.add(row['Subset'])
-                    args.writer.objects['ContributionTable'].append(dict(ID=slug(row['Subset']), Name=row['Subset']))
-                args.writer.objects['FormTable'].extend([
-                    dict(ID='{}-s'.format(rid), Form=row['Source:Form'], Language_ID=lid, Parameter_ID=slug(row['Source:Meaning_simplified'])),
-                    dict(ID='{}-t'.format(rid), Form=row['Target:Form'], Language_ID=lid, Parameter_ID=slug(row['Target:Meaning_simplified'])),
-                ])
-                a = row['Example:Material'].replace(' \u0301', '\u0301').strip().split()
-                g = row['Example:Glossing'].strip().split()
-                if len(a) != len(g):
-                    print('{} - {}'.format(rid, row['Example:Material']))
-                    print('\t'.join(a))
-                    print('\t'.join(g))
-                    print('')
-                args.writer.objects['ExampleTable'].append(dict(
-                    ID=rid,
-                    Language_ID=lid,
-                    Primary_Text=row['Example:Material'].strip(),
-                    Analyzed_Word=row['Example:Material'].strip().split(),
-                    Gloss=row['Example:Glossing'].strip().split(),
-                    Translated_Text=row['Example:Translation'],
-                    # FIXME: Example:Reference
-                ))
-                args.writer.objects['paths.csv'].append(dict(
-                    ID=rid,
-                    Source_Form_ID='{}-s'.format(rid),
-                    Target_Form_ID='{}-t'.format(rid),
-                    Subset=slug(row['Subset']),
-                    Example_ID=rid,
-                ))
+        args.writer.objects['LanguageTable'] = language_table.values()
+        args.writer.objects['ParameterTable'] = concept_table.values()
+        args.writer.objects['ContributionTable'] = contribution_table.values()
+        args.writer.objects['ExampleTable'] = example_table
+        args.writer.objects['FormTable'] = form_table
+        args.writer.objects['paths.csv'] = path_table
