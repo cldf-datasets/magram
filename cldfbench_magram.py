@@ -20,12 +20,6 @@ def make_contrib_id(row):
     return slug(row['Subset'])
 
 
-def make_construction_id(row):
-    return '{}-{}'.format(
-        make_language_id(row),
-        slug(row['Target:Form']))
-
-
 def make_example(row):
     row_id = make_row_id(row)
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
@@ -134,24 +128,21 @@ class Dataset(BaseDataset):
             }
             for row in raw_data]
 
-        constructions = {}
-        for row in raw_data:
-            construction_id = make_construction_id(row)
-            if construction_id not in constructions:
-                constructions[construction_id] = {
-                    'ID': construction_id,
-                    'Language_ID': make_language_id(row),
-                    'Name': row['Target:Form'],
-                    'Description': row['Target:Meaning'],
-                }
+        constructions = [
+            {
+                'ID': row_no,
+                'Language_ID': make_language_id(row),
+                'Name': row['Target:Form'],
+                'Description': row['Target:Meaning'],
+            }
+            for row_no, row in enumerate(raw_data, 1)]
 
         cvalues = []
-        for row in raw_data:
-            construction_id = make_construction_id(row)
+        for row_no, row in enumerate(raw_data, 1):
             for col_name, parameter in crossgram_parameters.items():
                 cvalue = {
-                    'ID': '{}-{}'.format(construction_id, parameter['ID']),
-                    'Construction_ID': construction_id,
+                    'ID': '{}-{}'.format(row_no, parameter['ID']),
+                    'Construction_ID': row_no,
                     'Parameter_ID': parameter['ID'],
                     'Value': row[col_name],
                 }
@@ -227,7 +218,7 @@ class Dataset(BaseDataset):
             writer.cldf.add_foreign_key(
                 'cvalues.csv', 'Construction_ID', 'constructions.csv', 'ID')
 
-            writer.objects['constructions.csv'] = contribution_table.values()
+            writer.objects['constructions.csv'] = constructions
             writer.objects['ParameterTable'] = crossgram_parameters.values()
             writer.objects['cvalues.csv'] = cvalues
             writer.objects['ValueTable'] = []
