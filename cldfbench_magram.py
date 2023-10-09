@@ -230,3 +230,4 @@ class Dataset(BaseDataset):
             writer.objects['constructions.csv'] = contribution_table.values()
             writer.objects['ParameterTable'] = crossgram_parameters.values()
             writer.objects['cvalues.csv'] = cvalues
+            writer.objects['ValueTable'] = []
