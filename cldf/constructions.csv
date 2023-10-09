@@ -1,0 +1,993 @@
+ID,Language_ID,Name,Description
+1,abyanei,kVm-,FUTURE
+2,africanamericanvernacularenglish,done,COMPLETIVE Aspect
+3,aghul,-qaj,COMITATIVE
+4,aghul,sa,(narrative) INDEFINITE ARTICLE
+5,aghul,jči(n),INDEFINITE Pronoun marker
+6,aghul,kːanči꞊ra,INDEFINITE Pronoun ('free choice') marker
+7,aghul,=ra,negative Pronoun marker
+8,aghul,꞊ra,"marker for ""COLLECTIVE"" numerals"
+9,aghul,(a)q'as,CAUSATIVE aux
+10,aghul,-ne,AORIST
+11,aghul,"-naa, -naja, -na a, -na aa, -na aja",PERFECT
+12,aghul,-sij,IRREALIS
+13,aghul,-ʁaj,hearsay EVIDENTIALITY
+14,aghul,"-čug-, -čuk'-, -čuq'-",VERIFICATIVE
+15,aghul,"q-, qa-, qu-, qi",REPETITIVE
+16,aghul,"-guna, -gana, -guni",general TEMPORAL suffix ('converb')
+17,aghul,(-j) aq'-,CONTINUOUS
+18,aghul,(a)q'as,Pro-Verb (in Topicalization)
+19,aghul,sa,EXHAUSTIVE (discourse) particle ('only')
+20,aghul,sara,'other'
+21,aghul,sa,'same'
+22,angolar,onge,REFLEXIVE
+23,archi,-bosdub,derivational marker for ordinal numerals
+24,archi,χos,PROBABILITY (PRESUMPTIVE) aux
+25,archi,-kː-,VERIFICATIVE
+26,archi,eq'en,ALLATIVE postposition
+27,awadhi,log,PLURAL marker for animates
+28,ayacuchoquechua,-q ka,HABITUAL (compound tense)
+29,ayacuchoquechua,-na,DEONTIC construction
+30,ayacuchoquechua,huk,'other'
+31,bactrian,i,DEFINITE article
+32,balantak,men,RELATIVIZER
+33,balochi,pušt,BEHIND (adposition)
+34,balochi,"āy-, āt",CHANGE-OF-STATE (vector verb for starting of an action)
+35,balochi,V(INF)-ī ą,FUTURE
+36,balochi,V(INF)-ī int ,OBLIGATION
+37,balochi,V(INF)-ā ã,PROGRESSIVE
+38,balochi,šut,CHANGE-OF-STATE (vector verb for initiating an action)
+39,balochi,sar,up' (adposition)
+40,balochi,išt,COMPLETIVE (vector verb)
+41,balochi,(b-)il,PERMISSIVE (IRR-leave.IMP2SG)
+42,balochi,=ē,SINGULATIVE (individuation marker)
+43,balochi,guš-ī,EVIDENTIAL (say.PRS-3SG)
+44,balochi,šī,EVIDENTIAL (say.PRS.3SG)
+45,balochi,nešt,COMPLETIVE (vector verb)
+46,balochi,"zūr-, zīr- / zurt, zūrt",COMPLETIVE (vector verb for physical transfer)
+47,balochi,lōṭ-,NECESSITY
+48,balochieastern,šuθ,CHANGE-OF-STATE (vector verb for INTRANSITIVEs)
+49,balochiwestern,"āy-, āt (ki)",PROSPECTIVE (IMMEDIATE FUTURE)
+50,balochiwestern,guš-an(t),EVIDENTIAL (say.PRS-3PL)
+51,bambara,sí,"DETERMINER in negative sense 'nothing, none'"
+52,bambara,cɛ́,SPATIAL postposition 'between'
+53,bambara,bóló ,"under the responsibility of', 'in the personal sphere of' (postposition)"
+54,bambara,kɔ́,"TEMPORAL/SPATIAL postposition 'behind','after'"
+55,bambara,kɔ́nɔ́,SPATIAL postposition 'in'
+56,bambara,kǔn ,SPATIAL postposition 'on'
+57,bambara,ɲɛ́,"SPATIAL postposition 'in front of', 'before'"
+58,bambara,kà bɔ́,preposition 'starting from'
+59,bambara,kà táa ,preposition 'until'
+60,bambara,à tìgî,emphatic third person PRONOUN ('the person in question')
+61,bambara,lá-,CAUSATIVE (prefix (indirect causation))
+62,bambara,bìlá ,PERMISSIVE CAUSATION aux
+63,bambara,ɲɔ́gɔ́n ,RECIPROCAL PRONOUN 
+64,bambara,yé,COMPLETIVE predicative marker in TRANSITIVE constructions
+65,bambara,bán,'already' (particle in postverbal position)
+66,bambara,sín,INCHOATIVE aux
+67,bambara,ɲíní ,"IMMINENCE aux 'come close to, be about to'"
+68,bambara,sègín ,REPETITIVE aux 
+69,bambara,tó ,CONTINUATIVE/HABITUAL aux
+70,bambara,tílá ,aux meaning 'eventually'
+71,bambara,ká,HORTATIVE/SUBJUNCTIVE modal markers 
+72,bambara,kànâ,PROHIBITIVE marker 
+73,bambara,sé ,POSSIBILITY MODAL aux 
+74,bambara,kán ,OBLIGATION MODAL aux
+75,bambara,ná ,FUTURE
+76,bambara,kàbíní ,"TEMPORAL SUBORDINATOR 'when', 'since'"
+77,bambara,sání,TEMPORAL SUBORDINATOR
+78,bambara,ní ,SUBORDINATOR 'if'
+79,bambara,sábú ,CAUSAL SUBORDINATOR 'because'
+80,bambara,dǎn,'only'
+81,bambara,ko,SIMILE
+82,bambara,mùsó,FEMALE (derivational suffix)
+83,bambara,kélén,'alone' (adnominal particle)
+84,bambara,dɔ́,INDEFINITE (determiner)
+85,bambara,dɔ́,INDEFINITE PRONOUN
+86,bambara,kélén,only (adnominal particle)
+87,bambara,dɔ́,'other'
+88,bambara,kélén,'same'
+89,bambara,féŋóofèŋ,INDEFINITE PRONOUN
+90,bambara,sé,ABILITY (aux verb)
+91,bambara,-nin,DIMINUTIVE (derivational suffix)
+92,bambara,bóló,AGENT (postposition)
+93,bambara,bóló,H-POSSESSIVE (postposition 'at' + LOC COP)
+94,bambara,-kɛ,MALE (derivational suffix)
+95,bardi,-ng(a),COMITATIVE APPLICATIVE
+96,bardi,jina,COPULA (POSSESSIVE)
+97,bataviacreole,kung,ACCUSATIVE/DATIVE marker
+98,bataviacreole,dja,PERFECTIVE
+99,beja,baruːk,'you (SG)' (personal PRONOUN)
+100,beja,(i=)kna(=ji),adnominal INTENSIFIER
+101,beja,(i=)kna,adverbial INTENSIFIER (for predicate or entire phrase)
+102,beja,(i=)kna,attributive POSSESSION marker
+103,beja,gali,INDEFINITE PRONOUN
+104,beja,-ani,"""V2-conjugation"" marker (IMPERFECTIVE)"
+105,beja,hi,APPLICATIVE marker
+106,beja,=wa,PERFECT
+107,beja,ak,PERFECT
+108,beja,harʔa baj,phasal CONTINUATIVE aspect
+109,beja,bʔa,phasal TERMINATIVE aux
+110,beja,-d-,INTENTION
+111,beja,"ø, jʔ",POSSIBILITY
+112,beja,na,COMPLEMENTIZER (mostly: REL.F + the thing)
+113,beja,di,FUTURE aux
+114,beja,gad,IMMEDIATE FUTURE
+115,beja,dʔi-,Emphatic constructions
+116,beja,-ni:n,Emphatic constructions
+117,beja,rib,CONTRASTIVE NEGATION aux
+118,beja,ʔas,aux 'upwards'
+119,beja,o:n mari(-i),Centripetal Movement (lit. 'in our direction')
+120,beja,=t,RELATIVIZER
+121,beja,ti=,RELATIVIZER
+122,beja,w= + =e:b,RELATIVIZER
+123,beja,=hoːb,TEMPORAL marker 'when'
+124,beja,doːr,TEMPORAL marker 'when'
+125,beja,(=eːb) hadiːd,until'
+126,beja,(=eːb) oː=kiːk,until'
+127,beja,=uːk,CONDITIONAL (doubt)
+128,beja,=eːk,CONCESSION
+129,beja,dhaːj,PURPOSE SUBORDINATOR
+130,beja,mi-jaːd,PURPOSE
+131,beja,geːb,next to' (SPATIAL postposition)
+132,beja,han,polar QUESTION marker
+133,beja,"hoːk, =hoːk",INTENSIFIER
+134,beja,eːn,DISCOURSE marker (for the end of discursive unit in narratives and poetry)
+135,beja,beːti,SPATIAL postposition 'towards' (ALLATIVE)
+136,beja,naː,question words
+137,bhojpuri,man,PLURAL marker for animates
+138,bhojpuri,sab,PLURAL marker for inanimates
+139,bhojpuri,bāt̩,PRESENT
+140,bhojpuri,rahnā, PAST ('IMPERFECT')
+141,bhojpuri,t̩ho ,CLASSIFIER
+142,bislama,finis,COMPLETIVE Aspect
+143,bolivianquechua,tiya-,"EXISTENTIAL ('to be', 'to live')"
+144,brazilianportuguese,viver,HABITUAL
+145,budugh,vowel change in stem (low back V to high front V),CAUSATIVE
+146,bulgarian,šte,FUTURE aux/PARTICLE
+147,bulgarian,da,IRREALIS marker (verbal proclitic)
+148,catalan,anar,ANDATIVE
+149,catalan,acabar,COMPLETIVE (aux)
+150,catalan,ir,PAST
+151,cherokee,t(a)-,FUTURE
+152,chorasmian,=k,POTENTIAL (particle)
+153,creolese,matii,RECIPROCAL
+154,croatianserbian,nemoj,PROHIBITIVE aux
+155,croatianserbian,da,COMPLEMENTIZER
+156,czech,dostat,recipient PASSIVE
+157,dakhinihindi,āpan,PERSONAL PRONOUN (1 person inclusive) 
+158,dakhinihindi,so,RELATIVIZER
+159,dakhinihindi,bolke,QUOTATIVE marker
+160,diuindoportuguese,tud,PLURAL
+161,diuindoportuguese,del,POSSESSIVE PRONOUN
+162,diuindoportuguese,pə,DATIVE marker
+163,earlyjudeopersian,be-,FUTURE
+164,earlysranan,de,PROGRESSIVE
+165,eastkhantic,-na,ERGATIVE case
+166,ecuadorianquichua,-gri-,purpose of motion (associated motion)
+167,emai,égbè,RECIPROCAL PRONOUN 
+168,emai,égbè,REFLEXIVE PRONOUN
+169,emai,ɔ̀kpá,exhaustive (discourse) particle ('only')
+170,emai,ɛ́kɛ́ìn,inside'
+171,emai,òtɔ̀ì,(on the) bottom of'
+172,emai,khì,('correlative') conjunction
+173,emai,ye,DATIVE/ALLATIVE marker/prep.
+174,emai,gbe,against' ('momentary impact')
+175,emai,gɔn,against' ('oblique contact')
+176,emai,khuan,onto' ('suspended attachment')
+177,emai,baa,(on)to/against' ('affixed attachment')
+178,emai,ze,"in, into' ('inclusive attachment')"
+179,emai,gbe,'too much' ('excessive quantitive achievement')
+180,emai,fee ghoo,"try, feign, pretend' ('cancel event occurence')"
+181,emai,re,VENITIVE
+182,emai,ba kun,in vain' (deactivate event fulfilment: adverbial)
+183,emai,so,to the end/top' ('terminal achievement'; postverbal)
+184,emai,dobɔ̀,emphatic subject REFLEXIVE
+185,emai,degbè,carefully
+186,emai,gba,together' ('COLLECTIVE')
+187,emai,zemi,a lot' ('absolute quantitative intensification')
+188,emai,dabɔ̀,deliberately'
+189,emai,u ,Pro-Verb
+190,emai,úhùnmì,'up'
+191,emai,ɔ́mɔ̀hè,MALE
+192,emai,ɔ̀kpá,'same'
+193,emai,rɛ,CAUSATIVE
+194,emai,émì,INDEFINITE Pro
+195,emai,òkpòsò,FEMALE
+196,estonian,-va(-t),"""oblique mood"" (EVIDENTIAL)"
+197,estonian,=ga,COMITATIVE
+198,even,-du,DATIVE-LOCATIVE
+199,even,"-w,-u,-bu",POSSESSIVE AGREEMENT (here: 1SG)
+200,even,"-w-, -m-",PASSIVE voice
+201,even,-ne-,VENTIVE
+202,even,ba-,MODALITY marker (‚not want')
+203,even,-l,PLURAL
+204,even,-gi.li,COMITATIVE ('by the side of')
+205,even,-lA,LOCATIVE
+206,even,-gA,DESIGNATIVE Case
+207,even,-ndu,numeral CLASSIFIER
+208,even,noŋan,3SG PRONOUN
+209,even,-wkAn,CAUSATIVE
+210,even,-d'-,PROGRESSIVE
+211,even,-sči-,DESIDERATIVE
+212,even,-k(A),PREVENTIVE
+213,even,-dA,(distant) IMPERATIVE
+214,even,-m ,(Verbal) Subject AGREEMENT (here: 1SG)
+215,even,-d'i-,FUTURE
+216,evenki,-soo-,ATTENUATIVE
+217,finnish,"-ta-, -t.ta-",VERBALIZER
+218,finnish,"-a, -ä",INFINITIVE marker
+219,finnish,-ke-,Deriving Adj from Verbals
+220,finnish,-mpa,COMPARATIVE
+221,finnish,-i,CONDITIONAL mood
+222,finnish,< -' >,IMPERATIVE (2SG)
+223,finnish,saa(-kka),postposition 'until'
+224,finnish,lie-,POTENTIALIS
+225,finnish,=kO,INTERROGATION
+226,finnish,yksi,INDEFINITE article
+227,finnish,-ssA (?),INESSIVE case
+228,french,allons,HORTATIVE (invariable) (1st person plural)
+229,french,on,INDEFINITE PRONOUN
+230,garhwali,le/-l,ERGATIVE case marker
+231,garhwali,"bāt̩i, bāt̩",ABLATIVE
+232,garhwali,bal,QUOTATIVE marker
+233,german,von,attributive POSSESSION (preposition)
+234,german,der,DEFINITE ARTICLE
+235,german,(ge-...-t) werden ,PASSIVE aux
+236,german,(ge-...-t) haben,PAST
+237,german,werden,FUTUTRE aux
+238,german,würde,SUBJUNCTIVE (periphrastic SUBJUNCTIVE)
+239,german,zu,PURPOSE preposition
+240,german,zu,INFINITIVE marker
+241,german,dass,COMPLEMENTIZER (with finite clauses)
+242,german,welcher,RELATIVIZER (RELATIVE PRONOUN)
+243,german,der,RELATIVIZER (RELATIVE PRONOUN)
+244,german,wo,adverbial clause marker
+245,german,doch,MODAL particle (implying shared knowledge)
+246,german,bekommen,PASSIVE aux (recipient passive)
+247,german,kriegen,'succeed'
+248,german,Mann,EXCLAMATION
+249,german,man,INDEFINITE PRONOUN
+250,german,ein,INDEFINITE article (here: masculine)
+251,german,ein(-er),INDEFINITE PRONOUN (-NOM.SG.M)
+252,german,Sie,'you' (PERSONAL PRONOUN 2SG/PL HONORIFIC)
+253,german,sich,ANTICAUSATIVE
+254,guadelopeancreole,mwen,OBJECT PRONOUN
+255,guineabissaukriyol,utru,INDEFINITE ARTICLE
+256,guyanais,kompannyen,RECIPROCAL
+257,haitiancreole,=la,DEFINITE ARTICLE
+258,haitiancreole,ap,PROGRESSIVE
+259,haitiancreole,konn,HABITUAL
+260,haitiancreole,yo,PLURAL (particle)
+261,hindi,apne,REFLEXIVE 'self'
+262,hindi,āp,PERSONAL PRONOUN (2. person HONORIFIC)
+263,hindi,apnī,"FOCUS, EMPHATIC marker (of possessor)"
+264,hindi,kā,GENITIVE marker
+265,hindi,ko,DATIVE case marker
+266,hindi,ko,ACCUSATIVE case marker
+267,hindi,se,ABLATIVE 
+268,hindi,ne,ERGATIVE case marker
+269,hindi,dvārā,'by (means of)'
+270,hindi,honā,INTRANSITIVE/MEDIO-PASSIVE marker
+271,hindi,karnā,TRANSITIVITY/CAUSATIVE marker
+272,hindi,denā,PERMISSIVE CAUSATION aux
+273,hindi,jānā,PASSIVE voice marker (transitive and intransitive)
+274,hindi,-gā,FUTURE (suffix)
+275,hindi,rahnā,DURATIVE continuative
+276,hindi,rahnā,PROGRESSIVE 
+277,hindi,karnā,HABITUAL /FREQUENTATIVE
+278,hindi,cuknā,TERMINATIVE
+279,hindi,lagnā,INCHOATIVE
+280,hindi,paṛnā,"constraining OBLIGATION ('be obliged to, have to')"
+281,hindi,honā,Specific DEONTIC OBLIGATION 'must'
+282,hindi,saknā,"default POSSIBILITY 'can, may'"
+283,hindi,pānā,"POSSIBILITY mood ""can"" ""succeed"""
+284,hindi,ānā,"ABILITY mood ""be able""  "
+285,hindi,ki,alternative QUESTION marker ('or')
+286,hindi,pīcche,behind (SPATIAL postposition)
+287,hindi,to,"CONJUNCTION ('then, so')"
+288,hindi,to,TOPIC (Contrastive topic particle)
+289,hindi,to,RELATIVIZER (Correlative after a relative)
+290,hindi,"-kar, -ke",CONVERB marker
+291,hindi,cāhie,"OBLIGATION ""should"""
+292,hindi,pās,near (SPATIAL postposition)
+293,hoocak,"=nįk, =įk",DIMINUTIVE marker
+294,hoocak,=ra,DEFINITE ARTICLE
+295,hoocak,=(h)ižą,INDEFINITE ARTICLE
+296,hoocak,=že/=še,QUOTATIVE marker
+297,hoocak,=ga,SUBORDINATOR (CONTINUATIVE)
+298,hoocak,=re,IMPERATIVE marker
+299,hoocak,=re,ADVERBIALIZER (TEMPORAL)
+300,hoocak,eeja,general LOCATIVE postposition
+301,hoocak,-wi,PLURAL marker (SAP)
+302,hoocak,"wąągá-, wąągá-...-wi",first person DUAL/PLURAL (inclusive) UNDERGOER prefix
+303,hoocak,'ee,"PERSONAL PRO (3rd person, emphatic)"
+304,hoocak,ru-,INSTRUMENTAL prefix ('by hand')
+305,hoocak,-he,CONTINUATIVE aspect
+306,hoocak,=ži,FOCUS marker
+307,hoocak,=gi,TOPIC marker
+308,hoocak,='ų,SUBORDINATOR (SIMULTANITY)
+309,hoocak,=(h)ak/=(h)ąk,CONTINUATIVE aspect
+310,hoocak,=ke,FREQUENTATIVE
+311,hoocak,-wį,FEMALE (sexus marker for proper names)
+312,hoocak,=ga,PROPER NAME marker
+313,huanca,"-kaʔ, -ka:",DEFINITE DETERMINER
+314,hungarian,-(V)n,SUPERESSIVE
+315,hungarian,fog,FUTURE aux
+316,hungarian,bel-,"inside, interior'"
+317,hungarian,=kor,TEMPORAL marker
+318,hungarian,a/z,DEFINITE article
+319,italian,dove,RELATIVIZER
+320,italian,quando,marker of adverbial  (temporal) clause
+321,italian,arrivare,succeed'
+322,italian,arrivare,ABILITY
+323,italian,"lui, egli","personal pronoun, 3SG.M"
+324,italian,fare,pro-verb
+325,italian,andare,change of state 
+326,italian,andare,HABITUAL
+327,italian,ci,personal pronoun '(to) us/ourselves'
+328,italian,veder-si (+V),"PASSIVE (+ PAST.PARTICIPLE/INF) (e.g., si vide. RFL see.PST.3SG/si videro RFL see.PST.3PL)"
+329,jamaican,wehn,PAST
+330,japhug,=ni,DUAL clitic
+331,japhug,ɯ-ɕki,(3SG-) DATIVE marker
+332,japhug,pɯpɯŋunɤ,delimitive TOPIC marker
+333,japhug,jiɕqha,aforementioned TOPIC marker
+334,japhug,rcanɯ,UNEXPECTEDNESS marker
+335,japhug,"ɕɯ-, ɕ-, s-, z-",ANDATIVE prefix
+336,japhug,ɣɯ-,VENITIVE prefix
+337,japhug,rɤ-,ANTIPASSIVE voice marker
+338,japhug,"pɯ-, pjɤ-",PAST IMPERFECTIVE marker
+339,japhug,ɲɯ-,SENSORY prefix (EVIDENTIAL: knowledge mediated through observation or second hand)
+340,japhug,ku-,EGOPHORIC prefix (EVIDENTIAL: personally experienced knowledge)
+341,japhug,me,alternative CONJUNCTION 'whether'
+342,japhug,ɯspa,PURPOSIVE linker (SUBORDINATOR)
+343,japhug,nɯmga,PURPOSIVE linker (SUBORDINATOR)
+344,japhug,núndʐa,CAUSAL SUBORDINATOR ('for this reason')
+345,japhug,-ʑo,INTENSIVE(-REFLEXIVE)
+346,japhug,-ʑɣɤ-,REFLEXIVE
+347,japhug,-pɯ,DIMINUTIVE
+348,japhug,apɯŋu,CONDITIONAL (SUBORDINATOR)
+349,japhug,ŋu,FOCUS
+350,japhug,nɯ,PERSONAL PRO (3rd person)
+351,japhug,sɯβzu,periphrastic CAUSATIVE
+352,japhug,ɯ-rca,COMITATIVE
+353,japhug,tɯrme,INDEFINITE PRONOUN
+354,jubaarabic,amulu,CAUSATIVE
+355,jula,tá,GENITIVE (alienable) postposition
+356,ket,-a,DATIVE
+357,ket,-an,CARITIVE case marker
+358,ket,=bal=,between' (postposition)
+359,ket,=ʌʌd=,top of 
+360,ket,-ŋ,Adjective PLURAL AGREEMENT marker
+361,ket,ø,INFINITIVE
+362,ket,-(V)ŋ,Event PLURALITY
+363,ket,-ja- + -aj,STATIVE-RESULTATIVE Circumfix
+364,ket,-jə,3rd PERSON AGREEMENT marker
+365,ket,-ŋ,"PLURAL, PLURACTIONAL marker"
+366,ket,-in,PAST
+367,ket,-iŋ,ITERATIVE
+368,ket,qān,OPTATIVE
+369,ket,sim,CONDITIONAL
+370,ket,qam,PROX FUTURE
+371,ket,-bɛt,ITERATIVE for transitive verbs
+372,ket,-k-,TRANSITIVIZER for motion verbs
+373,ket,-q-...-it,(INCEPTIVE) CAUSATIVE
+374,ket,-du,Nominal Subject AGREEMENT Suffix
+375,ket,-kupka,subordinate clause suffix (temporal subordinator)
+376,ket,bila,COMPLEMENTIZER
+377,ket,qorɛ,RELATIVIZER
+378,khmer,dɔl,ALLATIVE
+379,khmer,dɔl,until'
+380,khmer,dɔl,TEMPORAL adverbial
+381,khmer,khlu:ǝn,INTENSIFIER-REFLEXIVE
+382,khmer,mɔ̀:k,VENITIVE (DIRECTIONAL verb)
+383,khmer,mɔ̀:k,preposition indicating DIRECTION to GOAL near speaker
+384,khmer,cì:ǝ,"in the function of, as' (preposition)"
+385,khmer,cì:ǝ,COMITATIVE marker 
+386,khmer,cì:ǝ,CONCESSIVE
+387,khmer,cì:ǝ,"derivational marker (of many adverbs, ""ADVERBIALIZER"")"
+388,khmer,cì:ǝ,QUOTATIVE marker
+389,khmer,nùh,DEFINITENESS
+390,khmer,thvɤ̀,CAUSATIVE
+391,khmer,cɔp,COMPLETIVE
+392,khmer,rù:ǝc,CONSECUTIVE
+393,khmer,haǝy,PERFECTIVE
+394,khmer,haǝy(-nɯ̒ŋ),COORDINATIVE particle 'and'
+395,khmer,ta:m,ACCORDING TO (preposition)
+396,khmer,ta:m,SPATIAL ALONG/PATH
+397,khmer,ta:m,INSTRUMENTAL (used only with vehicles)
+398,khmer,daoy,INSTRUMENTAL (general)
+399,khmer,daoy,MATERIAL (in the sense of 'made of')
+400,khmer,daoy,adverbial SUBORDINATOR: CAUSE
+401,khmer,daoy,"marker of adverbials (""ADVERBIALIZER"")"
+402,khmer,ba:n,ABILITY
+403,khmer,ba:n,PAST
+404,khmer,ba:n,PERMISSIVE
+405,khmer,ba:n,POSSIBILITY
+406,khmer,ba:n,succeed'
+407,khmer,Ɂaoy,BENEFACTIVE (preposition)
+408,khmer,Ɂaoy,CAUSATIVE
+409,khmer,Ɂaoy,DATIVE
+410,khmer,Ɂaoy,PURPOSE
+411,khmer,Ɂaoy,MANNER
+412,khmer,Ɂaoy,COMPLEMENTIZER
+413,khmer,tɤ̀u,ANDATIVE (DIRECTIONAL verb)
+414,khmer,tɤ̀u,HORTATIVE
+415,khmer,tɤ̀u,ALLATIVE
+416,khmer,tɤ̀u,INCREMENTAL DEVELOPMENT
+417,khmer,kba:l,CLASSIFIER
+418,khmer,ceɲ,EGRESSIVE (DIRECTIONAL verb)
+419,khmer,nɤ̀u,CONTINUOUS
+420,khmer,nɤ̀u,LOCATIVE preposition
+421,khmer,mù:ǝy,INDEFINITNESS
+422,khmer,cì:ǝmù:ǝynɯ̒ŋ,'together'/COMITATIVE
+423,khmer,tha:,QUOTATIVE marker
+424,khmer,kha:ŋ-,LOCATIVE marker (prefix of relational noun)
+425,khmer,yɔ̀:k,INSTRUMENTAL marker
+426,khmer,rǝbɔh,POSSESSION marker
+427,kitamaninka,-nín,PERFECT suffix (for inTRANSITIVE)
+428,kitamaninka,nànín,PERFECT predicative marker (for TRANSITIVE)
+429,kitamaninka,tèré,PAST
+430,korean,mali,CLASSIFIER (for animals!)
+431,korean,-uy,GENITIVE
+432,korean,-ey,DATIVE/LOCATIVE
+433,korean,-kkeyse,NOMINATIVE (Honorific)
+434,korean,kutuy,Pers PRON 2SG HON
+435,korean,-pwuthe ,ABLATIVE (postposition)
+436,korean,-(ul)kac(i)ko ,INSTRUMENTAL
+437,korean,-(ul)wihay ,BENEFACTIVE
+438,korean,-cocha,Counterexpectation' ('[not] even')
+439,korean,-mace ,Counterexpectation
+440,korean,-(i)nama ,Dissatisfaction (delimiting particle)
+441,korean,-(ul/ey) ttala,"along, according to'"
+442,korean,kes,NOMINALIZER
+443,korean,sosin,Pers PRON 1SG HUM
+444,korean,imca,Pers PRON 2SG HON
+445,korean,-key.ha-,CAUSATIVE
+446,korean,-pat-,PASSIVE
+447,korean,-e.ci- ,PASSIVE
+448,korean,-ko.iss-,PROGRESSIVE
+449,korean,-e.ci- ,INCHOATIVE
+450,korean,-e.ka-,ANDATIVE (PROGRESSIVE)
+451,korean,-kon.ha-,HABITUAL
+452,korean,-e.mek-,COMPLETIVE Aspect
+453,korean,-ko.siph-,DESIDERATIVE
+454,korean,-ko.iss-,RESULTATIVE (+HON)
+455,korean,-l.ppen.ha-,AVERTIVE
+456,korean,-myen.an.toy-,PROHIBITIVE
+457,korean,-nun.pep.i-,OBLIGATION
+458,korean,-myen.toy-,SUGGESTIVE
+459,korean,-l.swu(to).iss-,POSSIBILITY
+460,korean,thullim.eps-,CERTAINTY
+461,korean,-l.they-,(strong) INTENTION
+462,korean,-lkka.po-,(tentative) INTENTION
+463,korean,-lye(ko)ha-,INTENTION
+464,korean,-l.tus.ha-,Inferential EVIDENTIALITY
+465,korean,-eys-,PAST
+466,korean,-l.kesi-,FUTURE
+467,korean,-lkkapwa,PREVENTIVE (APPREHENSIONAL)
+468,korean,-si-,subject honorification
+469,korean,"-sAp-, -zAp-, -cAp, -Ap-",addressee honorification 
+470,korean,-tako ,COMPLEMENTIZER (Declarative)
+471,korean,-l kes,COMPLEMENTIZER
+472,korean,-n,RELATIVIZER (Participle-formant)
+473,korean,-ntey,Cause/Reason Subordinator
+474,korean,cikyeng,"NOMINALIZER (state of x [undesirable situation]), mermaid construction"
+475,korean,-ketun,TOPIC PRESENTATION
+476,korean,-n.twiey,after (TEMPORAL Conjunction)
+477,korean,-(uy).twiey,Behind (Spatial postposition)
+478,korean,"-aci,-akwi ",DIMINUTIVE SUFFIX
+479,korean,-e.o-,CONTINUATIVE aux
+480,korean,i-,COPULA
+481,korean,-(e)ya.ha-,OBLIGATION MODAL aux
+482,korean,ha-,Pro-Verb
+483,korean,-e.cwu-,BENEFACTIVE
+484,korean,-e.ka-,Change-of-State
+485,korean,son,CLASSIFIER (handful)
+486,korean,-meli,PEJORATIVE (Derivational Suffix)
+487,korean,e.noh-,COMPLETIVE (aux)
+488,korean,i.salam,Pers Pro 3SG
+489,korean,han,identicality ('same')
+490,korean,han,"APPROXIMATIVE quantifier ('about', 'some')"
+491,korean,-poko,ALLATIVE postposition
+492,korean,-pota,COMPARATIVE marker ('than')
+493,korean,-ko.ancass,HABITUAL aux
+494,korean,-e.kacko,Cause/Reason subordinator
+495,korean,-l.key,Promissive ('sentence-ender')
+496,korean,-na/kka.siph-  ,Inferential EVIDENTIALITY
+497,korean,-tasiphi,Similative connective ('as')
+498,korean,-chelem ,Similative
+499,korean,(-uy) yephey,"LOCATIVE postposition (near, next to, at)"
+500,kott,-(ŋ)ha:t,LOCATIVE case Suffix
+501,kott,"-aŋ, -u, -toŋ, -oŋ",Verbfinal Subject AGREEMENT
+502,koyaga,kó,INTENTION MODAL aux
+503,kryz,liji,derivational marker for ordinal numerals
+504,kryz,vujiz,CAUSATIVE aux
+505,kryz,-ra ʕaǯa,PROGRESSIVE
+506,kryz,-ija,FUTURE
+507,kurdishkurmanji,-ek,INDEFINITE
+508,kurdishsorani,-ak,DEFINITE article/marker
+509,lezgian,xajit'a꞊ni ,INDEFINITE Pronoun marker
+510,lezgian,sa ,reinforced negative Pronoun
+511,lezgian,xun,ANTICAUSATIVE
+512,lezgian,-na,AORIST
+513,lezgian,-nwa,PERFECT
+514,lezgian,-zma,CONTINUATIVE PRESENT
+515,lezgian,-lda,hearsay EVIDENTIALITY
+516,lezgian,(-t'a) akːʷ-,VERIFICATIVE
+517,lezgian,"q(i)-, χ(u)-, -χ-",REPETITIVE
+518,lezgian,-z,INFINITIVE
+519,lezgian,luhuz,COMPLEMENTIZER
+520,lezgian,pataldi,BENEFACTIVE postposition
+521,lowersorbian,daś,HORTATIVE
+522,lowersorbian,daś,EXISTENTIAL COPULA
+523,luri,-gal,PLURAL suffix
+524,macedonian,-ov,Enclitic ARTICLE
+525,macedonian,neka,concessive (conjunction)
+526,makassarese,-a,DEFINITE article
+527,manchu,-ŋgi,DIRECTIONAL
+528,mandarin,bǎ < 把 >,"coverb, CAUSATIVE marker, disposal marker, etc."
+529,mandarin,bǎ < 把 >,numeral CLASSIFIER
+530,mandarin,bèi < 被 >,"PASSIVE marker, coverb"
+531,mandarin,wán < 完 >,RESULTATIVE complement ('-finish')
+532,mandarin,-le <了 >,PERFECTIVE suffix
+533,mandarin,le <了 >,sentence-final PERFECT particle
+534,mandarin,-zhe < 着 >,"DURATIVE suffix, IMPERFECTIVE suffix"
+535,mandarin,zài < 在 >,LOCATIVE preposition
+536,mandarin,zài < 在 >,PROGRESSIVE aspect marker
+537,mandarin,-guo < 过(過) >,EXPERIENTIAL aspect suffix
+538,mandarin,dào < 到 >,RESULTATIVE complement
+539,mandarin,dào < 到 >,"preposition/coverb 'until, til'"
+540,mandarin,yào < 要 >,"modal auxiliary (dynamic, deontic, epistemic)"
+541,mandarin,yào < 要 >,FUTURE auxiliary
+542,mandarin,néng < 能 >,"modal auxiliary (dynamic, deontic, epistemic)"
+543,mandarin,gěi < 给 >,"preposition/coverb 'to, for'"
+544,mandarin,gěi < 给 >,"CAUSATIVE, PASSIVE"
+545,mandarin,lái < 来 >,VENITIVE DIRECTIONAL marker
+546,mandarin,shŏu < 手 >,numeral CLASSIFIER
+547,mandarin,shì < 是 >,"COPULA (& FOCUS marker, verbal anaphor 'be so')"
+548,mandarin,yi <一 >,"all, whole'"
+549,mandarin,jiàn < 见 >,RESULTATIVE complement 
+550,mandarin,rén < 人 >,pronoun (3rd or 1st)
+551,mandarin,tóu < 头 >,numeral CLASSIFIER
+552,mandarin,qù < 去 >,VENITIVE DIRECTIONAL marker
+553,mandarin,de < 得 >,POTENTIAL marker 
+554,mandarin,gēn < 跟 >,COMITATIVE marker 
+555,mandarin,gēn < 跟 >,"preposition/coverb 'behind, following' (in 'gēn-zhe')"
+556,mandarin,huì < 会(會) >,modal auxiliary (epistemic NECESSITY > FUTURE)
+557,mandarin,shēn < 身 >,numeral CLASSIFIER
+558,mandarin,gè < 个 >,general numeral CLASSIFIER
+559,mandarin,shàng < 上 >,postposition or relational noun (for time/space marking)
+560,mandarin,shàng < 上 >,RESULTATIVE (PERFECTIVE) complement
+561,mandarin,bèi < 背 > ,preposition/coverb 'with back to' (in 'bèi-zhe')
+562,mandinka,-lú,PLURAL suffix
+563,mandinka,lá,GENITIVE (alienable) postposition
+564,mandinka,=ò,(default clitic) DETERMINER
+565,mandinka,=ŋ̀,(default clitic) DETERMINER
+566,mandinka,à,DEFINITE marker ('the N in question')
+567,mandinka,dóo,INDEFINITE determiner 'some'
+568,mandinka,bálá ,'in contact with' (postposition)
+569,mandinka,yǎa,SPATIAL postposition ('at N's place')
+570,mandinka,kɔ́rɔ́ ,SPATIAL postposition 'under'
+571,mandinka,lá ,multifunctional postposition (e.g. INSTRUMENTAL)
+572,mandinka,kó,conjunction/preposition 'like'
+573,mandinka,-ndí,CAUSATIVE
+574,mandinka,-rí,ANTIPASSIVE /NOMINALIZER suffix
+575,mandinka,kà,INCOMPLETIVE marker (HABITUAL situation)
+576,mandinka,bòyí,INCHOATIVE aux
+577,mandinka,kó,IMMINENCE aux 'be about to'
+578,mandinka,nǔŋ,PAST
+579,mandinka,"ŋà, ŋá",person AGREEMENT marker
+580,mandinka,-lá ,non-finite verbal suffix (COMPLEMENTIZER of MODAL verbs)
+581,mandinka,kó,COMPLEMENTIZER
+582,mandinka,"mɛ̂n, mîn ",RELATIVIZER
+583,mandinka,dóróŋ,TEMPORAL SUBORDINATOR 'as soon as'
+584,mandinka,à yè à tàrá,SUBORDINATOR 'whereas'
+585,mandinka,kó,"saying that', 'under the pretext that', 'on the ground that' (quotative subordinator)"
+586,mandinka,fó,OBLIGATION marker
+587,mandinka,nǎŋ,centripetal marker
+588,mandinka,yé,COPULA
+589,mandinka,fó,'except'
+590,mandinka,fó,INTERROGATIVE marker
+591,mandinka,ko,PURPOSE (conjunction)
+592,mandinka,nǎŋ,VENITIVE (adverb)
+593,mandinka,sòtó,H-POSSESSIVE (verb)
+594,mandinka,làfí,INTENTION (aux verb)
+595,mandinka,làfí,PROXIMATIVE (aux verb)
+596,maninkamori,"bárá, bádá",PERFECT predicative marker
+597,maninkamori,"bárá, bádá",COMPLETIVE (TAM-marker)
+598,mauritiancreole,"avek, ek",DATIVE (particle)
+599,mian,=e,DEFINITE ARTICLE
+600,mian,dim,'on' (SPATIAL/TEMPORAL)
+601,mian,be-,'keep doing'
+602,mian,-bi,CONTINUATIVE
+603,mian,-so,HESTERNAL PAST
+604,mian,-ub,APPLICATIVE
+605,mian,-ib,SUBJ AGREEMENT (2./3.PL.) suffix
+606,mian,-b,SWITCH-REFERENCE
+607,mian,tem,SPATIAL marker 'in'
+608,mian,-daa,LOCATIVE
+609,mian,deibo᷈,COMPLETIVE
+610,mian,-lo,PERFECTIVE
+611,mian,-bio,(NON-HESTERNAL) PAST
+612,mian,dim=o bi,(predicative) POSSESSION marker
+613,mian,dǎang,'behind' (adposition)
+614,mian,é,PERSONAL PRO (3rd person)
+615,mian,naka,MALE (uninflected modifier)
+616,mian,unǎng,FEMALE (uninflected modifier)
+617,mian,ge,QUOTATIVE
+618,middlepersian,kū,COMPLEMENTIZER
+619,middlepersian,kām-,FUTURE
+620,mohawk,=okon'a,PLURAL (allomorph)
+621,mohawk,=kó:wa,Augmentative
+622,mohawk,"ne, n",DEFINITE ARTICLE
+623,mohawk,-at-,MEDIO-PASSIVE (middle voice)
+624,mohawk,-awi,BENEFACTIVE (HABITUAL)
+625,mohawk,-ni,BENEFACTIVE
+626,mohawk,-hst,CAUSATIVE
+627,mohawk,-akon,"LOCATIVE ('in, into')"
+628,mohawk,-akon,derivational marker (for places)
+629,mohawk,-kwé:ni',(internal ABILITY) modal marker 
+630,mohawk,ne,COMPLEMENTIZER
+631,mohawk,hkw-,APPLICATIVE
+632,mohawk,ia:ken,EVIDENTIAL (hearsay)
+633,mori,ondae,associative PLURAL marker (with personal names and kin terms)
+634,nanai,"-e-, -a-",NEG suffix
+635,nanai,"-sal, -sel",PLURAL
+636,nanai,=(j)Am,QUOTATIVE (enclitic)
+637,negerhollands,lo,FUTURE
+638,negerhollands,kā,COMPLETIVE Aspect
+639,newpersian,=rā,marker (clitic) of DEFINITE direct objects
+640,newpersian,=rā,FOCUS marker (clitic)
+641,newpersian,-hā,PLURAL suffix
+642,newpersian,=e,“ezâfe” (clitic linking head noun to depending elements)
+643,newpersian,mī-,PRESENT tense affix
+644,newpersian,be-,"modal prefix, today SUBJUNCTIVE"
+645,newpersian,dār-,'have'
+646,newpersian,tan,INTENSIVE-REFL
+647,newpersian,rav-,PROXIMATIVE
+648,newpersian,šod,PASSIVE (MEDIO-PASSIVE light verb)
+649,newpersian,xwāh,FUTURE
+650,newpersian,xwāh,PROXIMATIVE
+651,newpersian,zan,FEMALE
+652,newpersianafghan,raw-,CONTINUOUS
+653,northjuninquechua,"-ru, -ra",PERFECTIVE aspect
+654,northjuninquechua,-y(k)u,with special attention (INTENSIVE)
+655,nyigina,-yibur(u),until' (postposition)
+656,nyigina,-arnda,PROGRESSIVE marker
+657,nyulnyul,-bakand,predicative POSSESSION ('have')
+658,nyulnyul,jirr,COPULA (POSSESSIVE)
+659,nyulnyul,-jid,Change of State (Preverb)
+660,nyulnyul,warinyjirr ,INDEFINITE
+661,nyulnyul,warinyjirr ,'same'
+662,nyulnyul,"-na, -n",CONTINUOUS
+663,ossetic,-t-,TRANSITIVE PAST endings (here: 1SG.TR)
+664,ossetic,cæu-,PASSIVE (analytical PASSIVE)
+665,pacaraosquechua,-kama,"TERMINATIVE case marker ('until', 'as long as')"
+666,palenquero,asé,HABITUAL
+667,parthian,"kar-, kird",POTENTIAL 
+668,pashto,dəy,COPULA (here: 3SG M)
+669,persian,ke,general subordinator
+670,persian,ū,PERSONAL PRO (3rd person)
+671,persian,"kon-, kard",CAUSATIVE
+672,persian,dā-,CAUSATIVE
+673,persian,mard,MALE
+674,pimabajo,-(i)m,PLURAL suffix on nouns
+675,pimabajo,soig,CLASSIFIER for pet POSSESSION
+676,pimabajo,-ga,POSSESSIVE alienable marker
+677,pimabajo,-di/-r,inalienable POSSESSION
+678,pimabajo,(h)ɨg,PERSONAL PRO (3rd person)
+679,pimabajo,ɨg,DEFINITE DETERMINER
+680,pimabajo,(h)ɨmak,INDEFINITE ARTICLE 'a'
+681,pimabajo,tar,CAUSATIVE
+682,pimabajo,-tua,CAUSATIVE
+683,pimabajo,a=,MIDDLE marker
+684,pimabajo,a=,AGREEMENT marker
+685,pimabajo,-im,CONTINUOUS/PROGRESSIVE aspect
+686,pimabajo,-ka,STATIVE suffix
+687,pimabajo,-ka,NOMINALIZER
+688,pimabajo,-kam,ADJECTIVIZER
+689,pimabajo,tua,EVIDENTIAL
+690,pimabajo,as [aš],QUOTATIVE (also: EVIDENTIAL/REPORTATIVE)
+691,pimabajo,-dam,COMPLEMENTIZER
+692,pimabajo,ko,inflected subordinator
+693,pimabajo,ɨbiga,RELATIVIZER
+694,polish,Zostać,PASSIVE aux
+695,polish,-m,Verbal AGREEMENT 
+696,polish,mieć,(resultative) PERFECT
+697,principense,tava,PAST
+698,quechuai,-pita,ABLATIVE case marker
+699,quechuai,-č̣aw,LOCATIVE case marker
+700,quechuai,"-yka(:)-, -ya(:)-",PROGRESSIVE aspect
+701,quechuai,waša,behind' (SPATIAL postposition)
+702,quechuai,-mu-,VENITIVE
+703,quechuai,čay,"CONJUNCTION (causal, consecutive, temporal)"
+704,quechuai,uša-,after' (TEMPORAL postposition)
+705,quechuai,uma,'upper part of body (positional meaning)'
+706,quechuai,huk,'same'
+707,quechuai,ni-,COMPLEMENTIZER
+708,quechuai,waqta,behind' (SPATIAL postposition)
+709,quechuaii,-ku,PLURALIZER (for 1st and 3rd person)
+710,quechuaii,-manta,ABLATIVE case marker
+711,quechuaii,-čik,(verbal) PLURAL (2nd person)
+712,quechuaii,-ku,(verbal) PLURAL marker (1st and 3rd person)
+713,quechuaii,-sqa,NARRATIVE PAST (with a mirative overtone)
+714,quechuaii,čay,RELATIVIZER
+715,quechuaii,ri-,INCEPTIVE derivational marker 
+716,quechuaii,runa,INDEFINITE PRON ('someone else')
+717,quechuaii,warmi,FEMALE
+718,ratahan,mai,VENITIVE marker
+719,romanian,=o (+ să),FUTURE (spoken and informal registers) (+ subjunctive complementizer)
+720,romansh,ins,INDEFINITE MARKER
+721,russian,-(o/e)j + V,Adjective inflection
+722,russian,-sja,PASSIVE voice
+723,russian,dat',CAUSATIVE aux
+724,russian,moč',MODAL aux ('can')
+725,russian,vzjat',INEXPECTATIVE (MODAL aux)
+726,russian,budet,FUTURE aux
+727,russian,-l,GENERAL PAST
+728,russian,pust',HORTATIVE particle
+729,russian,"-i, -j",Counterfactual CONDITIONAL
+730,russian,prixodit'sja,circumstantical MUST (acquisitive modal)
+731,russian,bylo (+ -l-),ANTIRESULTATIVE
+732,rutul,-si,FUTURE
+733,rutul,jɨq'a,HORTATIVE
+734,rutul,his xujnɨ,because
+735,semnani,=eš,verbal affix in PAST (here: 3SG)
+736,seychellescreole,bann,PLURAL (particle)
+737,seychellescreole,pou,FUTURE
+738,seychellescreole,ti,PAST
+739,seychellescreole,"fin, (i)n",COMPLETIVE Aspect
+740,seychellescreole,kanmarad,RECIPROCAL
+741,seychellescreole,sa,FOCUS marker
+742,seychellescreole,ganny,PASSIVE
+743,seychellescreole,pourdir,COMPLEMENTIZER
+744,seychellescreole,kot,LOCATIVE (marker)
+745,seychellescreole,pran,INSTRUMENTAL
+746,seychellescreole,pran,PATIENT marker
+747,slovak,nech,HORTATIVE aux
+748,sogdian,-t,PLURAL suffix
+749,sogdian,δˀr-,TRANSITIVE PERFECT marker
+750,sogdian,bw-,POTENTIAL for MIDDLE voice / PASSIVE
+751,sogdian,(ə)xu,COPULA
+752,sogdian,(ə)xu,DEFINITE ARTICLE (here: M)
+753,sogdian,kām,FUTURE (prefix)
+754,sogdianmanichean,skwn,PROGRESSIVE
+755,solomonislandspijin,fastaem,"'before', 'in front of'"
+756,southernaymara,-nk(a),existential VERBALIZER
+757,spanish,-a,feminine SINGULAR 
+758,spanish,-s,PLURAL
+759,spanish,de,POSSESSION marker 'of'
+760,spanish,tener,POSSESSION
+761,spanish,un,INDEFINITE article  (M)
+762,spanish,la,DEFINITE ARTICLE (F)
+763,spanish,mi,prenominal determiner POSSESSIVE (clitic)
+764,spanish,a,DATIVE marker
+765,spanish,a,marker of non-canonical Os (DOM)
+766,spanish,de,PARTITIVE marker
+767,spanish,se,marker of the lack of control of the subject
+768,spanish,se,marker of PASSIVE voice
+769,spanish,se,impersonal/INDEFINITE marker
+770,spanish,ser,PASSIVE aux
+771,spanish,quedar,PASSIVE-like aux
+772,spanish,la gente,IMPERSONAL/INDEFINITE marker
+773,spanish,ir (a),FUTURE (aux)
+774,spanish,acabar (de),RECENT PAST
+775,spanish,haber,PERFECT marker
+776,spanish,estar,PROGRESSIVE
+777,spanish,andar,motion PROGRESSIVE periphrasis
+778,spanish,haber,epistemic MODALITY
+779,spanish,deber,epistemic MODALITY aux
+780,spanish,que,invariant RELATIVIZER
+781,spanish,que,COMPLEMENTIZER
+782,spanish,hacer,CAUSATIVE
+783,spanish,venir,CONTINUOUS
+784,spanish,hacer,CAUSATIVE
+785,spanish,ir,CONTINUOUS
+786,spanish,unum/-am,INDEFINITE ARTICLE
+787,spanish,seguir,CONTINUOUS
+788,sranan,a,DEFINITE ARTICLE
+789,sranan,wan,INDEFINITE ARTICLE
+790,sranan,taki,COMPLEMENTIZER
+791,sranan,tapu,SPATIAL postposition
+792,srilankaportugese,-pa,ACCUSATIVE
+793,tabasaran,-pi,derivational marker for ordinal numerals
+794,tabasaran,ʁ-,PERFECTIVE prefix
+795,tabasaran,-vuz,"AGREEMENT marker (here:2SG, dative)"
+796,tabasaran,k'uri,COMPLEMENTIZER
+797,tajio,bua,numeral CLASSIFIER (default for objects)
+798,tajio,=po,INCOMPLETIVE clitic
+799,tajio,to,RELATIVIZER
+800,talyshi,ča-,GENITIVE prefix (of PRONOUNs)
+801,talyshi,=m,FOCUS
+802,tatjewish,=ho,COMPLEMENTIZER
+803,tatjewish,omor-,PASSIVE aux
+804,tatmuslim,ba-V(PST)-an=üm,PRESENT tense
+805,tatmuslim,(b-)il,HORTATIVE (IRR-leave.IMP2SG)
+806,ternatechabacano,hugá,RECIPROCAL
+807,thai,thy̌ŋ,ALLATIVE
+808,thai,thy̌ŋ,'until'
+809,thai,thy̌ŋ,CONCESSIVE
+810,thai,lăŋ,after'
+811,thai,lăŋ,behind'
+812,thai,lăŋ,earlier'
+813,thai,lăŋ,CLASSIFIER
+814,thai,lûuk,CLASSIFIER
+815,thai,maa,CONSECUTIVE
+816,thai,maa,VENITIVE (DIRECTIONAL verb)
+817,thai,maa,Coverb/preposition indicating DIRECTION to GOAL near speaker
+818,thai,maa,TEMPORAL reference
+819,thai,pen,"preposition/coverb meaning 'in the function of, as'"
+820,thai,pen,ABILITY (in terms of LEARNED ABILITY)
+821,thai,nán,DEFINITENESS
+822,thai,tham,CAUSATIVE
+823,thai,sèt,COMPLETIVE
+824,thai,lɛ̒Ɂ,COORDINATIVE particle
+825,thai,taam,ACCORDING TO
+826,thai,taam,SPATIAL:ALONG/PATH
+827,thai,dâj,ABILITY
+828,thai,dâj,PAST
+829,thai,dâj,PERMISSIVE
+830,thai,dâj,POSSIBILITY
+831,thai,dâj,'succeed'
+832,thai,hâj,BENEFACTIVE (preposition)
+833,thai,hâj,CAUSATIVE
+834,thai,hâj,DATIVE
+835,thai,hâj,PURPOSE
+836,thai,hâj,MANNER
+837,thai,hâj,COMPLEMENTIZER
+838,thai,paj,ANDATIVE (DIRECTIONAL verb)
+839,thai,paj,preposition (indication DIRECTION to GOAL away from speaker)
+840,thai,tua,CLASSIFIER
+841,thai,Ɂɔ̀ɔk,ALLATIVE (preposition)
+842,thai,càak,ABLATIVE (preposition)
+843,thai,yùu,CONTINUOUS
+844,thai,khon,CLASSIFIER
+845,thai,nỳŋ,INDEFINITNESS
+846,thai,wâa,QUOTATIVE marker
+847,thai,khâŋ,LOCATIVE marker (relational noun)
+848,thai,(khâŋ)khâaŋ,beside'
+849,thai,Ɂaw,INSTRUMENTAL
+850,thai,khɔ̌ɔŋ,POSSESSION marker
+851,tokpisin,ol,PLURAL
+852,tokpisin,bilong,GENITIVE marker ('of')
+853,tokpisin,bai,FUTURE
+854,tokpisin,i stap,PROGRESSIVE
+855,tsakhur,-xe-d,INDEFINITE Pronoun marker (here: gender IV)
+856,tsakhur,"-haʔas, -aʔas ",CAUSATIVE
+857,tsakhur,-s꞊od,OBLIGATION (here: gender IV)
+858,tswana,bó-,plain PLURAL marker (human)
+859,tswana,-ŋ̀,LOCATIVE suffix
+860,tswana,χʊ́-,LOCATIVE prefix
+861,tswana,χá-,LOCATIVE prefix
+862,tswana,fá,LOCATIVE preposition
+863,tswana,morago [mʊ̀ráχʊ́],LOCATIVE preposition
+864,tswana,ngwe [ŋʷɩ̀],'other'
+865,tswana,ngwe [ŋʷɩ̀],some (determiner)
+866,tswana,ká,INSTRUMENTAL preposition
+867,tswana,kɩ́,CAUSATOR preposition (marking agent in PASSIVEs)
+868,tswana,(fá) ɩ́sàlɩ́ ,'since'
+869,tswana,fá !ɩ́lɩ́,'regarding'
+870,tswana,fá !ɩ́sɩ́,'except'
+871,tswana,ɩ́sɩ̀ŋ́,"'except, instead'"
+872,tswana,go simolola [χʊ̀ -símʊ́lʊ́là],'from'
+873,tswana,go tloga [χʊ̀-tɬʊ̀χà],'from'
+874,tswana,go tswa [χʊ̀-tswà],'from'
+875,tswana,go ya ka [χʊ̀-jà ká],'according to'
+876,tswana,jó,noun-modifier LINKER
+877,tswana,lɩ́,noun-modifier LINKER in counting constructions
+878,tswana,-áχá- ,GENITIVE LINKER (person names & kinship terms)
+879,tswana,-ká,POTENTIAL marker
+880,tswana,áχá ,CONTINUATIVE aux
+881,tswana,àtìsà,"HABITUAL aux ('do something often, or in great quantity')"
+882,tswana,bàtɬà,IMMINENCE aux ('seem to be about to do something') 
+883,tswana,bàtɬà,NECESSITY aux ('need to do something')
+884,tswana,bàtɬílé,have nearly done something' [aux]
+885,tswana,bʊ́á,REPETITIVE aux 
+886,tswana,díkílé,have done something in the PAST year' [PAST aux] 
+887,tswana,χà...ńnɩ́ ,never do something' [NEGATIVE aux]
+888,tswana,χá...tɬhɔ̀lɩ́,have ceased doing something' [TERMINATIVE aux]
+889,tswana,létsɩ́ ,have done something the day before' [RECENT PAST aux]
+890,tswana,lʊ̀sètsà,IMMINENCE aux ('seem to be about to do something')
+891,tswana,nà lɩ́-,be obliged to do something' (aux)
+892,tswana,nà lɩ́-,do something usually'
+893,tswana,nàmà,CONTINUATIVE aux 'continue to do something'
+894,tswana,nàmílé,have eventually done something' (aux)
+895,tswana,ńná,be still doing something' (aux)
+896,tswana,ńtsé,"do something continually', or 'be still doing something'"
+897,tswana,rátílé,have nearly done something'
+898,tswana,sàlɩ́,"have done something long ago, or for the last time'"
+899,tswana,sátswá,have just done something'
+900,tswana,sétsɩ́,'be already doing something'
+901,tswana,sɩ́ŋ́kílé,have nearly done something'
+902,tswana,tɬàà-díká,do something during the next year'
+903,tswana,tɬàà-lálá,do something before the end of the day'
+904,tswana,tɬàà-tsʊ́χá,do something the next day'
+905,tswana,tɬhɔ̀là,do something continually'
+906,tswana,tɬʊ̀χà,be close to doing something'
+907,tswana,tsàmàɛ̀là,be close to doing something'
+908,tswana,tsàmàjà,do something continually'
+909,tswana,tshɩ́lá,do something continually'
+910,tswana,tshʊ̀χànà,do something unexpectedly'
+911,tswana,tshwánétsɩ́,be obliged to do something
+912,tswana,tsìlé,seem to be close to do something'
+913,tswana,tsʊ́χílé,have done something in the morning'
+914,tswana, jà ,be close to doing something'
+915,tswana,-sɩ̀,NEGATION (prefix)
+916,tswana,χáná,NEGATION aux
+917,tswana,-ŋ́,relative verb form marker
+918,tswana,χʊ̀rɩ̀,COMPLEMENTIZER
+919,tswana,ká,"since, as"
+920,tswana,fá,"CONDITIONAL CONJUNCTION (when, if)"
+921,tswana,χʊ̀fìtɬhɛ̀là,until
+922,tswana,χʊ̀rɩ̀,PURPOSIVE (subordinator?) 'so that'
+923,tswana,tɬà,conjunctions expressing sequentiality ('and then')
+924,tswana,ɛ́tá,conjunction expressing simultaneity
+925,tswana,ka gore [ká χʊ́rɩ̀],CAUSE (conjunction)
+926,tswana,morago [mʊ̀ráχʊ́],after (preposition)
+927,tswana,morago [mʊ̀ráχʊ́],behind (preposition)
+928,tswana,-ana,DIMINUTIVE (derivational suffix)
+929,tswana,-tla [tɬà],CONSECUTIVE (aux )
+930,tswana,rátá [rátá],AVERTIVE (aux)
+931,tswana,rátá [rátá],INTENTION (aux)
+932,tundranenets,-e-,"""finite morphem"", marker of finite conjugation"
+933,tundranenets,-e-sy⁰,PAST
+934,tundranenets,-q,IMPERATIVE (2SG)
+935,tundranenets,syiq-,PRONOUN (Stem) ACCUSATIVE
+936,tundranenets,-w⁰,"""objective conjugation"" (used with topicalized objects)"
+937,tundranenets,-q,nominal DUAL
+938,tundranenets,pida,Personal Pro (3SG)
+939,tuscarora,ha',DEFINITE ARTICLE
+940,udi,-a,DATIVE
+941,udi,꞊(n)esa,INDEFINITE Pronoun marker
+942,udi,-d- (-tː- after s),CAUSATIVE
+943,udi,-ec-,DECAUSATIVE (here: past tense allomorph)
+944,udi,-(e)sa,PRESENT tense
+945,udi,-al=e,FUTURE (here: 3SG)
+946,udi,baksun,internal + external POSSIBILITY aux
+947,udi,ek-i,reinforced HORTATIVE
+948,udi,bačːˁaneχun ,behind
+949,udi,kije,TEMPORAL POSSESSION postposition
+950,udi,bel,"SPATIAL postposition 'at, near'"
+951,udi,barta,PERMISSIVE
+952,uppersorbian,jen,INDEFINITE article
+953,uppersorbian,sydać ,EXISTENTIAL COPULA
+954,veps,=päi,ABLATIVE Clitic
+955,vincentiancreole,fo,GENITIVE marker ('of')
+956,wakhi,-ər(k),DATIVE suffix
+957,warrwa,-jina,inalienable POSSESSION marking (on possessum)
+958,warrwa,na-,TRANSITIVE conjugation marker
+959,warrwa,-ngany,INSTRUMENTAL
+960,warrwa,-banyji,REFLEXIVE/RECIPROCAL action
+961,xufipamir,-ard,LOCATIVE
+962,yaghnobi,=išt ,PRESENT TENSE
+963,yaqui,-sime,DURATIVE
+964,yaqui,-bae,DESIDERATIVE
+965,yaqui,-ii'aa,indirect DESIDERATIVE
+966,yaqui,-'ea,SUBJUNCTIVE
+967,yaqui,-yaate,CESSATIVE aspect
+968,yawuru,-ni,ERGATIVE
+969,yawuru,-jina,GEN of Animates
+970,yawuru,-jinaburu,INSTRUMENTAL NOMINALIZER
+971,yawuru,-nga...-ngany,predicative POSSESSION ('have')
+972,yucatec,-p'éel,inanimate object CLASSIFIER
+973,yucatec,le,DEFINITE ARTICLE
+974,yucatec,"hun, un",INDEFINITE ARTICLE
+975,yucatec,óok'ol,"'on, above' (preposition)"
+976,yucatec,o'l,adposition 'on account of' (preposition)
+977,yucatec,"=la', =a'",this' (deictic clitics)
+978,yucatec,báah,REFLEXIVE ('self')
+979,yucatec,máax,'who' (INTERROGATIVE PRONOUN)
+980,yucatec,k,IMPERFECTIVE aspect
+981,yucatec,"tíin, táan, túun",PROGRESSIVE aspect
+982,yucatec,ts',TERMINATIVE aspect
+983,yucatec,yan,FUTURE
+984,yucatec,t,PERFECTIVE
+985,yucatec,bíin,PREDICTIVE FUTURE
+986,yucatec,yo'lal,'in order that'
+987,yucatec,(y)éetel,COORDINATOR
+988,yucatec,"ts'o'le, ts'o'kole",discourse-level conjunction
+989,yucatec,t=u paach,'behind' (preposition)
+990,yucatec,ts'a',CAUSATIVE
+991,yucatec,ba'x,'what' (INTERROGATIVE PRONOUN)
+992,zazaki,o,“ezâfe” (clitic linking head noun to depending elements)
