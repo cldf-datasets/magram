@@ -140,11 +140,14 @@ class Dataset(BaseDataset):
         cvalues = []
         for row_no, row in enumerate(raw_data, 1):
             for col_name, parameter in crossgram_parameters.items():
+                value = row[col_name]
+                if not value:
+                    continue
                 cvalue = {
                     'ID': '{}-{}'.format(row_no, parameter['ID']),
                     'Construction_ID': row_no,
                     'Parameter_ID': parameter['ID'],
-                    'Value': row[col_name],
+                    'Value': value,
                 }
                 if parameter['ID'] == 'source-form':
                     cvalue['Comment'] = row['Source:Meaning']
