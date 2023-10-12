@@ -4,7 +4,7 @@ Babel==2.13.0
 bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/magram@063f0cfdb29ddbbee2e955767301f645ee832bef#egg=cldfbench_magram
+-e git+https://github.com/cldf-datasets/magram@6886827e88a0ebe58ef03fa0208021d8c6dbeb72#egg=cldfbench_magram
 cldfcatalog==1.5.1
 cldfzenodo==1.1.0
 clldutils==3.20.0
