@@ -57,6 +57,13 @@ def parse_raw_data(raw_data):
         for row in raw_data]
 
 
+def parse_ccodes(csv_rows):
+    return {
+        (row['Parameter_ID'], row['Original_Name']):
+        {k: trimmed_v for k, v in row.items() if (trimmed_v := v.strip())}
+        for row in csv_rows}
+
+
 def make_row_id(row):
     return '{}-{}-{}-{}'.format(
         row['Code'],
@@ -176,18 +183,20 @@ def make_constructions(raw_data):
         for row_no, row in enumerate(raw_data, 1)]
 
 
-def make_cvalues(raw_data, cparameters):
+def make_cvalues(raw_data, cparameters, ccodes):
     cvalues = []
     for row_no, row in enumerate(raw_data, 1):
         for col_name, parameter in cparameters.items():
             value = row[col_name]
             if not value:
                 continue
+            code = ccodes.get((parameter['ID'], value))
             cvalue = {
                 'ID': '{}-{}'.format(row_no, parameter['ID']),
                 'Construction_ID': row_no,
                 'Parameter_ID': parameter['ID'],
-                'Value': value,
+                'Code_ID': code['ID'] if code else '',
+                'Value': code['Name'] if code else value,
             }
             if parameter['ID'] == 'source-form':
                 cvalue['Comment'] = row['Source:Meaning']
@@ -254,7 +263,9 @@ class Dataset(BaseDataset):
                 dir=self.cldf_dir,
                 module='StructureDataset',
                 metadata_fname='CrossGram-metadata.json',
-                data_fnames={'ParameterTable': 'crossgram-parameters.csv'}),
+                data_fnames={
+                    'ParameterTable': 'crossgram-parameters.csv',
+                    'CodeTable': 'crossgram-codes.csv'}),
         }
 
     def cmd_download(self, args):
@@ -268,7 +279,9 @@ class Dataset(BaseDataset):
         raw_data.sort(key=lambda row: make_language_id(row))
         cparameters = {
             row['Original_Column_Name']: row
-            for row in self.etc_dir.read_csv('parameters.csv', dicts=True)}
+            for row in self.etc_dir.read_csv('cparameters.csv', dicts=True)}
+        ccodes = parse_ccodes(
+            self.etc_dir.read_csv('ccodes.csv', dicts=True))
 
         # make cldf data
 
@@ -284,7 +297,7 @@ class Dataset(BaseDataset):
 
         # crossgram tables
         constructions = make_constructions(raw_data)
-        cvalues = make_cvalues(raw_data, cparameters)
+        cvalues = make_cvalues(raw_data, cparameters, ccodes)
 
         # write cldf data
 
@@ -302,5 +315,6 @@ class Dataset(BaseDataset):
             # LanguageTable and ExampleTable are being reused from the wordlist
             writer.objects['constructions.csv'] = constructions
             writer.objects['ParameterTable'] = cparameters.values()
+            writer.objects['CodeTable'] = ccodes.values()
             writer.objects['cvalues.csv'] = cvalues
             writer.objects['ValueTable'] = []
