@@ -1,8 +1,8 @@
 {
     "id": "magram",
-    "title": "Dataset of MAGRAM",
+    "title": "MAGRAM grammaticalization database",
     "description": null,
-    "license": "CC-BY",
-    "url": null,
+    "license": "CC-BY-4.0",
+    "url": "https://crossgram.clld.org/contributions/magram",
     "citation": null
 }
