@@ -170,7 +170,7 @@ def make_constructions(raw_data):
         {
             'ID': row_no,
             'Language_ID': make_language_id(row),
-            'Name': row['Target:Form'],
+            'Name': 'Gram: {}'.format(row['Target:Form']),
             'Description': row['Target:Meaning'],
         }
         for row_no, row in enumerate(raw_data, 1)]
