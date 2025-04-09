@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "dab8784",
+            "dc:created": "035cb4f",
             "dc:title": "Repository"
         },
         {
@@ -39,7 +39,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 541,
+            "dc:extent": 545,
             "tableSchema": {
                 "columns": [
                     {
@@ -179,7 +179,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 81,
+            "dc:extent": 77,
             "tableSchema": {
                 "columns": [
                     {

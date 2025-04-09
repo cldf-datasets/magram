@@ -269,7 +269,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 15-change-syntagmatic-variability,15,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 15-change-decategorization,15,change-decategorization,change-decategorization-0,,,0
 15-change-allomorphy,15,change-allomorphy,change-allomorphy-0,,,0
-16-target-meaning-type,16,target-meaning-type,target-meaning-type-number,,,number
+16-target-meaning-type,16,target-meaning-type,target-meaning-type-number,,,NUMBER
 16-source-form,16,source-form,,011014-ra-ra-collectivenumeral,,꞊ra
 16-value-semantic-integrity,16,value-semantic-integrity,value-semantic-integrity-3,,,3
 16-value-phonetic-reduction,16,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -413,7 +413,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 23-change-syntagmatic-variability,23,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 23-change-decategorization,23,change-decategorization,change-decategorization-1,,,1
 23-change-allomorphy,23,change-allomorphy,change-allomorphy-0,,,0
-24-target-meaning-type,24,target-meaning-type,target-meaning-type-number,,,number
+24-target-meaning-type,24,target-meaning-type,target-meaning-type-number,,,NUMBER
 24-source-form,24,source-form,,011012-bosdub-bosdub-ordinalnumeral,,-bosdub
 24-value-semantic-integrity,24,value-semantic-integrity,value-semantic-integrity-3,,,3
 24-value-phonetic-reduction,24,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -1241,7 +1241,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 69-change-syntagmatic-variability,69,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 69-change-decategorization,69,change-decategorization,change-decategorization-0,,,0
 69-change-allomorphy,69,change-allomorphy,change-allomorphy-0,,,0
-70-target-meaning-type,70,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+70-target-meaning-type,70,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 70-source-form,70,source-form,,018068-muso-muso-female,,mùsó
 70-value-semantic-integrity,70,value-semantic-integrity,value-semantic-integrity-2,,,2
 70-value-phonetic-reduction,70,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -1259,7 +1259,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 70-change-syntagmatic-variability,70,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 70-change-decategorization,70,change-decategorization,change-decategorization-1,,,1
 70-change-allomorphy,70,change-allomorphy,change-allomorphy-0,,,0
-71-target-meaning-type,71,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+71-target-meaning-type,71,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 71-source-form,71,source-form,,018085-c-k-male,,cɛ̌
 71-value-semantic-integrity,71,value-semantic-integrity,value-semantic-integrity-3,,,3
 71-value-phonetic-reduction,71,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -1907,7 +1907,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 106-change-syntagmatic-variability,106,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 106-change-decategorization,106,change-decategorization,change-decategorization-1,,,1
 106-change-allomorphy,106,change-allomorphy,change-allomorphy-0,,,0
-107-target-meaning-type,107,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+107-target-meaning-type,107,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 107-source-form,107,source-form,,005014-na-na-complementizer,,na
 107-value-semantic-integrity,107,value-semantic-integrity,value-semantic-integrity-3,,,3
 107-value-phonetic-reduction,107,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -2447,7 +2447,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 136-change-syntagmatic-variability,136,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 136-change-decategorization,136,change-decategorization,change-decategorization-0,,,0
 136-change-allomorphy,136,change-allomorphy,change-allomorphy-0,,,0
-137-target-meaning-type,137,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+137-target-meaning-type,137,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 137-source-form,137,source-form,,017036-vrtta-tho-classifier,,vr̥tta (?)
 137-value-semantic-integrity,137,value-semantic-integrity,value-semantic-integrity-3,,,3
 137-value-phonetic-reduction,137,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -2753,7 +2753,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 153-change-syntagmatic-variability,153,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 153-change-decategorization,153,change-decategorization,change-decategorization-1,,,1
 153-change-allomorphy,153,change-allomorphy,change-allomorphy-0,,,0
-154-target-meaning-type,154,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+154-target-meaning-type,154,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 154-source-form,154,source-form,,008015-da-da-complementizer,,da
 154-value-semantic-integrity,154,value-semantic-integrity,value-semantic-integrity-4,,,4
 154-value-phonetic-reduction,154,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -3023,7 +3023,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 168-change-syntagmatic-variability,168,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 168-change-decategorization,168,change-decategorization,change-decategorization-1,,,1
 168-change-allomorphy,168,change-allomorphy,change-allomorphy-0,,,0
-169-target-meaning-type,169,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+169-target-meaning-type,169,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 169-source-form,169,source-form,,015006-khi-khi-npand,,khì
 169-value-semantic-integrity,169,value-semantic-integrity,value-semantic-integrity-3,,,3
 169-value-phonetic-reduction,169,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -3059,7 +3059,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 170-change-syntagmatic-variability,170,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 170-change-decategorization,170,change-decategorization,change-decategorization-1,,,1
 170-change-allomorphy,170,change-allomorphy,change-allomorphy-0,,,0
-171-target-meaning-type,171,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+171-target-meaning-type,171,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 171-source-form,171,source-form,,015025-mhe-mhe-male,,ɔ́mɔ̀hè
 171-value-semantic-integrity,171,value-semantic-integrity,value-semantic-integrity-2,,,2
 171-value-phonetic-reduction,171,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -3077,7 +3077,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 171-change-syntagmatic-variability,171,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 171-change-decategorization,171,change-decategorization,change-decategorization-1,,,1
 171-change-allomorphy,171,change-allomorphy,change-allomorphy-0,,,0
-172-target-meaning-type,172,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+172-target-meaning-type,172,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 172-source-form,172,source-form,,015029-okposo-okposo-female,,òkpòsò
 172-value-semantic-integrity,172,value-semantic-integrity,value-semantic-integrity-2,,,2
 172-value-phonetic-reduction,172,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -3167,7 +3167,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 176-change-syntagmatic-variability,176,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 176-change-decategorization,176,change-decategorization,change-decategorization-1,,,1
 176-change-allomorphy,176,change-allomorphy,change-allomorphy-0,,,0
-177-target-meaning-type,177,target-meaning-type,target-meaning-type-number,,,number
+177-target-meaning-type,177,target-meaning-type,target-meaning-type-number,,,NUMBER
 177-source-form,177,source-form,,015021-zemi-zemi-absolutequantitative,,zɛ émì
 177-value-semantic-integrity,177,value-semantic-integrity,value-semantic-integrity-3,,,3
 177-value-phonetic-reduction,177,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -4193,7 +4193,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 233-change-syntagmatic-variability,233,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 233-change-decategorization,233,change-decategorization,change-decategorization-0,,,0
 233-change-allomorphy,233,change-allomorphy,change-allomorphy-0,,,0
-234-target-meaning-type,234,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+234-target-meaning-type,234,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 234-source-form,234,source-form,,004009-das-dass-complementizer,,das
 234-value-semantic-integrity,234,value-semantic-integrity,value-semantic-integrity-3,,,3
 234-value-phonetic-reduction,234,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -5471,7 +5471,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 304-change-syntagmatic-variability,304,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 304-change-decategorization,304,change-decategorization,change-decategorization-1,,,1
 304-change-allomorphy,304,change-allomorphy,change-allomorphy-0,,,0
-305-target-meaning-type,305,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+305-target-meaning-type,305,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 305-source-form,305,source-form,,002021-kaa-ga-female,,*kaa
 305-value-semantic-integrity,305,value-semantic-integrity,value-semantic-integrity-3,,,3
 305-value-phonetic-reduction,305,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -6083,7 +6083,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 338-change-syntagmatic-variability,338,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 338-change-decategorization,338,change-decategorization,change-decategorization-1,,,1
 338-change-allomorphy,338,change-allomorphy,change-allomorphy-0,,,0
-339-target-meaning-type,339,target-meaning-type,target-meaning-type-evidential,,,evidential
+339-target-meaning-type,339,target-meaning-type,target-meaning-type-evidential,,,EVIDENTIAL
 339-source-form,339,source-form,,016005-rcan-rcan-mirative,,(ɯ-)rca (+ nɯ)
 339-value-semantic-integrity,339,value-semantic-integrity,value-semantic-integrity-3,,,3
 339-value-phonetic-reduction,339,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -6551,7 +6551,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 364-change-syntagmatic-variability,364,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 364-change-decategorization,364,change-decategorization,change-decategorization-0,,,0
 364-change-allomorphy,364,change-allomorphy,change-allomorphy-0,,,0
-365-target-meaning-type,365,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+365-target-meaning-type,365,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 365-source-form,365,source-form,,014007-siw--infinitive,,*ši-...-ŋw
 365-value-semantic-integrity,365,value-semantic-integrity,value-semantic-integrity-3,,,3
 365-value-phonetic-reduction,365,value-phonetic-reduction,value-phonetic-reduction-4,,,4
@@ -6605,7 +6605,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 367-change-syntagmatic-variability,367,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 367-change-decategorization,367,change-decategorization,change-decategorization-0,,,0
 367-change-allomorphy,367,change-allomorphy,change-allomorphy-0,,,0
-368-target-meaning-type,368,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+368-target-meaning-type,368,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 368-source-form,368,source-form,,014023-bila-bila-complementizer,,bila
 368-value-semantic-integrity,368,value-semantic-integrity,value-semantic-integrity-3,,,3
 368-value-phonetic-reduction,368,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -7109,7 +7109,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 395-change-syntagmatic-variability,395,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 395-change-decategorization,395,change-decategorization,change-decategorization-1,,,1
 395-change-allomorphy,395,change-allomorphy,change-allomorphy-0,,,0
-396-target-meaning-type,396,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+396-target-meaning-type,396,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 396-source-form,396,source-form,,027017-hayn-hayn-sand,,haǝy(-nɯ̒ŋ)
 396-value-semantic-integrity,396,value-semantic-integrity,value-semantic-integrity-3,,,3
 396-value-phonetic-reduction,396,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -7181,7 +7181,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 399-change-syntagmatic-variability,399,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 399-change-decategorization,399,change-decategorization,change-decategorization-0,,,0
 399-change-allomorphy,399,change-allomorphy,change-allomorphy-0,,,0
-400-target-meaning-type,400,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+400-target-meaning-type,400,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 400-source-form,400,source-form,,027036-aoy-aoy-complementizer,,Ɂaoy
 400-value-semantic-integrity,400,value-semantic-integrity,value-semantic-integrity-3,,,3
 400-value-phonetic-reduction,400,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -7235,7 +7235,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 402-change-syntagmatic-variability,402,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 402-change-decategorization,402,change-decategorization,change-decategorization-1,,,1
 402-change-allomorphy,402,change-allomorphy,change-allomorphy-0,,,0
-403-target-meaning-type,403,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+403-target-meaning-type,403,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 403-source-form,403,source-form,,027041-kbal-kbal-classifier,,kba:l
 403-value-semantic-integrity,403,value-semantic-integrity,value-semantic-integrity-3,,,3
 403-value-phonetic-reduction,403,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -8063,7 +8063,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 448-change-syntagmatic-variability,448,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 448-change-decategorization,448,change-decategorization,change-decategorization-1,,,1
 448-change-allomorphy,448,change-allomorphy,change-allomorphy-0,,,0
-449-target-meaning-type,449,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+449-target-meaning-type,449,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 449-source-form,449,source-form,,025041-tahako-tako-complementizer,,(-ta) ha(-ko)
 449-value-semantic-integrity,449,value-semantic-integrity,value-semantic-integrity-3,,,3
 449-value-phonetic-reduction,449,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -8081,7 +8081,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 449-change-syntagmatic-variability,449,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 449-change-decategorization,449,change-decategorization,change-decategorization-1,,,1
 449-change-allomorphy,449,change-allomorphy,change-allomorphy-0,,,0
-450-target-meaning-type,450,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+450-target-meaning-type,450,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 450-source-form,450,source-form,,025042-lkes-lkes-complementizer,,(-l) kes
 450-value-semantic-integrity,450,value-semantic-integrity,value-semantic-integrity-3,,,3
 450-value-phonetic-reduction,450,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -8225,7 +8225,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 457-change-syntagmatic-variability,457,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 457-change-decategorization,457,change-decategorization,change-decategorization-0,,,0
 457-change-allomorphy,457,change-allomorphy,change-allomorphy-0,,,0
-458-target-meaning-type,458,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+458-target-meaning-type,458,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 458-source-form,458,source-form,,025001-meli-mali-classifier,,meli
 458-value-semantic-integrity,458,value-semantic-integrity,value-semantic-integrity-3,,,3
 458-value-phonetic-reduction,458,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -8243,7 +8243,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 458-change-syntagmatic-variability,458,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 458-change-decategorization,458,change-decategorization,change-decategorization-1,,,1
 458-change-allomorphy,458,change-allomorphy,change-allomorphy-0,,,0
-459-target-meaning-type,459,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+459-target-meaning-type,459,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 459-source-form,459,source-form,,025056-son-son-classifier,,son
 459-value-semantic-integrity,459,value-semantic-integrity,value-semantic-integrity-3,,,3
 459-value-phonetic-reduction,459,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -8477,7 +8477,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 471-change-syntagmatic-variability,471,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 471-change-decategorization,471,change-decategorization,change-decategorization-1,,,1
 471-change-allomorphy,471,change-allomorphy,change-allomorphy-0,,,0
-472-target-meaning-type,472,target-meaning-type,target-meaning-type-number,,,number
+472-target-meaning-type,472,target-meaning-type,target-meaning-type-number,,,NUMBER
 472-source-form,472,source-form,,025061-han-han-some,,han
 472-value-semantic-integrity,472,value-semantic-integrity,value-semantic-integrity-3,,,3
 472-value-phonetic-reduction,472,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9071,7 +9071,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 504-change-syntagmatic-variability,504,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 504-change-decategorization,504,change-decategorization,change-decategorization-0,,,0
 504-change-allomorphy,504,change-allomorphy,change-allomorphy-0,,,0
-505-target-meaning-type,505,target-meaning-type,target-meaning-type-number,,,number
+505-target-meaning-type,505,target-meaning-type,target-meaning-type-number,,,NUMBER
 505-source-form,505,source-form,,011013-liji-liji-ordinalnumeral,,liji
 505-value-semantic-integrity,505,value-semantic-integrity,value-semantic-integrity-3,,,3
 505-value-phonetic-reduction,505,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -9215,7 +9215,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 512-change-syntagmatic-variability,512,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 512-change-decategorization,512,change-decategorization,change-decategorization-1,,,1
 512-change-allomorphy,512,change-allomorphy,change-allomorphy-0,,,0
-513-target-meaning-type,513,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+513-target-meaning-type,513,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 513-source-form,513,source-form,,011050-luhuz-luhuz-complementizer,,luhu(-z)
 513-value-semantic-integrity,513,value-semantic-integrity,value-semantic-integrity-3,,,3
 513-value-phonetic-reduction,513,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -9737,7 +9737,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 541-change-syntagmatic-variability,541,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 541-change-decategorization,541,change-decategorization,change-decategorization-1,,,1
 541-change-allomorphy,541,change-allomorphy,change-allomorphy-0,,,0
-542-target-meaning-type,542,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+542-target-meaning-type,542,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 542-source-form,542,source-form,,022002-ba-ba-classifier,,bǎ < 把 >
 542-value-semantic-integrity,542,value-semantic-integrity,value-semantic-integrity-3,,,3
 542-value-phonetic-reduction,542,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9755,7 +9755,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 542-change-syntagmatic-variability,542,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 542-change-decategorization,542,change-decategorization,change-decategorization-1,,,1
 542-change-allomorphy,542,change-allomorphy,change-allomorphy-0,,,0
-543-target-meaning-type,543,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+543-target-meaning-type,543,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 543-source-form,543,source-form,,022019-shou-shou-classifier,,shŏu < 手 >
 543-value-semantic-integrity,543,value-semantic-integrity,value-semantic-integrity-3,,,3
 543-value-phonetic-reduction,543,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9773,7 +9773,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 543-change-syntagmatic-variability,543,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 543-change-decategorization,543,change-decategorization,change-decategorization-1,,,1
 543-change-allomorphy,543,change-allomorphy,change-allomorphy-0,,,0
-544-target-meaning-type,544,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+544-target-meaning-type,544,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 544-source-form,544,source-form,,022024-tou-tou-classifier,,tóu < 头 >
 544-value-semantic-integrity,544,value-semantic-integrity,value-semantic-integrity-3,,,3
 544-value-phonetic-reduction,544,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9791,7 +9791,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 544-change-syntagmatic-variability,544,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 544-change-decategorization,544,change-decategorization,change-decategorization-1,,,1
 544-change-allomorphy,544,change-allomorphy,change-allomorphy-0,,,0
-545-target-meaning-type,545,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+545-target-meaning-type,545,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 545-source-form,545,source-form,,022030-shen-shen-classifier,,shēn < 身 >
 545-value-semantic-integrity,545,value-semantic-integrity,value-semantic-integrity-3,,,3
 545-value-phonetic-reduction,545,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9809,7 +9809,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 545-change-syntagmatic-variability,545,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 545-change-decategorization,545,change-decategorization,change-decategorization-1,,,1
 545-change-allomorphy,545,change-allomorphy,change-allomorphy-0,,,0
-546-target-meaning-type,546,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+546-target-meaning-type,546,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 546-source-form,546,source-form,,022031-ge-ge-classifier,,gè < 个 (個/箇) >
 546-value-semantic-integrity,546,value-semantic-integrity,value-semantic-integrity-3,,,3
 546-value-phonetic-reduction,546,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -9881,7 +9881,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 549-change-syntagmatic-variability,549,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 549-change-decategorization,549,change-decategorization,change-decategorization-1,,,1
 549-change-allomorphy,549,change-allomorphy,change-allomorphy-0,,,0
-550-target-meaning-type,550,target-meaning-type,target-meaning-type-number,,,number
+550-target-meaning-type,550,target-meaning-type,target-meaning-type-number,,,NUMBER
 550-source-form,550,source-form,,022021-yi-yi-all,,yī <一 >
 550-value-semantic-integrity,550,value-semantic-integrity,value-semantic-integrity-2,,,2
 550-value-phonetic-reduction,550,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -10223,7 +10223,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 568-change-syntagmatic-variability,568,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 568-change-decategorization,568,change-decategorization,change-decategorization-0,,,0
 568-change-allomorphy,568,change-allomorphy,change-allomorphy-0,,,0
-569-target-meaning-type,569,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+569-target-meaning-type,569,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 569-source-form,569,source-form,,018050-la-la-complementizer,,lá
 569-value-semantic-integrity,569,value-semantic-integrity,value-semantic-integrity-3,,,3
 569-value-phonetic-reduction,569,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -10241,7 +10241,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 569-change-syntagmatic-variability,569,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 569-change-decategorization,569,change-decategorization,change-decategorization-0,,,0
 569-change-allomorphy,569,change-allomorphy,change-allomorphy-0,,,0
-570-target-meaning-type,570,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+570-target-meaning-type,570,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 570-source-form,570,source-form,,018051-ko-ko-complementizer,,kó
 570-value-semantic-integrity,570,value-semantic-integrity,value-semantic-integrity-3,,,3
 570-value-phonetic-reduction,570,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -10457,7 +10457,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 581-change-syntagmatic-variability,581,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 581-change-decategorization,581,change-decategorization,change-decategorization-0,,,0
 581-change-allomorphy,581,change-allomorphy,change-allomorphy-1,,,1
-582-target-meaning-type,582,target-meaning-type,target-meaning-type-number,,,number
+582-target-meaning-type,582,target-meaning-type,target-meaning-type-number,,,NUMBER
 582-source-form,582,source-form,,018007-do-doo-some,,*do
 582-value-semantic-integrity,582,value-semantic-integrity,value-semantic-integrity-3,,,3
 582-value-phonetic-reduction,582,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -10853,7 +10853,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 603-change-syntagmatic-variability,603,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 603-change-decategorization,603,change-decategorization,change-decategorization-1,,,1
 603-change-allomorphy,603,change-allomorphy,change-allomorphy-1,,,1
-604-target-meaning-type,604,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+604-target-meaning-type,604,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 604-source-form,604,source-form,,007008-bi-b-switchreference,,bi
 604-value-semantic-integrity,604,value-semantic-integrity,value-semantic-integrity-4,,,4
 604-value-phonetic-reduction,604,value-phonetic-reduction,value-phonetic-reduction-3,,,3
@@ -10889,7 +10889,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 605-change-syntagmatic-variability,605,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 605-change-decategorization,605,change-decategorization,change-decategorization-1,,,1
 605-change-allomorphy,605,change-allomorphy,change-allomorphy-0,,,0
-606-target-meaning-type,606,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+606-target-meaning-type,606,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 606-source-form,606,source-form,,007017-naka-naka-male,,naka
 606-value-semantic-integrity,606,value-semantic-integrity,value-semantic-integrity-2,,,2
 606-value-phonetic-reduction,606,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -10907,7 +10907,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 606-change-syntagmatic-variability,606,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 606-change-decategorization,606,change-decategorization,change-decategorization-1,,,1
 606-change-allomorphy,606,change-allomorphy,change-allomorphy-0,,,0
-607-target-meaning-type,607,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+607-target-meaning-type,607,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 607-source-form,607,source-form,,007018-unang-unang-female,,unǎng
 607-value-semantic-integrity,607,value-semantic-integrity,value-semantic-integrity-2,,,2
 607-value-phonetic-reduction,607,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -11177,7 +11177,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 621-change-syntagmatic-variability,621,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 621-change-decategorization,621,change-decategorization,change-decategorization-1,,,1
 621-change-allomorphy,621,change-allomorphy,change-allomorphy-1,,,1
-622-target-meaning-type,622,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+622-target-meaning-type,622,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 622-source-form,622,source-form,,006013-ne-ne-complementizer,,ne
 622-value-semantic-integrity,622,value-semantic-integrity,value-semantic-integrity-3,,,3
 622-value-phonetic-reduction,622,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -11555,7 +11555,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 642-change-syntagmatic-variability,642,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 642-change-decategorization,642,change-decategorization,change-decategorization-0,,,0
 642-change-allomorphy,642,change-allomorphy,change-allomorphy-0,,,0
-643-target-meaning-type,643,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+643-target-meaning-type,643,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 643-source-form,643,source-form,,023069-jan-zan-female,,*ǰan-
 643-value-semantic-integrity,643,value-semantic-integrity,value-semantic-integrity-2,,,2
 643-value-phonetic-reduction,643,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -12077,7 +12077,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 671-change-syntagmatic-variability,671,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 671-change-decategorization,671,change-decategorization,change-decategorization-1,,,1
 671-change-allomorphy,671,change-allomorphy,change-allomorphy-0,,,0
-672-target-meaning-type,672,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+672-target-meaning-type,672,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 672-source-form,672,source-form,,023057-marta-mard-male,,*marta-
 672-value-semantic-integrity,672,value-semantic-integrity,value-semantic-integrity-2,,,2
 672-value-phonetic-reduction,672,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -12203,7 +12203,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 678-change-syntagmatic-variability,678,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 678-change-decategorization,678,change-decategorization,change-decategorization-1,,,1
 678-change-allomorphy,678,change-allomorphy,change-allomorphy-0,,,0
-679-target-meaning-type,679,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+679-target-meaning-type,679,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 679-source-form,679,source-form,,020018-dam-dam-complementizer,,-dam
 679-value-semantic-integrity,679,value-semantic-integrity,value-semantic-integrity-3,,,3
 679-value-phonetic-reduction,679,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -12293,7 +12293,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 683-change-syntagmatic-variability,683,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 683-change-decategorization,683,change-decategorization,change-decategorization-1,,,1
 683-change-allomorphy,683,change-allomorphy,change-allomorphy-0,,,0
-684-target-meaning-type,684,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+684-target-meaning-type,684,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 684-source-form,684,source-form,,020002-sosoig-soig-classifier,,"so', soi (-g)"
 684-value-semantic-integrity,684,value-semantic-integrity,value-semantic-integrity-3,,,3
 684-value-phonetic-reduction,684,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -12599,7 +12599,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 700-change-syntagmatic-variability,700,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 700-change-decategorization,700,change-decategorization,change-decategorization-1,,,1
 700-change-allomorphy,700,change-allomorphy,change-allomorphy-0,,,0
-701-target-meaning-type,701,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+701-target-meaning-type,701,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 701-source-form,701,source-form,,001027-ni-ni-complementizer,,ni-
 701-value-semantic-integrity,701,value-semantic-integrity,value-semantic-integrity-3,,,3
 701-value-phonetic-reduction,701,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -13013,7 +13013,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 723-change-syntagmatic-variability,723,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 723-change-decategorization,723,change-decategorization,change-decategorization-1,,,1
 723-change-allomorphy,723,change-allomorphy,change-allomorphy-0,,,0
-724-target-meaning-type,724,target-meaning-type,target-meaning-type-evidential,,,evidential
+724-target-meaning-type,724,target-meaning-type,target-meaning-type-evidential,,,EVIDENTIAL
 724-source-form,724,source-form,,008008-vzjat-vzjat-mirative,,vzjat'
 724-value-semantic-integrity,724,value-semantic-integrity,value-semantic-integrity-3,,,3
 724-value-phonetic-reduction,724,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -13283,7 +13283,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 738-change-syntagmatic-variability,738,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 738-change-decategorization,738,change-decategorization,change-decategorization-0,,,0
 738-change-allomorphy,738,change-allomorphy,change-allomorphy-0,,,0
-739-target-meaning-type,739,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+739-target-meaning-type,739,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 739-source-form,739,source-form,,010044-pourdir-pourdir-complementizer,,(pour +) dir
 739-value-semantic-integrity,739,value-semantic-integrity,value-semantic-integrity-3,,,3
 739-value-phonetic-reduction,739,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -13805,7 +13805,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 767-change-syntagmatic-variability,767,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 767-change-decategorization,767,change-decategorization,change-decategorization-1,,,1
 767-change-allomorphy,767,change-allomorphy,change-allomorphy-0,,,0
-768-target-meaning-type,768,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+768-target-meaning-type,768,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 768-source-form,768,source-form,,021025-que-que-complementizer,,que
 768-value-semantic-integrity,768,value-semantic-integrity,value-semantic-integrity-3,,,3
 768-value-phonetic-reduction,768,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -13913,7 +13913,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 773-change-syntagmatic-variability,773,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 773-change-decategorization,773,change-decategorization,change-decategorization-1,,,1
 773-change-allomorphy,773,change-allomorphy,change-allomorphy-1,,,1
-774-target-meaning-type,774,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+774-target-meaning-type,774,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 774-source-form,774,source-form,,021001-a-a-female,,-a
 774-value-semantic-integrity,774,value-semantic-integrity,value-semantic-integrity-3,,,3
 774-value-phonetic-reduction,774,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14165,7 +14165,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 787-change-syntagmatic-variability,787,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 787-change-decategorization,787,change-decategorization,change-decategorization-1,,,1
 787-change-allomorphy,787,change-allomorphy,change-allomorphy-0,,,0
-788-target-meaning-type,788,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+788-target-meaning-type,788,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 788-source-form,788,source-form,,010038-taki-taki-complementizer,,taki
 788-value-semantic-integrity,788,value-semantic-integrity,value-semantic-integrity-3,,,3
 788-value-phonetic-reduction,788,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -14291,7 +14291,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 794-change-syntagmatic-variability,794,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 794-change-decategorization,794,change-decategorization,change-decategorization-0,,,0
 794-change-allomorphy,794,change-allomorphy,change-allomorphy-1,,,1
-795-target-meaning-type,795,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+795-target-meaning-type,795,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 795-source-form,795,source-form,,011051-kuri-kuri-complementizer,,k'u(-ri)
 795-value-semantic-integrity,795,value-semantic-integrity,value-semantic-integrity-3,,,3
 795-value-phonetic-reduction,795,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -14345,7 +14345,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 797-change-syntagmatic-variability,797,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 797-change-decategorization,797,change-decategorization,change-decategorization-1,,,1
 797-change-allomorphy,797,change-allomorphy,change-allomorphy-0,,,0
-798-target-meaning-type,798,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+798-target-meaning-type,798,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 798-source-form,798,source-form,,024001-bua-bua-classifier,,bua
 798-value-semantic-integrity,798,value-semantic-integrity,value-semantic-integrity-3,,,3
 798-value-phonetic-reduction,798,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -14723,7 +14723,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 818-change-syntagmatic-variability,818,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 818-change-decategorization,818,change-decategorization,change-decategorization-1,,,1
 818-change-allomorphy,818,change-allomorphy,change-allomorphy-0,,,0
-819-target-meaning-type,819,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+819-target-meaning-type,819,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 819-source-form,819,source-form,,026018-lw-l-sand,,lɛ̒ɛw
 819-value-semantic-integrity,819,value-semantic-integrity,value-semantic-integrity-3,,,3
 819-value-phonetic-reduction,819,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14777,7 +14777,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 821-change-syntagmatic-variability,821,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 821-change-decategorization,821,change-decategorization,change-decategorization-0,,,0
 821-change-allomorphy,821,change-allomorphy,change-allomorphy-0,,,0
-822-target-meaning-type,822,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+822-target-meaning-type,822,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 822-source-form,822,source-form,,026032-haj-haj-complementizer,,hâj
 822-value-semantic-integrity,822,value-semantic-integrity,value-semantic-integrity-3,,,3
 822-value-phonetic-reduction,822,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14831,7 +14831,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 824-change-syntagmatic-variability,824,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 824-change-decategorization,824,change-decategorization,change-decategorization-1,,,1
 824-change-allomorphy,824,change-allomorphy,change-allomorphy-0,,,0
-825-target-meaning-type,825,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+825-target-meaning-type,825,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 825-source-form,825,source-form,,026007-la-la-classifier,,lăŋ
 825-value-semantic-integrity,825,value-semantic-integrity,value-semantic-integrity-3,,,3
 825-value-phonetic-reduction,825,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14849,7 +14849,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 825-change-syntagmatic-variability,825,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 825-change-decategorization,825,change-decategorization,change-decategorization-1,,,1
 825-change-allomorphy,825,change-allomorphy,change-allomorphy-0,,,0
-826-target-meaning-type,826,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+826-target-meaning-type,826,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 826-source-form,826,source-form,,026008-luuk-luuk-classifier,,lûuk
 826-value-semantic-integrity,826,value-semantic-integrity,value-semantic-integrity-3,,,3
 826-value-phonetic-reduction,826,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14867,7 +14867,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 826-change-syntagmatic-variability,826,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 826-change-decategorization,826,change-decategorization,change-decategorization-1,,,1
 826-change-allomorphy,826,change-allomorphy,change-allomorphy-0,,,0
-827-target-meaning-type,827,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+827-target-meaning-type,827,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 827-source-form,827,source-form,,026035-tua-tua-classifier,,tua
 827-value-semantic-integrity,827,value-semantic-integrity,value-semantic-integrity-3,,,3
 827-value-phonetic-reduction,827,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -14885,7 +14885,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 827-change-syntagmatic-variability,827,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 827-change-decategorization,827,change-decategorization,change-decategorization-1,,,1
 827-change-allomorphy,827,change-allomorphy,change-allomorphy-0,,,0
-828-target-meaning-type,828,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+828-target-meaning-type,828,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 828-source-form,828,source-form,,026039-khon-khon-classifier,,khon
 828-value-semantic-integrity,828,value-semantic-integrity,value-semantic-integrity-3,,,3
 828-value-phonetic-reduction,828,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -15767,7 +15767,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 876-change-syntagmatic-variability,876,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 876-change-decategorization,876,change-decategorization,change-decategorization-0,,,0
 876-change-allomorphy,876,change-allomorphy,change-allomorphy-0,,,0
-877-target-meaning-type,877,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+877-target-meaning-type,877,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 877-source-form,877,source-form,,019061-r-r-complementizer,,(χʊ̀-)rɩ̀
 877-value-semantic-integrity,877,value-semantic-integrity,value-semantic-integrity-3,,,3
 877-value-phonetic-reduction,877,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -15947,7 +15947,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 886-change-syntagmatic-variability,886,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 886-change-decategorization,886,change-decategorization,change-decategorization-0,,,0
 886-change-allomorphy,886,change-allomorphy,change-allomorphy-0,,,0
-887-target-meaning-type,887,target-meaning-type,target-meaning-type-evidential,,,evidential
+887-target-meaning-type,887,target-meaning-type,target-meaning-type-evidential,,,EVIDENTIAL
 887-source-form,887,source-form,,019053-tshana-tshana-mirative,,tshʊ̀χànà
 887-value-semantic-integrity,887,value-semantic-integrity,value-semantic-integrity-3,,,3
 887-value-phonetic-reduction,887,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -16127,7 +16127,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 896-change-syntagmatic-variability,896,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 896-change-decategorization,896,change-decategorization,change-decategorization-0,,,0
 896-change-allomorphy,896,change-allomorphy,change-allomorphy-0,,,0
-897-target-meaning-type,897,target-meaning-type,target-meaning-type-number,,,number
+897-target-meaning-type,897,target-meaning-type,target-meaning-type-number,,,NUMBER
 897-source-form,897,source-form,,019008-ngwe-ngwe-some,,ngwe [ŋʷɩ̀]
 897-value-semantic-integrity,897,value-semantic-integrity,value-semantic-integrity-3,,,3
 897-value-phonetic-reduction,897,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -17603,7 +17603,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 978-change-syntagmatic-variability,978,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 978-change-decategorization,978,change-decategorization,change-decategorization-1,,,1
 978-change-allomorphy,978,change-allomorphy,change-allomorphy-0,,,0
-979-target-meaning-type,979,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+979-target-meaning-type,979,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 979-source-form,979,source-form,,003016-eteleetel-yeetel-npand,,"etel, éetel"
 979-value-semantic-integrity,979,value-semantic-integrity,value-semantic-integrity-3,,,3
 979-value-phonetic-reduction,979,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -17621,7 +17621,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 979-change-syntagmatic-variability,979,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 979-change-decategorization,979,change-decategorization,change-decategorization-1,,,1
 979-change-allomorphy,979,change-allomorphy,change-allomorphy-0,,,0
-980-target-meaning-type,980,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+980-target-meaning-type,980,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 980-source-form,980,source-form,,003017-tsokole-tsoletsokole-sand,,ts'o'k(-ol-e')
 980-value-semantic-integrity,980,value-semantic-integrity,value-semantic-integrity-3,,,3
 980-value-phonetic-reduction,980,value-phonetic-reduction,value-phonetic-reduction-2,,,2
@@ -17675,7 +17675,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 982-change-syntagmatic-variability,982,change-syntagmatic-variability,change-syntagmatic-variability-0,,,0
 982-change-decategorization,982,change-decategorization,change-decategorization-0,,,0
 982-change-allomorphy,982,change-allomorphy,change-allomorphy-1,,,1
-983-target-meaning-type,983,target-meaning-type,target-meaning-type-genderclassifier,,,gender/classifier
+983-target-meaning-type,983,target-meaning-type,target-meaning-type-genderclassifier,,,GENDER/classifier
 983-source-form,983,source-form,,003001-pel-peel-classifier,,p'el
 983-value-semantic-integrity,983,value-semantic-integrity,value-semantic-integrity-3,,,3
 983-value-phonetic-reduction,983,value-phonetic-reduction,value-phonetic-reduction-1,,,1
@@ -17837,7 +17837,7 @@ ID,Construction_ID,Parameter_ID,Code_ID,Example_IDs,Source,Value
 991-change-syntagmatic-variability,991,change-syntagmatic-variability,change-syntagmatic-variability-1,,,1
 991-change-decategorization,991,change-decategorization,change-decategorization-0,,,0
 991-change-allomorphy,991,change-allomorphy,change-allomorphy-0,,,0
-992-target-meaning-type,992,target-meaning-type,target-meaning-type-conjunction,,,conjunction
+992-target-meaning-type,992,target-meaning-type,target-meaning-type-conjunction,,,CONJUNCTION
 992-source-form,992,source-form,,023039-awa-o-linker,,*awa-
 992-value-semantic-integrity,992,value-semantic-integrity,value-semantic-integrity-3,,,3
 992-value-phonetic-reduction,992,value-phonetic-reduction,value-phonetic-reduction-2,,,2
