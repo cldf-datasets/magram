@@ -139,8 +139,10 @@ def make_example(row):
     analysed = analysed.strip().split()
     gloss = row['Example:Glossing'].strip().split()
     if len(analysed) != len(gloss):
-        print('{} - {}'.format(row_id, row['Example:Material']))
-        print(aligned_example(analysed, gloss))
+        print(f'example {row_id}: ERR: misaligned gloss')
+        print(' ', row['Example:Material'])
+        print(aligned_example(analysed, gloss, indent=2))
+        print('  ‘{}’'.format(row['Example:Translation']))
         print()
     return {
         'ID': row_id,
