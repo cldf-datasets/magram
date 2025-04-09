@@ -1,4 +1,6 @@
 import pathlib
+from collections import defaultdict
+from itertools import chain
 
 from clldutils.misc import slug
 from cldfbench import Dataset as BaseDataset, CLDFSpec
@@ -205,6 +207,32 @@ def make_cvalues(raw_data, cparameters, ccodes):
     return cvalues
 
 
+def normalise_label_group(label_group):
+    return label_group.lower()
+
+
+def make_lvalues(raw_data, lparameters):
+    label_groups = defaultdict(set)
+    for row in raw_data:
+        glottocode = row['Glottocode']
+        label_group = normalise_label_group(row['Target:Label_Group'])
+        form = row['Target:Form']
+        if label_group in lparameters:
+            label_groups[glottocode, label_group].add(form)
+        else:
+            print(
+                f'{glottocode}: target form ‘{form}’:',
+                f'unknown label group {label_group}')
+    return [
+        {
+            'Language_ID': glottocode,
+            'Parameter_ID': (param_id := lparameters[label_group]['ID']),
+            'ID': f'{glottocode}-{param_id}',
+            'Value': ' / '.join(sorted(forms)),
+        }
+        for (glottocode, label_group), forms in label_groups.items()]
+
+
 def define_wordlist_schema(cldf):
     cldf.add_component('LanguageTable')
     cldf.add_component('ContributionTable')
@@ -280,6 +308,9 @@ class Dataset(BaseDataset):
         cparameters = {
             row['Original_Column_Name']: row
             for row in self.etc_dir.read_csv('cparameters.csv', dicts=True)}
+        lparameters = {
+            row['Original_Name']: row
+            for row in self.etc_dir.read_csv('lparameters.csv', dicts=True)}
         ccodes = parse_ccodes(
             self.etc_dir.read_csv('ccodes.csv', dicts=True))
 
@@ -298,6 +329,7 @@ class Dataset(BaseDataset):
         # crossgram tables
         constructions = make_constructions(raw_data)
         cvalues = make_cvalues(raw_data, cparameters, ccodes)
+        lvalues = make_lvalues(raw_data, lparameters)
 
         # write cldf data
 
@@ -314,7 +346,9 @@ class Dataset(BaseDataset):
             define_crossgram_schema(writer.cldf)
             # LanguageTable and ExampleTable are being reused from the wordlist
             writer.objects['constructions.csv'] = constructions
-            writer.objects['ParameterTable'] = cparameters.values()
+            writer.objects['ParameterTable'] = list(chain(
+                lparameters.values(),
+                cparameters.values()))
             writer.objects['CodeTable'] = ccodes.values()
             writer.objects['cvalues.csv'] = cvalues
-            writer.objects['ValueTable'] = []
+            writer.objects['ValueTable'] = lvalues
