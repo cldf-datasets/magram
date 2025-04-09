@@ -1,6 +1,6 @@
 import pathlib
 from collections import defaultdict
-from itertools import chain
+from itertools import chain, zip_longest
 
 from clldutils.misc import slug
 from cldfbench import Dataset as BaseDataset, CLDFSpec
@@ -123,6 +123,16 @@ def make_concepts(raw_data):
     return concepts
 
 
+def aligned_example(analysed, gloss, indent=0):
+    widths = [
+        max(len(a), len(g))
+        for a, g in zip_longest(analysed, gloss, fillvalue='')]
+    prefix = ' ' * indent if indent else ''
+    line1 = '  '.join(a.ljust(w) for a, w in zip(analysed, widths))
+    line2 = '  '.join(g.ljust(w) for g, w in zip(gloss, widths))
+    return f'{prefix}{line1}\n{prefix}{line2}'
+
+
 def make_example(row):
     row_id = make_row_id(row)
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
@@ -130,8 +140,7 @@ def make_example(row):
     gloss = row['Example:Glossing'].strip().split()
     if len(analysed) != len(gloss):
         print('{} - {}'.format(row_id, row['Example:Material']))
-        print('\t'.join(analysed))
-        print('\t'.join(gloss))
+        print(aligned_example(analysed, gloss))
         print()
     return {
         'ID': row_id,
