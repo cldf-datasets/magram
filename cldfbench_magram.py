@@ -196,6 +196,10 @@ def make_constructions(raw_data):
         for row_no, row in enumerate(raw_data, 1)]
 
 
+def normalise_cvalue(value):
+    return value.lower()
+
+
 def make_cvalues(raw_data, cparameters, ccodes):
     cvalues = []
     for row_no, row in enumerate(raw_data, 1):
@@ -203,7 +207,7 @@ def make_cvalues(raw_data, cparameters, ccodes):
             value = row[col_name]
             if not value:
                 continue
-            code = ccodes.get((parameter['ID'], value))
+            code = ccodes.get((parameter['ID'], normalise_cvalue(value)))
             cvalue = {
                 'ID': '{}-{}'.format(row_no, parameter['ID']),
                 'Construction_ID': row_no,
@@ -225,23 +229,23 @@ def normalise_label_group(label_group):
 def make_lvalues(raw_data, lparameters):
     label_groups = defaultdict(set)
     for row in raw_data:
-        glottocode = row['Glottocode']
+        language_id = make_language_id(row)
         label_group = normalise_label_group(row['Target:Label_Group'])
         form = row['Target:Form']
         if label_group in lparameters:
-            label_groups[glottocode, label_group].add(form)
+            label_groups[language_id, label_group].add(form)
         else:
             print(
-                f'{glottocode}: target form ‘{form}’:',
+                f'{language_id}: target form ‘{form}’:',
                 f'unknown label group {label_group}')
     return [
         {
-            'Language_ID': glottocode,
+            'Language_ID': language_id,
             'Parameter_ID': (param_id := lparameters[label_group]['ID']),
-            'ID': f'{glottocode}-{param_id}',
+            'ID': f'{language_id}-{param_id}',
             'Value': ' / '.join(sorted(forms)),
         }
-        for (glottocode, label_group), forms in label_groups.items()]
+        for (language_id, label_group), forms in label_groups.items()]
 
 
 def define_wordlist_schema(cldf):
