@@ -227,13 +227,17 @@ def normalise_label_group(label_group):
 
 
 def make_lvalues(raw_data, lparameters):
-    label_groups = defaultdict(set)
+    label_groups = defaultdict(list)
     for row in raw_data:
         language_id = make_language_id(row)
         label_group = normalise_label_group(row['Target:Label_Group'])
-        form = row['Target:Form']
+        form = {
+            'form': row['Target:Form'],
+            'meaning': row['Target:Meaning'],
+        }
+
         if label_group in lparameters:
-            label_groups[language_id, label_group].add(form)
+            label_groups[language_id, label_group].append(form)
         else:
             print(
                 f'{language_id}: target form ‘{form}’:',
@@ -243,7 +247,9 @@ def make_lvalues(raw_data, lparameters):
             'Language_ID': language_id,
             'Parameter_ID': (param_id := lparameters[label_group]['ID']),
             'ID': f'{language_id}-{param_id}',
-            'Value': ' / '.join(sorted(forms)),
+            'Value': ' / '.join(form['form'] for form in forms),
+            'Comment': ' / '.join(form['meaning'] for form in forms),
+            'Description': row['Target:Meaning'],
         }
         for (language_id, label_group), forms in label_groups.items()]
 
