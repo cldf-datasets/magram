@@ -287,12 +287,13 @@ def define_crossgram_schema(cldf):
          'required': True},
         'http://cldf.clld.org/v1.0/terms.rdf#parameterReference',
         'http://cldf.clld.org/v1.0/terms.rdf#codeReference',
+        'http://cldf.clld.org/v1.0/terms.rdf#value',
+        'http://cldf.clld.org/v1.0/terms.rdf#source',
+        'http://cldf.clld.org/v1.0/terms.rdf#comment',
         {'name': 'Example_IDs',
          'datatype': {'base': 'string', 'format': '[a-zA-Z0-9_\\-]+'},
          'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference',
-         'separator': ';'},
-        'http://cldf.clld.org/v1.0/terms.rdf#source',
-        'http://cldf.clld.org/v1.0/terms.rdf#value')
+         'separator': ';'})
 
     cldf.add_foreign_key(
         'cvalues.csv', 'Construction_ID', 'constructions.csv', 'ID')
