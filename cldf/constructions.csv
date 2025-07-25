@@ -1,993 +1,993 @@
 ID,Language_ID,Name,Description
-1,abyanei,Gram: kVm-,FUTURE
-2,africanamericanvernacularenglish,Gram: done,COMPLETIVE Aspect
-3,aghul,"Gram: -naa, -naja, -na a, -na aa, -na aja",PERFECT
-4,aghul,"Gram: q-, qa-, qu-, qi",REPETITIVE
-5,aghul,Gram: (-j) aq'-,CONTINUOUS
-6,aghul,Gram: -qaj,COMITATIVE
-7,aghul,Gram: (a)q'as,CAUSATIVE aux
-8,aghul,"Gram: -guna, -gana, -guni",general TEMPORAL suffix ('converb')
-9,aghul,Gram: sa,(narrative) INDEFINITE ARTICLE
-10,aghul,Gram: jči(n),INDEFINITE Pronoun marker
-11,aghul,Gram: kːanči꞊ra,INDEFINITE Pronoun ('free choice') marker
-12,aghul,Gram: -ʁaj,hearsay EVIDENTIALITY
-13,aghul,Gram: sa,EXHAUSTIVE (discourse) particle ('only')
-14,aghul,Gram: -sij,IRREALIS
-15,aghul,Gram: =ra,negative Pronoun marker
-16,aghul,Gram: ꞊ra,"marker for ""COLLECTIVE"" numerals"
-17,aghul,Gram: sara,'other'
-18,aghul,Gram: sa,'same'
-19,aghul,Gram: (a)q'as,Pro-Verb (in Topicalization)
-20,aghul,"Gram: -čug-, -čuk'-, -čuq'-",VERIFICATIVE
-21,aghul,Gram: -ne,AORIST
-22,angolar,Gram: onge,REFLEXIVE
-23,archi,Gram: χos,PROBABILITY (PRESUMPTIVE) aux
-24,archi,Gram: -bosdub,derivational marker for ordinal numerals
-25,archi,Gram: -kː-,VERIFICATIVE
-26,archi,Gram: eq'en,ALLATIVE postposition
-27,awadhi,Gram: log,PLURAL marker for animates
-28,ayacuchoquechua,Gram: -q ka,HABITUAL (compound tense)
-29,ayacuchoquechua,Gram: -na,DEONTIC construction
-30,ayacuchoquechua,Gram: huk,'other'
-31,bactrian,Gram: i,DEFINITE article
-32,balantak,Gram: men,RELATIVIZER
-33,balochi,"Gram: āy-, āt",CHANGE-OF-STATE (vector verb for starting of an action)
-34,balochi,Gram: V(INF)-ā ã,PROGRESSIVE
-35,balochi,Gram: šut,CHANGE-OF-STATE (vector verb for initiating an action)
-36,balochi,Gram: išt,COMPLETIVE (vector verb)
-37,balochi,Gram: nešt,COMPLETIVE (vector verb)
-38,balochi,"Gram: zūr-, zīr- / zurt, zūrt",COMPLETIVE (vector verb for physical transfer)
-39,balochi,Gram: guš-ī,EVIDENTIAL (say.PRS-3SG)
-40,balochi,Gram: šī,EVIDENTIAL (say.PRS.3SG)
-41,balochi,Gram: V(INF)-ī int,OBLIGATION
-42,balochi,Gram: (b-)il,PERMISSIVE (IRR-leave.IMP2SG)
-43,balochi,Gram: lōṭ-,NECESSITY
-44,balochi,Gram: =ē,SINGULATIVE (individuation marker)
-45,balochi,Gram: sar,up' (adposition)
-46,balochi,Gram: pušt,BEHIND (adposition)
-47,balochi,Gram: V(INF)-ī ą,FUTURE
-48,balochieastern,Gram: šuθ,CHANGE-OF-STATE (vector verb for INTRANSITIVEs)
-49,balochiwestern,Gram: guš-an(t),EVIDENTIAL (say.PRS-3PL)
-50,balochiwestern,"Gram: āy-, āt (ki)",PROSPECTIVE (IMMEDIATE FUTURE)
-51,bambara,Gram: yé,COMPLETIVE predicative marker in TRANSITIVE constructions
-52,bambara,Gram: bán,'already' (particle in postverbal position)
-53,bambara,Gram: sín,INCHOATIVE aux
-54,bambara,Gram: sègín,REPETITIVE aux
-55,bambara,Gram: tó,CONTINUATIVE/HABITUAL aux
-56,bambara,Gram: tílá,aux meaning 'eventually'
-57,bambara,Gram: bóló,"under the responsibility of', 'in the personal sphere of' (postposition)"
-58,bambara,Gram: kà bɔ́,preposition 'starting from'
-59,bambara,Gram: bóló,AGENT (postposition)
-60,bambara,Gram: lá-,CAUSATIVE (prefix (indirect causation))
-61,bambara,Gram: bìlá,PERMISSIVE CAUSATION aux
-62,bambara,Gram: sání,TEMPORAL SUBORDINATOR
-63,bambara,Gram: ní,SUBORDINATOR 'if'
-64,bambara,Gram: sábú,CAUSAL SUBORDINATOR 'because'
-65,bambara,Gram: ko,SIMILE
-66,bambara,Gram: dɔ́,INDEFINITE (determiner)
-67,bambara,Gram: dǎn,'only'
-68,bambara,Gram: kélén,'alone' (adnominal particle)
-69,bambara,Gram: kélén,only (adnominal particle)
-70,bambara,Gram: mùsó,FEMALE (derivational suffix)
-71,bambara,Gram: -kɛ,MALE (derivational suffix)
-72,bambara,Gram: ká,HORTATIVE/SUBJUNCTIVE modal markers
-73,bambara,Gram: kànâ,PROHIBITIVE marker
-74,bambara,Gram: sé,POSSIBILITY MODAL aux
-75,bambara,Gram: kán,OBLIGATION MODAL aux
-76,bambara,Gram: sé,ABILITY (aux verb)
-77,bambara,Gram: sí,"DETERMINER in negative sense 'nothing, none'"
-78,bambara,Gram: dɔ́,'other'
-79,bambara,Gram: kélén,'same'
-80,bambara,Gram: -nin,DIMINUTIVE (derivational suffix)
-81,bambara,Gram: bóló,H-POSSESSIVE (postposition 'at' + LOC COP)
-82,bambara,Gram: à tìgî,emphatic third person PRONOUN ('the person in question')
-83,bambara,Gram: ɲɔ́gɔ́n,RECIPROCAL PRONOUN
-84,bambara,Gram: dɔ́,INDEFINITE PRONOUN
-85,bambara,Gram: féŋóofèŋ,INDEFINITE PRONOUN
-86,bambara,Gram: kǔn,SPATIAL postposition 'on'
-87,bambara,Gram: cɛ́,SPATIAL postposition 'between'
-88,bambara,Gram: kɔ́,"TEMPORAL/SPATIAL postposition 'behind','after'"
-89,bambara,Gram: kɔ́nɔ́,SPATIAL postposition 'in'
-90,bambara,Gram: ɲɛ́,"SPATIAL postposition 'in front of', 'before'"
-91,bambara,Gram: kà táa,preposition 'until'
-92,bambara,Gram: ná,FUTURE
-93,bambara,Gram: kàbíní,"TEMPORAL SUBORDINATOR 'when', 'since'"
-94,bambara,Gram: ɲíní,"IMMINENCE aux 'come close to, be about to'"
-95,bardi,Gram: jina,COPULA (POSSESSIVE)
-96,bardi,Gram: -ng(a),COMITATIVE APPLICATIVE
-97,bataviacreole,Gram: dja,PERFECTIVE
-98,bataviacreole,Gram: kung,ACCUSATIVE/DATIVE marker
-99,beja,Gram: -ani,"""V2-conjugation"" marker (IMPERFECTIVE)"
-100,beja,Gram: =wa,PERFECT
-101,beja,Gram: ak,PERFECT
-102,beja,Gram: harʔa baj,phasal CONTINUATIVE aspect
-103,beja,Gram: bʔa,phasal TERMINATIVE aux
-104,beja,Gram: (=eːb) hadiːd,until'
-105,beja,Gram: (=eːb) oː=kiːk,until'
-106,beja,Gram: geːb,next to' (SPATIAL postposition)
-107,beja,Gram: na,COMPLEMENTIZER (mostly: REL.F + the thing)
-108,beja,Gram: =hoːb,TEMPORAL marker 'when'
-109,beja,Gram: doːr,TEMPORAL marker 'when'
-110,beja,Gram: =uːk,CONDITIONAL (doubt)
-111,beja,Gram: =eːk,CONCESSION
-112,beja,Gram: dhaːj,PURPOSE SUBORDINATOR
-113,beja,Gram: mi-jaːd,PURPOSE
-114,beja,Gram: dʔi-,Emphatic constructions
-115,beja,Gram: -ni:n,Emphatic constructions
-116,beja,Gram: -d-,INTENTION
-117,beja,"Gram: ø, jʔ",POSSIBILITY
-118,beja,Gram: rib,CONTRASTIVE NEGATION aux
-119,beja,Gram: (i=)kna(=ji),adnominal INTENSIFIER
-120,beja,Gram: (i=)kna,adverbial INTENSIFIER (for predicate or entire phrase)
-121,beja,Gram: han,polar QUESTION marker
-122,beja,"Gram: hoːk, =hoːk",INTENSIFIER
-123,beja,Gram: eːn,DISCOURSE marker (for the end of discursive unit in narratives and poetry)
-124,beja,Gram: (i=)kna,attributive POSSESSION marker
-125,beja,Gram: baruːk,'you (SG)' (personal PRONOUN)
-126,beja,Gram: gali,INDEFINITE PRONOUN
-127,beja,Gram: naː,question words
-128,beja,Gram: =t,RELATIVIZER
-129,beja,Gram: ti=,RELATIVIZER
-130,beja,Gram: w= + =e:b,RELATIVIZER
-131,beja,Gram: ʔas,aux 'upwards'
-132,beja,Gram: o:n mari(-i),Centripetal Movement (lit. 'in our direction')
-133,beja,Gram: beːti,SPATIAL postposition 'towards' (ALLATIVE)
-134,beja,Gram: di,FUTURE aux
-135,beja,Gram: gad,IMMEDIATE FUTURE
-136,beja,Gram: hi,APPLICATIVE marker
-137,bhojpuri,Gram: t̩ho,CLASSIFIER
-138,bhojpuri,Gram: man,PLURAL marker for animates
-139,bhojpuri,Gram: sab,PLURAL marker for inanimates
-140,bhojpuri,Gram: bāt̩,PRESENT
-141,bhojpuri,Gram: rahnā,PAST ('IMPERFECT')
-142,bislama,Gram: finis,COMPLETIVE Aspect
-143,bolivianquechua,Gram: tiya-,"EXISTENTIAL ('to be', 'to live')"
-144,brazilianportuguese,Gram: viver,HABITUAL
-145,budugh,Gram: vowel change in stem (low back V to high front V),CAUSATIVE
-146,bulgarian,Gram: da,IRREALIS marker (verbal proclitic)
-147,bulgarian,Gram: šte,FUTURE aux/PARTICLE
-148,catalan,Gram: acabar,COMPLETIVE (aux)
-149,catalan,Gram: anar,ANDATIVE
-150,catalan,Gram: ir,PAST
-151,cherokee,Gram: t(a)-,FUTURE
-152,chorasmian,Gram: =k,POTENTIAL (particle)
-153,creolese,Gram: matii,RECIPROCAL
-154,croatianserbian,Gram: da,COMPLEMENTIZER
-155,croatianserbian,Gram: nemoj,PROHIBITIVE aux
-156,czech,Gram: dostat,recipient PASSIVE
-157,dakhinihindi,Gram: āpan,PERSONAL PRONOUN (1 person inclusive)
-158,dakhinihindi,Gram: bolke,QUOTATIVE marker
-159,dakhinihindi,Gram: so,RELATIVIZER
-160,diuindoportuguese,Gram: pə,DATIVE marker
-161,diuindoportuguese,Gram: tud,PLURAL
-162,diuindoportuguese,Gram: del,POSSESSIVE PRONOUN
-163,earlyjudeopersian,Gram: be-,FUTURE
-164,earlysranan,Gram: de,PROGRESSIVE
-165,eastkhantic,Gram: -na,ERGATIVE case
-166,ecuadorianquichua,Gram: -gri-,purpose of motion (associated motion)
-167,emai,Gram: gbe,against' ('momentary impact')
-168,emai,Gram: rɛ,CAUSATIVE
-169,emai,Gram: khì,('correlative') conjunction
-170,emai,Gram: ɔ̀kpá,exhaustive (discourse) particle ('only')
-171,emai,Gram: ɔ́mɔ̀hè,MALE
-172,emai,Gram: òkpòsò,FEMALE
-173,emai,Gram: degbè,carefully
-174,emai,Gram: dabɔ̀,deliberately'
-175,emai,Gram: fee ghoo,"try, feign, pretend' ('cancel event occurence')"
-176,emai,Gram: ba kun,in vain' (deactivate event fulfilment: adverbial)
-177,emai,Gram: zemi,a lot' ('absolute quantitative intensification')
-178,emai,Gram: gɔn,against' ('oblique contact')
-179,emai,Gram: khuan,onto' ('suspended attachment')
-180,emai,Gram: gbe,'too much' ('excessive quantitive achievement')
-181,emai,Gram: dobɔ̀,emphatic subject REFLEXIVE
-182,emai,Gram: ɔ̀kpá,'same'
-183,emai,Gram: égbè,RECIPROCAL PRONOUN
-184,emai,Gram: u,Pro-Verb
-185,emai,Gram: émì,INDEFINITE Pro
-186,emai,Gram: òtɔ̀ì,(on the) bottom of'
-187,emai,Gram: baa,(on)to/against' ('affixed attachment')
-188,emai,Gram: re,VENITIVE
-189,emai,Gram: so,to the end/top' ('terminal achievement'; postverbal)
-190,emai,Gram: úhùnmì,'up'
-191,emai,Gram: ɛ́kɛ́ìn,inside'
-192,emai,Gram: ye,DATIVE/ALLATIVE marker/prep.
-193,emai,Gram: ze,"in, into' ('inclusive attachment')"
-194,emai,Gram: égbè,REFLEXIVE PRONOUN
-195,emai,Gram: gba,together' ('COLLECTIVE')
-196,estonian,Gram: =ga,COMITATIVE
-197,estonian,Gram: -va(-t),"""oblique mood"" (EVIDENTIAL)"
-198,even,"Gram: -w,-u,-bu",POSSESSIVE AGREEMENT (here: 1SG)
-199,even,Gram: -m,(Verbal) Subject AGREEMENT (here: 1SG)
-200,even,Gram: -d'-,PROGRESSIVE
-201,even,Gram: -du,DATIVE-LOCATIVE
-202,even,Gram: -gi.li,COMITATIVE ('by the side of')
-203,even,Gram: -gA,DESIGNATIVE Case
-204,even,Gram: -wkAn,CAUSATIVE
-205,even,Gram: -ndu,numeral CLASSIFIER
-206,even,Gram: -sči-,DESIDERATIVE
-207,even,Gram: -dA,(distant) IMPERATIVE
-208,even,Gram: ba-,MODALITY marker (‚not want')
-209,even,Gram: -l,PLURAL
-210,even,Gram: -k(A),PREVENTIVE
-211,even,Gram: noŋan,3SG PRONOUN
-212,even,Gram: -ne-,VENTIVE
-213,even,Gram: -lA,LOCATIVE
-214,even,Gram: -d'i-,FUTURE
-215,even,"Gram: -w-, -m-",PASSIVE voice
-216,evenki,Gram: -soo-,ATTENUATIVE
-217,finnish,Gram: -mpa,COMPARATIVE
-218,finnish,Gram: saa(-kka),postposition 'until'
-219,finnish,Gram: -i,CONDITIONAL mood
-220,finnish,Gram: yksi,INDEFINITE article
-221,finnish,Gram: < -' >,IMPERATIVE (2SG)
-222,finnish,Gram: lie-,POTENTIALIS
-223,finnish,Gram: =kO,INTERROGATION
-224,finnish,Gram: -ssA (?),INESSIVE case
-225,finnish,"Gram: -ta-, -t.ta-",VERBALIZER
-226,finnish,"Gram: -a, -ä",INFINITIVE marker
-227,finnish,Gram: -ke-,Deriving Adj from Verbals
-228,french,Gram: allons,HORTATIVE (invariable) (1st person plural)
-229,french,Gram: on,INDEFINITE PRONOUN
-230,garhwali,Gram: le/-l,ERGATIVE case marker
-231,garhwali,Gram: bal,QUOTATIVE marker
-232,garhwali,"Gram: bāt̩i, bāt̩",ABLATIVE
-233,german,Gram: zu,PURPOSE preposition
-234,german,Gram: dass,COMPLEMENTIZER (with finite clauses)
-235,german,Gram: wo,adverbial clause marker
-236,german,Gram: der,DEFINITE ARTICLE
-237,german,Gram: ein,INDEFINITE article (here: masculine)
-238,german,Gram: würde,SUBJUNCTIVE (periphrastic SUBJUNCTIVE)
-239,german,Gram: doch,MODAL particle (implying shared knowledge)
-240,german,Gram: kriegen,'succeed'
-241,german,Gram: Mann,EXCLAMATION
-242,german,Gram: von,attributive POSSESSION (preposition)
-243,german,Gram: man,INDEFINITE PRONOUN
-244,german,Gram: ein(-er),INDEFINITE PRONOUN (-NOM.SG.M)
-245,german,Gram: Sie,'you' (PERSONAL PRONOUN 2SG/PL HONORIFIC)
-246,german,Gram: welcher,RELATIVIZER (RELATIVE PRONOUN)
-247,german,Gram: der,RELATIVIZER (RELATIVE PRONOUN)
-248,german,Gram: (ge-...-t) haben,PAST
-249,german,Gram: werden,FUTUTRE aux
-250,german,Gram: (ge-...-t) werden,PASSIVE aux
-251,german,Gram: bekommen,PASSIVE aux (recipient passive)
-252,german,Gram: sich,ANTICAUSATIVE
-253,german,Gram: zu,INFINITIVE marker
-254,guadelopeancreole,Gram: mwen,OBJECT PRONOUN
-255,guineabissaukriyol,Gram: utru,INDEFINITE ARTICLE
-256,guyanais,Gram: kompannyen,RECIPROCAL
-257,haitiancreole,Gram: ap,PROGRESSIVE
-258,haitiancreole,Gram: konn,HABITUAL
-259,haitiancreole,Gram: =la,DEFINITE ARTICLE
-260,haitiancreole,Gram: yo,PLURAL (particle)
-261,hindi,Gram: rahnā,DURATIVE continuative
-262,hindi,Gram: rahnā,PROGRESSIVE
-263,hindi,Gram: karnā,HABITUAL /FREQUENTATIVE
-264,hindi,Gram: cuknā,TERMINATIVE
-265,hindi,Gram: lagnā,INCHOATIVE
-266,hindi,Gram: ko,DATIVE case marker
-267,hindi,Gram: ko,ACCUSATIVE case marker
-268,hindi,Gram: ne,ERGATIVE case marker
-269,hindi,Gram: dvārā,'by (means of)'
-270,hindi,Gram: pās,near (SPATIAL postposition)
-271,hindi,Gram: karnā,TRANSITIVITY/CAUSATIVE marker
-272,hindi,Gram: denā,PERMISSIVE CAUSATION aux
-273,hindi,Gram: ki,alternative QUESTION marker ('or')
-274,hindi,Gram: to,"CONJUNCTION ('then, so')"
-275,hindi,"Gram: -kar, -ke",CONVERB marker
-276,hindi,Gram: apnī,"FOCUS, EMPHATIC marker (of possessor)"
-277,hindi,Gram: to,TOPIC (Contrastive topic particle)
-278,hindi,Gram: paṛnā,"constraining OBLIGATION ('be obliged to, have to')"
-279,hindi,Gram: honā,Specific DEONTIC OBLIGATION 'must'
-280,hindi,Gram: saknā,"default POSSIBILITY 'can, may'"
-281,hindi,Gram: pānā,"POSSIBILITY mood ""can"" ""succeed"""
-282,hindi,Gram: ānā,"ABILITY mood ""be able"""
-283,hindi,Gram: cāhie,"OBLIGATION ""should"""
-284,hindi,Gram: kā,GENITIVE marker
-285,hindi,Gram: āp,PERSONAL PRONOUN (2. person HONORIFIC)
-286,hindi,Gram: to,RELATIVIZER (Correlative after a relative)
-287,hindi,Gram: se,ABLATIVE
-288,hindi,Gram: pīcche,behind (SPATIAL postposition)
-289,hindi,Gram: -gā,FUTURE (suffix)
-290,hindi,Gram: apne,REFLEXIVE 'self'
-291,hindi,Gram: honā,INTRANSITIVE/MEDIO-PASSIVE marker
-292,hindi,Gram: jānā,PASSIVE voice marker (transitive and intransitive)
-293,hoocak,"Gram: wąągá-, wąągá-...-wi",first person DUAL/PLURAL (inclusive) UNDERGOER prefix
-294,hoocak,Gram: -he,CONTINUATIVE aspect
-295,hoocak,Gram: =(h)ak/=(h)ąk,CONTINUATIVE aspect
-296,hoocak,Gram: =ke,FREQUENTATIVE
-297,hoocak,Gram: ru-,INSTRUMENTAL prefix ('by hand')
-298,hoocak,Gram: =ga,SUBORDINATOR (CONTINUATIVE)
-299,hoocak,Gram: ='ų,SUBORDINATOR (SIMULTANITY)
-300,hoocak,Gram: =ra,DEFINITE ARTICLE
-301,hoocak,Gram: =(h)ižą,INDEFINITE ARTICLE
-302,hoocak,Gram: =ži,FOCUS marker
-303,hoocak,Gram: =gi,TOPIC marker
-304,hoocak,Gram: -wį,FEMALE (sexus marker for proper names)
-305,hoocak,Gram: =ga,PROPER NAME marker
-306,hoocak,Gram: =re,IMPERATIVE marker
-307,hoocak,Gram: -wi,PLURAL marker (SAP)
-308,hoocak,"Gram: =nįk, =įk",DIMINUTIVE marker
-309,hoocak,Gram: 'ee,"PERSONAL PRO (3rd person, emphatic)"
-310,hoocak,Gram: =že/=še,QUOTATIVE marker
-311,hoocak,Gram: eeja,general LOCATIVE postposition
-312,hoocak,Gram: =re,ADVERBIALIZER (TEMPORAL)
-313,huanca,"Gram: -kaʔ, -ka:",DEFINITE DETERMINER
-314,hungarian,Gram: a/z,DEFINITE article
-315,hungarian,Gram: -(V)n,SUPERESSIVE
-316,hungarian,Gram: bel-,"inside, interior'"
-317,hungarian,Gram: fog,FUTURE aux
-318,hungarian,Gram: =kor,TEMPORAL marker
-319,italian,Gram: andare,change of state
-320,italian,Gram: andare,HABITUAL
-321,italian,Gram: quando,marker of adverbial  (temporal) clause
-322,italian,Gram: arrivare,succeed'
-323,italian,Gram: arrivare,ABILITY
-324,italian,"Gram: lui, egli","personal pronoun, 3SG.M"
-325,italian,Gram: fare,pro-verb
-326,italian,Gram: ci,personal pronoun '(to) us/ourselves'
-327,italian,Gram: dove,RELATIVIZER
-328,italian,Gram: veder-si (+V),"PASSIVE (+ PAST.PARTICIPLE/INF) (e.g., si vide. RFL see.PST.3SG/si videro RFL see.PST.3PL)"
-329,jamaican,Gram: wehn,PAST
-330,japhug,"Gram: pɯ-, pjɤ-",PAST IMPERFECTIVE marker
-331,japhug,Gram: ɯ-ɕki,(3SG-) DATIVE marker
-332,japhug,Gram: ɯ-rca,COMITATIVE
-333,japhug,Gram: sɯβzu,periphrastic CAUSATIVE
-334,japhug,Gram: me,alternative CONJUNCTION 'whether'
-335,japhug,Gram: ɯspa,PURPOSIVE linker (SUBORDINATOR)
-336,japhug,Gram: nɯmga,PURPOSIVE linker (SUBORDINATOR)
-337,japhug,Gram: núndʐa,CAUSAL SUBORDINATOR ('for this reason')
-338,japhug,Gram: apɯŋu,CONDITIONAL (SUBORDINATOR)
-339,japhug,Gram: rcanɯ,UNEXPECTEDNESS marker
-340,japhug,Gram: ɲɯ-,SENSORY prefix (EVIDENTIAL: knowledge mediated through observation or second hand)
-341,japhug,Gram: ku-,EGOPHORIC prefix (EVIDENTIAL: personally experienced knowledge)
-342,japhug,Gram: pɯpɯŋunɤ,delimitive TOPIC marker
-343,japhug,Gram: jiɕqha,aforementioned TOPIC marker
-344,japhug,Gram: ŋu,FOCUS
-345,japhug,Gram: =ni,DUAL clitic
-346,japhug,Gram: -ʑo,INTENSIVE(-REFLEXIVE)
-347,japhug,Gram: -pɯ,DIMINUTIVE
-348,japhug,Gram: nɯ,PERSONAL PRO (3rd person)
-349,japhug,Gram: tɯrme,INDEFINITE PRONOUN
-350,japhug,"Gram: ɕɯ-, ɕ-, s-, z-",ANDATIVE prefix
-351,japhug,Gram: ɣɯ-,VENITIVE prefix
-352,japhug,Gram: rɤ-,ANTIPASSIVE voice marker
-353,japhug,Gram: -ʑɣɤ-,REFLEXIVE
-354,jubaarabic,Gram: amulu,CAUSATIVE
-355,jula,Gram: tá,GENITIVE (alienable) postposition
-356,ket,Gram: -ŋ,Adjective PLURAL AGREEMENT marker
-357,ket,Gram: -jə,3rd PERSON AGREEMENT marker
-358,ket,Gram: -du,Nominal Subject AGREEMENT Suffix
-359,ket,Gram: -ja- + -aj,STATIVE-RESULTATIVE Circumfix
-360,ket,Gram: -iŋ,ITERATIVE
-361,ket,Gram: -bɛt,ITERATIVE for transitive verbs
-362,ket,Gram: -a,DATIVE
-363,ket,Gram: -an,CARITIVE case marker
-364,ket,Gram: -q-...-it,(INCEPTIVE) CAUSATIVE
-365,ket,Gram: ø,INFINITIVE
-366,ket,Gram: sim,CONDITIONAL
-367,ket,Gram: -kupka,subordinate clause suffix (temporal subordinator)
-368,ket,Gram: bila,COMPLEMENTIZER
-369,ket,Gram: qān,OPTATIVE
-370,ket,Gram: -(V)ŋ,Event PLURALITY
-371,ket,Gram: -ŋ,"PLURAL, PLURACTIONAL marker"
-372,ket,Gram: qorɛ,RELATIVIZER
-373,ket,Gram: =ʌʌd=,top of
-374,ket,Gram: =bal=,between' (postposition)
-375,ket,Gram: -in,PAST
-376,ket,Gram: qam,PROX FUTURE
-377,ket,Gram: -k-,TRANSITIVIZER for motion verbs
-378,khmer,Gram: cɔp,COMPLETIVE
-379,khmer,Gram: haǝy,PERFECTIVE
-380,khmer,Gram: tɤ̀u,INCREMENTAL DEVELOPMENT
-381,khmer,Gram: nɤ̀u,CONTINUOUS
-382,khmer,Gram: dɔl,until'
-383,khmer,Gram: cì:ǝ,COMITATIVE marker
-384,khmer,Gram: ta:m,ACCORDING TO (preposition)
-385,khmer,Gram: ta:m,INSTRUMENTAL (used only with vehicles)
-386,khmer,Gram: daoy,INSTRUMENTAL (general)
-387,khmer,Gram: daoy,MATERIAL (in the sense of 'made of')
-388,khmer,Gram: Ɂaoy,BENEFACTIVE (preposition)
-389,khmer,Gram: Ɂaoy,DATIVE
-390,khmer,Gram: cì:ǝmù:ǝynɯ̒ŋ,'together'/COMITATIVE
-391,khmer,Gram: yɔ̀:k,INSTRUMENTAL marker
-392,khmer,Gram: thvɤ̀,CAUSATIVE
-393,khmer,Gram: Ɂaoy,CAUSATIVE
-394,khmer,Gram: cì:ǝ,CONCESSIVE
-395,khmer,Gram: rù:ǝc,CONSECUTIVE
-396,khmer,Gram: haǝy(-nɯ̒ŋ),COORDINATIVE particle 'and'
-397,khmer,Gram: daoy,adverbial SUBORDINATOR: CAUSE
-398,khmer,Gram: Ɂaoy,PURPOSE
-399,khmer,Gram: Ɂaoy,MANNER
-400,khmer,Gram: Ɂaoy,COMPLEMENTIZER
-401,khmer,Gram: nùh,DEFINITENESS
-402,khmer,Gram: mù:ǝy,INDEFINITNESS
-403,khmer,Gram: kba:l,CLASSIFIER
-404,khmer,Gram: ba:n,ABILITY
-405,khmer,Gram: ba:n,PERMISSIVE
-406,khmer,Gram: ba:n,POSSIBILITY
-407,khmer,Gram: ba:n,succeed'
-408,khmer,Gram: tɤ̀u,HORTATIVE
-409,khmer,Gram: cì:ǝ,"in the function of, as' (preposition)"
-410,khmer,Gram: rǝbɔh,POSSESSION marker
-411,khmer,Gram: cì:ǝ,QUOTATIVE marker
-412,khmer,Gram: tha:,QUOTATIVE marker
-413,khmer,Gram: mɔ̀:k,VENITIVE (DIRECTIONAL verb)
-414,khmer,Gram: tɤ̀u,ANDATIVE (DIRECTIONAL verb)
-415,khmer,Gram: ceɲ,EGRESSIVE (DIRECTIONAL verb)
-416,khmer,Gram: nɤ̀u,LOCATIVE preposition
-417,khmer,Gram: dɔl,ALLATIVE
-418,khmer,Gram: mɔ̀:k,preposition indicating DIRECTION to GOAL near speaker
-419,khmer,Gram: ta:m,SPATIAL ALONG/PATH
-420,khmer,Gram: tɤ̀u,ALLATIVE
-421,khmer,Gram: kha:ŋ-,LOCATIVE marker (prefix of relational noun)
-422,khmer,Gram: dɔl,TEMPORAL adverbial
-423,khmer,Gram: ba:n,PAST
-424,khmer,Gram: khlu:ǝn,INTENSIFIER-REFLEXIVE
-425,khmer,Gram: cì:ǝ,"derivational marker (of many adverbs, ""ADVERBIALIZER"")"
-426,khmer,Gram: daoy,"marker of adverbials (""ADVERBIALIZER"")"
-427,kitamaninka,Gram: -nín,PERFECT suffix (for inTRANSITIVE)
-428,kitamaninka,Gram: nànín,PERFECT predicative marker (for TRANSITIVE)
-429,kitamaninka,Gram: tèré,PAST
-430,korean,Gram: -ko.iss-,PROGRESSIVE
-431,korean,Gram: -e.ci-,INCHOATIVE
-432,korean,Gram: -kon.ha-,HABITUAL
-433,korean,Gram: -e.mek-,COMPLETIVE Aspect
-434,korean,Gram: -ko.iss-,RESULTATIVE (+HON)
-435,korean,Gram: -e.o-,CONTINUATIVE aux
-436,korean,Gram: -e.ka-,Change-of-State
-437,korean,Gram: e.noh-,COMPLETIVE (aux)
-438,korean,Gram: -ko.ancass,HABITUAL aux
-439,korean,Gram: -ey,DATIVE/LOCATIVE
-440,korean,Gram: -kkeyse,NOMINATIVE (Honorific)
-441,korean,Gram: -(ul)kac(i)ko,INSTRUMENTAL
-442,korean,Gram: -(ul)wihay,BENEFACTIVE
-443,korean,Gram: -(ul/ey) ttala,"along, according to'"
-444,korean,Gram: -e.cwu-,BENEFACTIVE
-445,korean,Gram: -pota,COMPARATIVE marker ('than')
-446,korean,Gram: -tasiphi,Similative connective ('as')
-447,korean,Gram: -chelem,Similative
-448,korean,Gram: -key.ha-,CAUSATIVE
-449,korean,Gram: -tako,COMPLEMENTIZER (Declarative)
-450,korean,Gram: -l kes,COMPLEMENTIZER
-451,korean,Gram: -ntey,Cause/Reason Subordinator
-452,korean,Gram: -n.twiey,after (TEMPORAL Conjunction)
-453,korean,Gram: -e.kacko,Cause/Reason subordinator
-454,korean,Gram: i-,COPULA
-455,korean,Gram: -l.tus.ha-,Inferential EVIDENTIALITY
-456,korean,Gram: -na/kka.siph-,Inferential EVIDENTIALITY
-457,korean,Gram: -ketun,TOPIC PRESENTATION
-458,korean,Gram: mali,CLASSIFIER (for animals!)
-459,korean,Gram: son,CLASSIFIER (handful)
-460,korean,Gram: -(i)nama,Dissatisfaction (delimiting particle)
-461,korean,Gram: -ko.siph-,DESIDERATIVE
-462,korean,Gram: -myen.an.toy-,PROHIBITIVE
-463,korean,Gram: -nun.pep.i-,OBLIGATION
-464,korean,Gram: -myen.toy-,SUGGESTIVE
-465,korean,Gram: -l.swu(to).iss-,POSSIBILITY
-466,korean,Gram: thullim.eps-,CERTAINTY
-467,korean,Gram: -l.they-,(strong) INTENTION
-468,korean,Gram: -lkka.po-,(tentative) INTENTION
-469,korean,Gram: -lye(ko)ha-,INTENTION
-470,korean,Gram: -(e)ya.ha-,OBLIGATION MODAL aux
-471,korean,Gram: -l.key,Promissive ('sentence-ender')
-472,korean,Gram: han,"APPROXIMATIVE quantifier ('about', 'some')"
-473,korean,Gram: kutuy,Pers PRON 2SG HON
-474,korean,Gram: -cocha,Counterexpectation' ('[not] even')
-475,korean,Gram: -mace,Counterexpectation
-476,korean,Gram: sosin,Pers PRON 1SG HUM
-477,korean,Gram: imca,Pers PRON 2SG HON
-478,korean,Gram: -lkkapwa,PREVENTIVE (APPREHENSIONAL)
-479,korean,"Gram: -aci,-akwi",DIMINUTIVE SUFFIX
-480,korean,Gram: -meli,PEJORATIVE (Derivational Suffix)
-481,korean,Gram: han,identicality ('same')
-482,korean,Gram: -uy,GENITIVE
-483,korean,Gram: -si-,subject honorification
-484,korean,"Gram: -sAp-, -zAp-, -cAp, -Ap-",addressee honorification
-485,korean,Gram: ha-,Pro-Verb
-486,korean,Gram: i.salam,Pers Pro 3SG
-487,korean,Gram: -n,RELATIVIZER (Participle-formant)
-488,korean,Gram: -e.ka-,ANDATIVE (PROGRESSIVE)
-489,korean,Gram: -pwuthe,ABLATIVE (postposition)
-490,korean,Gram: -(uy).twiey,Behind (Spatial postposition)
-491,korean,Gram: -poko,ALLATIVE postposition
-492,korean,Gram: (-uy) yephey,"LOCATIVE postposition (near, next to, at)"
-493,korean,Gram: -eys-,PAST
-494,korean,Gram: -l.kesi-,FUTURE
-495,korean,Gram: -l.ppen.ha-,AVERTIVE
-496,korean,Gram: -pat-,PASSIVE
-497,korean,Gram: -e.ci-,PASSIVE
-498,korean,Gram: kes,NOMINALIZER
-499,korean,Gram: cikyeng,"NOMINALIZER (state of x [undesirable situation]), mermaid construction"
-500,kott,"Gram: -aŋ, -u, -toŋ, -oŋ",Verbfinal Subject AGREEMENT
-501,kott,Gram: -(ŋ)ha:t,LOCATIVE case Suffix
-502,koyaga,Gram: kó,INTENTION MODAL aux
-503,kryz,Gram: -ra ʕaǯa,PROGRESSIVE
-504,kryz,Gram: vujiz,CAUSATIVE aux
-505,kryz,Gram: liji,derivational marker for ordinal numerals
-506,kryz,Gram: -ija,FUTURE
-507,kurdishkurmanji,Gram: -ek,INDEFINITE
-508,kurdishsorani,Gram: -ak,DEFINITE article/marker
-509,lezgian,Gram: -nwa,PERFECT
-510,lezgian,Gram: -zma,CONTINUATIVE PRESENT
-511,lezgian,"Gram: q(i)-, χ(u)-, -χ-",REPETITIVE
-512,lezgian,Gram: pataldi,BENEFACTIVE postposition
-513,lezgian,Gram: luhuz,COMPLEMENTIZER
-514,lezgian,Gram: xajit'a꞊ni,INDEFINITE Pronoun marker
-515,lezgian,Gram: -lda,hearsay EVIDENTIALITY
-516,lezgian,Gram: sa,reinforced negative Pronoun
-517,lezgian,Gram: (-t'a) akːʷ-,VERIFICATIVE
-518,lezgian,Gram: -na,AORIST
-519,lezgian,Gram: xun,ANTICAUSATIVE
-520,lezgian,Gram: -z,INFINITIVE
-521,lowersorbian,Gram: daś,EXISTENTIAL COPULA
-522,lowersorbian,Gram: daś,HORTATIVE
-523,luri,Gram: -gal,PLURAL suffix
-524,macedonian,Gram: neka,concessive (conjunction)
-525,macedonian,Gram: -ov,Enclitic ARTICLE
-526,makassarese,Gram: -a,DEFINITE article
-527,manchu,Gram: -ŋgi,DIRECTIONAL
-528,mandarin,Gram: wán < 完 >,RESULTATIVE complement ('-finish')
-529,mandarin,Gram: -le <了 >,PERFECTIVE suffix
-530,mandarin,Gram: le <了 >,sentence-final PERFECT particle
-531,mandarin,Gram: -zhe < 着 >,"DURATIVE suffix, IMPERFECTIVE suffix"
-532,mandarin,Gram: zài < 在 >,PROGRESSIVE aspect marker
-533,mandarin,Gram: -guo < 过(過) >,EXPERIENTIAL aspect suffix
-534,mandarin,Gram: dào < 到 >,RESULTATIVE complement
-535,mandarin,Gram: jiàn < 见 >,RESULTATIVE complement
-536,mandarin,Gram: shàng < 上 >,RESULTATIVE (PERFECTIVE) complement
-537,mandarin,Gram: bǎ < 把 >,"coverb, CAUSATIVE marker, disposal marker, etc."
-538,mandarin,Gram: dào < 到 >,"preposition/coverb 'until, til'"
-539,mandarin,Gram: gěi < 给 >,"preposition/coverb 'to, for'"
-540,mandarin,Gram: gēn < 跟 >,COMITATIVE marker
-541,mandarin,Gram: shì < 是 >,"COPULA (& FOCUS marker, verbal anaphor 'be so')"
-542,mandarin,Gram: bǎ < 把 >,numeral CLASSIFIER
-543,mandarin,Gram: shŏu < 手 >,numeral CLASSIFIER
-544,mandarin,Gram: tóu < 头 >,numeral CLASSIFIER
-545,mandarin,Gram: shēn < 身 >,numeral CLASSIFIER
-546,mandarin,Gram: gè < 个 >,general numeral CLASSIFIER
-547,mandarin,Gram: yào < 要 >,"modal auxiliary (dynamic, deontic, epistemic)"
-548,mandarin,Gram: néng < 能 >,"modal auxiliary (dynamic, deontic, epistemic)"
-549,mandarin,Gram: de < 得 >,POTENTIAL marker
-550,mandarin,Gram: yi <一 >,"all, whole'"
-551,mandarin,Gram: rén < 人 >,pronoun (3rd or 1st)
-552,mandarin,Gram: lái < 来 >,VENITIVE DIRECTIONAL marker
-553,mandarin,Gram: qù < 去 >,VENITIVE DIRECTIONAL marker
-554,mandarin,Gram: shàng < 上 >,postposition or relational noun (for time/space marking)
-555,mandarin,Gram: zài < 在 >,LOCATIVE preposition
-556,mandarin,Gram: gēn < 跟 >,"preposition/coverb 'behind, following' (in 'gēn-zhe')"
-557,mandarin,Gram: bèi < 背 >,preposition/coverb 'with back to' (in 'bèi-zhe')
-558,mandarin,Gram: yào < 要 >,FUTURE auxiliary
-559,mandarin,Gram: huì < 会(會) >,modal auxiliary (epistemic NECESSITY > FUTURE)
-560,mandarin,Gram: bèi < 被 >,"PASSIVE marker, coverb"
-561,mandarin,Gram: gěi < 给 >,"CAUSATIVE, PASSIVE"
-562,mandinka,"Gram: ŋà, ŋá",person AGREEMENT marker
-563,mandinka,Gram: kà,INCOMPLETIVE marker (HABITUAL situation)
-564,mandinka,Gram: bòyí,INCHOATIVE aux
-565,mandinka,Gram: làfí,PROXIMATIVE (aux verb)
-566,mandinka,Gram: lá,multifunctional postposition (e.g. INSTRUMENTAL)
-567,mandinka,Gram: -ndí,CAUSATIVE
-568,mandinka,Gram: kó,conjunction/preposition 'like'
-569,mandinka,Gram: -lá,non-finite verbal suffix (COMPLEMENTIZER of MODAL verbs)
-570,mandinka,Gram: kó,COMPLEMENTIZER
-571,mandinka,Gram: dóróŋ,TEMPORAL SUBORDINATOR 'as soon as'
-572,mandinka,Gram: à yè à tàrá,SUBORDINATOR 'whereas'
-573,mandinka,Gram: kó,"saying that', 'under the pretext that', 'on the ground that' (quotative subordinator)"
-574,mandinka,Gram: ko,PURPOSE (conjunction)
-575,mandinka,Gram: yé,COPULA
-576,mandinka,Gram: =ò,(default clitic) DETERMINER
-577,mandinka,Gram: =ŋ̀,(default clitic) DETERMINER
-578,mandinka,Gram: à,DEFINITE marker ('the N in question')
-579,mandinka,Gram: fó,OBLIGATION marker
-580,mandinka,Gram: làfí,INTENTION (aux verb)
-581,mandinka,Gram: -lú,PLURAL suffix
-582,mandinka,Gram: dóo,INDEFINITE determiner 'some'
-583,mandinka,Gram: fó,'except'
-584,mandinka,Gram: fó,INTERROGATIVE marker
-585,mandinka,Gram: lá,GENITIVE (alienable) postposition
-586,mandinka,Gram: sòtó,H-POSSESSIVE (verb)
-587,mandinka,"Gram: mɛ̂n, mîn",RELATIVIZER
-588,mandinka,Gram: bálá,'in contact with' (postposition)
-589,mandinka,Gram: kɔ́rɔ́,SPATIAL postposition 'under'
-590,mandinka,Gram: nǎŋ,centripetal marker
-591,mandinka,Gram: nǎŋ,VENITIVE (adverb)
-592,mandinka,Gram: yǎa,SPATIAL postposition ('at N's place')
-593,mandinka,Gram: nǔŋ,PAST
-594,mandinka,Gram: kó,IMMINENCE aux 'be about to'
-595,mandinka,Gram: -rí,ANTIPASSIVE /NOMINALIZER suffix
-596,maninkamori,"Gram: bárá, bádá",PERFECT predicative marker
-597,maninkamori,"Gram: bárá, bádá",COMPLETIVE (TAM-marker)
-598,mauritiancreole,"Gram: avek, ek",DATIVE (particle)
-599,mian,Gram: -ib,SUBJ AGREEMENT (2./3.PL.) suffix
-600,mian,Gram: be-,'keep doing'
-601,mian,Gram: -bi,CONTINUATIVE
-602,mian,Gram: deibo᷈,COMPLETIVE
-603,mian,Gram: -lo,PERFECTIVE
-604,mian,Gram: -b,SWITCH-REFERENCE
-605,mian,Gram: =e,DEFINITE ARTICLE
-606,mian,Gram: naka,MALE (uninflected modifier)
-607,mian,Gram: unǎng,FEMALE (uninflected modifier)
-608,mian,Gram: dim,'on' (SPATIAL/TEMPORAL)
-609,mian,Gram: dim=o bi,(predicative) POSSESSION marker
-610,mian,Gram: é,PERSONAL PRO (3rd person)
-611,mian,Gram: ge,QUOTATIVE
-612,mian,Gram: -daa,LOCATIVE
-613,mian,Gram: tem,SPATIAL marker 'in'
-614,mian,Gram: dǎang,'behind' (adposition)
-615,mian,Gram: -so,HESTERNAL PAST
-616,mian,Gram: -bio,(NON-HESTERNAL) PAST
-617,mian,Gram: -ub,APPLICATIVE
-618,middlepersian,Gram: kū,COMPLEMENTIZER
-619,middlepersian,Gram: kām-,FUTURE
-620,mohawk,Gram: -awi,BENEFACTIVE (HABITUAL)
-621,mohawk,Gram: -ni,BENEFACTIVE
-622,mohawk,Gram: ne,COMPLEMENTIZER
-623,mohawk,"Gram: ne, n",DEFINITE ARTICLE
-624,mohawk,Gram: ia:ken,EVIDENTIAL (hearsay)
-625,mohawk,Gram: -kwé:ni',(internal ABILITY) modal marker
-626,mohawk,Gram: =okon'a,PLURAL (allomorph)
-627,mohawk,Gram: =kó:wa,Augmentative
-628,mohawk,Gram: -akon,"LOCATIVE ('in, into')"
-629,mohawk,Gram: -at-,MEDIO-PASSIVE (middle voice)
-630,mohawk,Gram: -hst,CAUSATIVE
-631,mohawk,Gram: hkw-,APPLICATIVE
-632,mohawk,Gram: -akon,derivational marker (for places)
-633,mori,Gram: ondae,associative PLURAL marker (with personal names and kin terms)
-634,nanai,"Gram: -e-, -a-",NEG suffix
-635,nanai,"Gram: -sal, -sel",PLURAL
-636,nanai,Gram: =(j)Am,QUOTATIVE (enclitic)
-637,negerhollands,Gram: kā,COMPLETIVE Aspect
-638,negerhollands,Gram: lo,FUTURE
-639,newpersian,Gram: rav-,PROXIMATIVE
-640,newpersian,Gram: xwāh,PROXIMATIVE
-641,newpersian,Gram: =rā,marker (clitic) of DEFINITE direct objects
-642,newpersian,Gram: =rā,FOCUS marker (clitic)
-643,newpersian,Gram: zan,FEMALE
-644,newpersian,Gram: be-,"modal prefix, today SUBJUNCTIVE"
-645,newpersian,Gram: -hā,PLURAL suffix
-646,newpersian,Gram: tan,INTENSIVE-REFL
-647,newpersian,Gram: =e,“ezâfe” (clitic linking head noun to depending elements)
-648,newpersian,Gram: dār-,'have'
-649,newpersian,Gram: mī-,PRESENT tense affix
-650,newpersian,Gram: xwāh,FUTURE
-651,newpersian,Gram: šod,PASSIVE (MEDIO-PASSIVE light verb)
-652,newpersianafghan,Gram: raw-,CONTINUOUS
-653,northjuninquechua,"Gram: -ru, -ra",PERFECTIVE aspect
-654,northjuninquechua,Gram: -y(k)u,with special attention (INTENSIVE)
-655,nyigina,Gram: -arnda,PROGRESSIVE marker
-656,nyigina,Gram: -yibur(u),until' (postposition)
-657,nyulnyul,Gram: -jid,Change of State (Preverb)
-658,nyulnyul,"Gram: -na, -n",CONTINUOUS
-659,nyulnyul,Gram: jirr,COPULA (POSSESSIVE)
-660,nyulnyul,Gram: warinyjirr,INDEFINITE
-661,nyulnyul,Gram: warinyjirr,'same'
-662,nyulnyul,Gram: -bakand,predicative POSSESSION ('have')
-663,ossetic,Gram: -t-,TRANSITIVE PAST endings (here: 1SG.TR)
-664,ossetic,Gram: cæu-,PASSIVE (analytical PASSIVE)
-665,pacaraosquechua,Gram: -kama,"TERMINATIVE case marker ('until', 'as long as')"
-666,palenquero,Gram: asé,HABITUAL
-667,parthian,"Gram: kar-, kird",POTENTIAL
-668,pashto,Gram: dəy,COPULA (here: 3SG M)
-669,persian,"Gram: kon-, kard",CAUSATIVE
-670,persian,Gram: dā-,CAUSATIVE
-671,persian,Gram: ke,general subordinator
-672,persian,Gram: mard,MALE
-673,persian,Gram: ū,PERSONAL PRO (3rd person)
-674,pimabajo,Gram: a=,AGREEMENT marker
-675,pimabajo,Gram: -im,CONTINUOUS/PROGRESSIVE aspect
-676,pimabajo,Gram: -ka,STATIVE suffix
-677,pimabajo,Gram: tar,CAUSATIVE
-678,pimabajo,Gram: -tua,CAUSATIVE
-679,pimabajo,Gram: -dam,COMPLEMENTIZER
-680,pimabajo,Gram: ko,inflected subordinator
-681,pimabajo,Gram: ɨg,DEFINITE DETERMINER
-682,pimabajo,Gram: (h)ɨmak,INDEFINITE ARTICLE 'a'
-683,pimabajo,Gram: tua,EVIDENTIAL
-684,pimabajo,Gram: soig,CLASSIFIER for pet POSSESSION
-685,pimabajo,Gram: -(i)m,PLURAL suffix on nouns
-686,pimabajo,Gram: -ga,POSSESSIVE alienable marker
-687,pimabajo,Gram: -di/-r,inalienable POSSESSION
-688,pimabajo,Gram: (h)ɨg,PERSONAL PRO (3rd person)
-689,pimabajo,Gram: as [aš],QUOTATIVE (also: EVIDENTIAL/REPORTATIVE)
-690,pimabajo,Gram: ɨbiga,RELATIVIZER
-691,pimabajo,Gram: a=,MIDDLE marker
-692,pimabajo,Gram: -ka,NOMINALIZER
-693,pimabajo,Gram: -kam,ADJECTIVIZER
-694,polish,Gram: -m,Verbal AGREEMENT
-695,polish,Gram: mieć,(resultative) PERFECT
-696,polish,Gram: Zostać,PASSIVE aux
-697,principense,Gram: tava,PAST
-698,quechuai,"Gram: -yka(:)-, -ya(:)-",PROGRESSIVE aspect
-699,quechuai,Gram: waqta,behind' (SPATIAL postposition)
-700,quechuai,Gram: čay,"CONJUNCTION (causal, consecutive, temporal)"
-701,quechuai,Gram: ni-,COMPLEMENTIZER
-702,quechuai,Gram: uma,'upper part of body (positional meaning)'
-703,quechuai,Gram: huk,'same'
-704,quechuai,Gram: -pita,ABLATIVE case marker
-705,quechuai,Gram: -č̣aw,LOCATIVE case marker
-706,quechuai,Gram: waša,behind' (SPATIAL postposition)
-707,quechuai,Gram: -mu-,VENITIVE
-708,quechuai,Gram: uša-,after' (TEMPORAL postposition)
-709,quechuaii,Gram: -ku,PLURALIZER (for 1st and 3rd person)
-710,quechuaii,Gram: ri-,INCEPTIVE derivational marker
-711,quechuaii,Gram: warmi,FEMALE
-712,quechuaii,Gram: -čik,(verbal) PLURAL (2nd person)
-713,quechuaii,Gram: -ku,(verbal) PLURAL marker (1st and 3rd person)
-714,quechuaii,Gram: runa,INDEFINITE PRON ('someone else')
-715,quechuaii,Gram: čay,RELATIVIZER
-716,quechuaii,Gram: -manta,ABLATIVE case marker
-717,quechuaii,Gram: -sqa,NARRATIVE PAST (with a mirative overtone)
-718,ratahan,Gram: mai,VENITIVE marker
-719,romanian,Gram: =o (+ să),FUTURE (spoken and informal registers) (+ subjunctive complementizer)
-720,romansh,Gram: ins,INDEFINITE MARKER
-721,russian,Gram: -(o/e)j + V,Adjective inflection
-722,russian,Gram: dat',CAUSATIVE aux
-723,russian,"Gram: -i, -j",Counterfactual CONDITIONAL
-724,russian,Gram: vzjat',INEXPECTATIVE (MODAL aux)
-725,russian,Gram: moč',MODAL aux ('can')
-726,russian,Gram: pust',HORTATIVE particle
-727,russian,Gram: prixodit'sja,circumstantical MUST (acquisitive modal)
-728,russian,Gram: budet,FUTURE aux
-729,russian,Gram: -l,GENERAL PAST
-730,russian,Gram: bylo (+ -l-),ANTIRESULTATIVE
-731,russian,Gram: -sja,PASSIVE voice
-732,rutul,Gram: his xujnɨ,because
-733,rutul,Gram: jɨq'a,HORTATIVE
-734,rutul,Gram: -si,FUTURE
-735,semnani,Gram: =eš,verbal affix in PAST (here: 3SG)
-736,seychellescreole,"Gram: fin, (i)n",COMPLETIVE Aspect
-737,seychellescreole,Gram: pran,INSTRUMENTAL
-738,seychellescreole,Gram: pran,PATIENT marker
-739,seychellescreole,Gram: pourdir,COMPLEMENTIZER
-740,seychellescreole,Gram: sa,FOCUS marker
-741,seychellescreole,Gram: bann,PLURAL (particle)
-742,seychellescreole,Gram: kanmarad,RECIPROCAL
-743,seychellescreole,Gram: kot,LOCATIVE (marker)
-744,seychellescreole,Gram: pou,FUTURE
-745,seychellescreole,Gram: ti,PAST
-746,seychellescreole,Gram: ganny,PASSIVE
-747,slovak,Gram: nech,HORTATIVE aux
-748,sogdian,Gram: δˀr-,TRANSITIVE PERFECT marker
-749,sogdian,Gram: (ə)xu,COPULA
-750,sogdian,Gram: (ə)xu,DEFINITE ARTICLE (here: M)
-751,sogdian,Gram: -t,PLURAL suffix
-752,sogdian,Gram: kām,FUTURE (prefix)
-753,sogdian,Gram: bw-,POTENTIAL for MIDDLE voice / PASSIVE
-754,sogdianmanichean,Gram: skwn,PROGRESSIVE
-755,solomonislandspijin,Gram: fastaem,"'before', 'in front of'"
-756,southernaymara,Gram: -nk(a),existential VERBALIZER
-757,spanish,Gram: haber,PERFECT marker
-758,spanish,Gram: estar,PROGRESSIVE
-759,spanish,Gram: andar,motion PROGRESSIVE periphrasis
-760,spanish,Gram: venir,CONTINUOUS
-761,spanish,Gram: ir,CONTINUOUS
-762,spanish,Gram: seguir,CONTINUOUS
-763,spanish,Gram: a,DATIVE marker
-764,spanish,Gram: a,marker of non-canonical Os (DOM)
-765,spanish,Gram: de,PARTITIVE marker
-766,spanish,Gram: hacer,CAUSATIVE
-767,spanish,Gram: hacer,CAUSATIVE
-768,spanish,Gram: que,COMPLEMENTIZER
-769,spanish,Gram: un,INDEFINITE article  (M)
-770,spanish,Gram: la,DEFINITE ARTICLE (F)
-771,spanish,Gram: se,impersonal/INDEFINITE marker
-772,spanish,Gram: la gente,IMPERSONAL/INDEFINITE marker
-773,spanish,Gram: unum/-am,INDEFINITE ARTICLE
-774,spanish,Gram: -a,feminine SINGULAR
-775,spanish,Gram: haber,epistemic MODALITY
-776,spanish,Gram: deber,epistemic MODALITY aux
-777,spanish,Gram: -s,PLURAL
-778,spanish,Gram: se,marker of the lack of control of the subject
-779,spanish,Gram: de,POSSESSION marker 'of'
-780,spanish,Gram: tener,POSSESSION
-781,spanish,Gram: mi,prenominal determiner POSSESSIVE (clitic)
-782,spanish,Gram: que,invariant RELATIVIZER
-783,spanish,Gram: ir (a),FUTURE (aux)
-784,spanish,Gram: acabar (de),RECENT PAST
-785,spanish,Gram: se,marker of PASSIVE voice
-786,spanish,Gram: ser,PASSIVE aux
-787,spanish,Gram: quedar,PASSIVE-like aux
-788,sranan,Gram: taki,COMPLEMENTIZER
-789,sranan,Gram: a,DEFINITE ARTICLE
-790,sranan,Gram: wan,INDEFINITE ARTICLE
-791,sranan,Gram: tapu,SPATIAL postposition
-792,srilankaportugese,Gram: -pa,ACCUSATIVE
-793,tabasaran,Gram: -vuz,"AGREEMENT marker (here:2SG, dative)"
-794,tabasaran,Gram: ʁ-,PERFECTIVE prefix
-795,tabasaran,Gram: k'uri,COMPLEMENTIZER
-796,tabasaran,Gram: -pi,derivational marker for ordinal numerals
-797,tajio,Gram: =po,INCOMPLETIVE clitic
-798,tajio,Gram: bua,numeral CLASSIFIER (default for objects)
-799,tajio,Gram: to,RELATIVIZER
-800,talyshi,Gram: =m,FOCUS
-801,talyshi,Gram: ča-,GENITIVE prefix (of PRONOUNs)
-802,tatjewish,Gram: =ho,COMPLEMENTIZER
-803,tatjewish,Gram: omor-,PASSIVE aux
-804,tatmuslim,Gram: (b-)il,HORTATIVE (IRR-leave.IMP2SG)
-805,tatmuslim,Gram: ba-V(PST)-an=üm,PRESENT tense
-806,ternatechabacano,Gram: hugá,RECIPROCAL
-807,thai,Gram: sèt,COMPLETIVE
-808,thai,Gram: yùu,CONTINUOUS
-809,thai,Gram: taam,ACCORDING TO
-810,thai,Gram: hâj,BENEFACTIVE (preposition)
-811,thai,Gram: hâj,DATIVE
-812,thai,Gram: (khâŋ)khâaŋ,beside'
-813,thai,Gram: Ɂaw,INSTRUMENTAL
-814,thai,Gram: tham,CAUSATIVE
-815,thai,Gram: hâj,CAUSATIVE
-816,thai,Gram: thy̌ŋ,'until'
-817,thai,Gram: thy̌ŋ,CONCESSIVE
-818,thai,Gram: maa,CONSECUTIVE
-819,thai,Gram: lɛ̒Ɂ,COORDINATIVE particle
-820,thai,Gram: hâj,PURPOSE
-821,thai,Gram: hâj,MANNER
-822,thai,Gram: hâj,COMPLEMENTIZER
-823,thai,Gram: nán,DEFINITENESS
-824,thai,Gram: nỳŋ,INDEFINITNESS
-825,thai,Gram: lăŋ,CLASSIFIER
-826,thai,Gram: lûuk,CLASSIFIER
-827,thai,Gram: tua,CLASSIFIER
-828,thai,Gram: khon,CLASSIFIER
-829,thai,Gram: pen,ABILITY (in terms of LEARNED ABILITY)
-830,thai,Gram: dâj,ABILITY
-831,thai,Gram: dâj,PERMISSIVE
-832,thai,Gram: dâj,POSSIBILITY
-833,thai,Gram: dâj,'succeed'
-834,thai,Gram: pen,"preposition/coverb meaning 'in the function of, as'"
-835,thai,Gram: khɔ̌ɔŋ,POSSESSION marker
-836,thai,Gram: wâa,QUOTATIVE marker
-837,thai,Gram: lăŋ,behind'
-838,thai,Gram: maa,VENITIVE (DIRECTIONAL verb)
-839,thai,Gram: paj,ANDATIVE (DIRECTIONAL verb)
-840,thai,Gram: thy̌ŋ,ALLATIVE
-841,thai,Gram: maa,Coverb/preposition indicating DIRECTION to GOAL near speaker
-842,thai,Gram: taam,SPATIAL:ALONG/PATH
-843,thai,Gram: paj,preposition (indication DIRECTION to GOAL away from speaker)
-844,thai,Gram: Ɂɔ̀ɔk,ALLATIVE (preposition)
-845,thai,Gram: càak,ABLATIVE (preposition)
-846,thai,Gram: khâŋ,LOCATIVE marker (relational noun)
-847,thai,Gram: lăŋ,after'
-848,thai,Gram: lăŋ,earlier'
-849,thai,Gram: maa,TEMPORAL reference
-850,thai,Gram: dâj,PAST
-851,tokpisin,Gram: i stap,PROGRESSIVE
-852,tokpisin,Gram: ol,PLURAL
-853,tokpisin,Gram: bilong,GENITIVE marker ('of')
-854,tokpisin,Gram: bai,FUTURE
-855,tsakhur,"Gram: -haʔas, -aʔas",CAUSATIVE
-856,tsakhur,Gram: -xe-d,INDEFINITE Pronoun marker (here: gender IV)
-857,tsakhur,Gram: -s꞊od,OBLIGATION (here: gender IV)
-858,tswana,Gram: áχá,CONTINUATIVE aux
-859,tswana,Gram: àtìsà,"HABITUAL aux ('do something often, or in great quantity')"
-860,tswana,Gram: bʊ́á,REPETITIVE aux
-861,tswana,Gram: χá...tɬhɔ̀lɩ́,have ceased doing something' [TERMINATIVE aux]
-862,tswana,Gram: nà lɩ́-,do something usually'
-863,tswana,Gram: nàmà,CONTINUATIVE aux 'continue to do something'
-864,tswana,Gram: nàmílé,have eventually done something' (aux)
-865,tswana,Gram: ńná,be still doing something' (aux)
-866,tswana,Gram: ńtsé,"do something continually', or 'be still doing something'"
-867,tswana,Gram: sétsɩ́,'be already doing something'
-868,tswana,Gram: tɬhɔ̀là,do something continually'
-869,tswana,Gram: tsàmàjà,do something continually'
-870,tswana,Gram: tshɩ́lá,do something continually'
-871,tswana,Gram: ká,INSTRUMENTAL preposition
-872,tswana,Gram: kɩ́,CAUSATOR preposition (marking agent in PASSIVEs)
-873,tswana,Gram: (fá) ɩ́sàlɩ́,'since'
-874,tswana,Gram: fá !ɩ́lɩ́,'regarding'
-875,tswana,Gram: fá !ɩ́sɩ́,'except'
-876,tswana,Gram: go ya ka [χʊ̀-jà ká],'according to'
-877,tswana,Gram: χʊ̀rɩ̀,COMPLEMENTIZER
-878,tswana,Gram: ká,"since, as"
-879,tswana,Gram: fá,"CONDITIONAL CONJUNCTION (when, if)"
-880,tswana,Gram: χʊ̀fìtɬhɛ̀là,until
-881,tswana,Gram: χʊ̀rɩ̀,PURPOSIVE (subordinator?) 'so that'
-882,tswana,Gram: tɬà,conjunctions expressing sequentiality ('and then')
-883,tswana,Gram: ɛ́tá,conjunction expressing simultaneity
-884,tswana,Gram: ka gore [ká χʊ́rɩ̀],CAUSE (conjunction)
-885,tswana,Gram: morago [mʊ̀ráχʊ́],after (preposition)
-886,tswana,Gram: -tla [tɬà],CONSECUTIVE (aux )
-887,tswana,Gram: tshʊ̀χànà,do something unexpectedly'
-888,tswana,Gram: -ká,POTENTIAL marker
-889,tswana,Gram: bàtɬà,NECESSITY aux ('need to do something')
-890,tswana,Gram: nà lɩ́-,be obliged to do something' (aux)
-891,tswana,Gram: tshwánétsɩ́,be obliged to do something
-892,tswana,Gram: rátá [rátá],INTENTION (aux)
-893,tswana,Gram: χà...ńnɩ́,never do something' [NEGATIVE aux]
-894,tswana,Gram: -sɩ̀,NEGATION (prefix)
-895,tswana,Gram: χáná,NEGATION aux
-896,tswana,Gram: bó-,plain PLURAL marker (human)
-897,tswana,Gram: ngwe [ŋʷɩ̀],some (determiner)
-898,tswana,Gram: ngwe [ŋʷɩ̀],'other'
-899,tswana,Gram: ɩ́sɩ̀ŋ́,"'except, instead'"
-900,tswana,Gram: jó,noun-modifier LINKER
-901,tswana,Gram: lɩ́,noun-modifier LINKER in counting constructions
-902,tswana,Gram: -ana,DIMINUTIVE (derivational suffix)
-903,tswana,Gram: -áχá-,GENITIVE LINKER (person names & kinship terms)
-904,tswana,Gram: -ŋ́,relative verb form marker
-905,tswana,Gram: fá,LOCATIVE preposition
-906,tswana,Gram: -ŋ̀,LOCATIVE suffix
-907,tswana,Gram: χʊ́-,LOCATIVE prefix
-908,tswana,Gram: χá-,LOCATIVE prefix
-909,tswana,Gram: morago [mʊ̀ráχʊ́],LOCATIVE preposition
-910,tswana,Gram: go simolola [χʊ̀ -símʊ́lʊ́là],'from'
-911,tswana,Gram: go tloga [χʊ̀-tɬʊ̀χà],'from'
-912,tswana,Gram: go tswa [χʊ̀-tswà],'from'
-913,tswana,Gram: morago [mʊ̀ráχʊ́],behind (preposition)
-914,tswana,Gram: díkílé,have done something in the PAST year' [PAST aux]
-915,tswana,Gram: létsɩ́,have done something the day before' [RECENT PAST aux]
-916,tswana,Gram: sàlɩ́,"have done something long ago, or for the last time'"
-917,tswana,Gram: sátswá,have just done something'
-918,tswana,Gram: tɬàà-díká,do something during the next year'
-919,tswana,Gram: tɬàà-lálá,do something before the end of the day'
-920,tswana,Gram: tɬàà-tsʊ́χá,do something the next day'
-921,tswana,Gram: tsʊ́χílé,have done something in the morning'
-922,tswana,Gram: bàtɬà,IMMINENCE aux ('seem to be about to do something')
-923,tswana,Gram: bàtɬílé,have nearly done something' [aux]
-924,tswana,Gram: lʊ̀sètsà,IMMINENCE aux ('seem to be about to do something')
-925,tswana,Gram: rátílé,have nearly done something'
-926,tswana,Gram: sɩ́ŋ́kílé,have nearly done something'
-927,tswana,Gram: tɬʊ̀χà,be close to doing something'
-928,tswana,Gram: tsàmàɛ̀là,be close to doing something'
-929,tswana,Gram: tsìlé,seem to be close to do something'
-930,tswana,Gram: jà,be close to doing something'
-931,tswana,Gram: rátá [rátá],AVERTIVE (aux)
-932,tundranenets,Gram: -w⁰,"""objective conjugation"" (used with topicalized objects)"
-933,tundranenets,Gram: -q,IMPERATIVE (2SG)
-934,tundranenets,Gram: -q,nominal DUAL
-935,tundranenets,Gram: syiq-,PRONOUN (Stem) ACCUSATIVE
-936,tundranenets,Gram: pida,Personal Pro (3SG)
-937,tundranenets,Gram: -e-sy⁰,PAST
-938,tundranenets,Gram: -e-,"""finite morphem"", marker of finite conjugation"
-939,tuscarora,Gram: ha',DEFINITE ARTICLE
-940,udi,Gram: -a,DATIVE
-941,udi,Gram: -d- (-tː- after s),CAUSATIVE
-942,udi,Gram: ꞊(n)esa,INDEFINITE Pronoun marker
-943,udi,Gram: baksun,internal + external POSSIBILITY aux
-944,udi,Gram: ek-i,reinforced HORTATIVE
-945,udi,Gram: barta,PERMISSIVE
-946,udi,Gram: kije,TEMPORAL POSSESSION postposition
-947,udi,Gram: bačːˁaneχun,behind
-948,udi,Gram: bel,"SPATIAL postposition 'at, near'"
-949,udi,Gram: -(e)sa,PRESENT tense
-950,udi,Gram: -al=e,FUTURE (here: 3SG)
-951,udi,Gram: -ec-,DECAUSATIVE (here: past tense allomorph)
-952,uppersorbian,Gram: sydać,EXISTENTIAL COPULA
-953,uppersorbian,Gram: jen,INDEFINITE article
-954,veps,Gram: =päi,ABLATIVE Clitic
-955,vincentiancreole,Gram: fo,GENITIVE marker ('of')
-956,wakhi,Gram: -ər(k),DATIVE suffix
-957,warrwa,Gram: -ngany,INSTRUMENTAL
-958,warrwa,Gram: -jina,inalienable POSSESSION marking (on possessum)
-959,warrwa,Gram: na-,TRANSITIVE conjugation marker
-960,warrwa,Gram: -banyji,REFLEXIVE/RECIPROCAL action
-961,xufipamir,Gram: -ard,LOCATIVE
-962,yaghnobi,Gram: =išt,PRESENT TENSE
-963,yaqui,Gram: -sime,DURATIVE
-964,yaqui,Gram: -yaate,CESSATIVE aspect
-965,yaqui,Gram: -bae,DESIDERATIVE
-966,yaqui,Gram: -ii'aa,indirect DESIDERATIVE
-967,yaqui,Gram: -'ea,SUBJUNCTIVE
-968,yawuru,Gram: -ni,ERGATIVE
-969,yawuru,Gram: -jina,GEN of Animates
-970,yawuru,Gram: -nga...-ngany,predicative POSSESSION ('have')
-971,yawuru,Gram: -jinaburu,INSTRUMENTAL NOMINALIZER
-972,yucatec,Gram: k,IMPERFECTIVE aspect
-973,yucatec,"Gram: tíin, táan, túun",PROGRESSIVE aspect
-974,yucatec,Gram: ts',TERMINATIVE aspect
-975,yucatec,Gram: t,PERFECTIVE
-976,yucatec,Gram: o'l,adposition 'on account of' (preposition)
-977,yucatec,Gram: ts'a',CAUSATIVE
-978,yucatec,Gram: yo'lal,'in order that'
-979,yucatec,Gram: (y)éetel,COORDINATOR
-980,yucatec,"Gram: ts'o'le, ts'o'kole",discourse-level conjunction
-981,yucatec,Gram: le,DEFINITE ARTICLE
-982,yucatec,"Gram: hun, un",INDEFINITE ARTICLE
-983,yucatec,Gram: -p'éel,inanimate object CLASSIFIER
-984,yucatec,Gram: máax,'who' (INTERROGATIVE PRONOUN)
-985,yucatec,Gram: ba'x,'what' (INTERROGATIVE PRONOUN)
-986,yucatec,Gram: óok'ol,"'on, above' (preposition)"
-987,yucatec,"Gram: =la', =a'",this' (deictic clitics)
-988,yucatec,Gram: t=u paach,'behind' (preposition)
-989,yucatec,Gram: yan,FUTURE
-990,yucatec,Gram: bíin,PREDICTIVE FUTURE
-991,yucatec,Gram: báah,REFLEXIVE ('self')
-992,zazaki,Gram: o,“ezâfe” (clitic linking head noun to depending elements)
+1,abyanei,Gram: FUTURE,kVm-
+2,africanamericanvernacularenglish,Gram: COMPLETIVE Aspect,done
+3,aghul,Gram: PERFECT,"-naa, -naja, -na a, -na aa, -na aja"
+4,aghul,Gram: REPETITIVE,"q-, qa-, qu-, qi"
+5,aghul,Gram: CONTINUOUS,(-j) aq'-
+6,aghul,Gram: COMITATIVE,-qaj
+7,aghul,Gram: CAUSATIVE aux,(a)q'as
+8,aghul,Gram: general TEMPORAL suffix ('converb'),"-guna, -gana, -guni"
+9,aghul,Gram: (narrative) INDEFINITE ARTICLE,sa
+10,aghul,Gram: INDEFINITE Pronoun marker,jči(n)
+11,aghul,Gram: INDEFINITE Pronoun ('free choice') marker,kːanči꞊ra
+12,aghul,Gram: hearsay EVIDENTIALITY,-ʁaj
+13,aghul,Gram: EXHAUSTIVE (discourse) particle ('only'),sa
+14,aghul,Gram: IRREALIS,-sij
+15,aghul,Gram: negative Pronoun marker,=ra
+16,aghul,"Gram: marker for ""COLLECTIVE"" numerals",꞊ra
+17,aghul,Gram: 'other',sara
+18,aghul,Gram: 'same',sa
+19,aghul,Gram: Pro-Verb (in Topicalization),(a)q'as
+20,aghul,Gram: VERIFICATIVE,"-čug-, -čuk'-, -čuq'-"
+21,aghul,Gram: AORIST,-ne
+22,angolar,Gram: REFLEXIVE,onge
+23,archi,Gram: PROBABILITY (PRESUMPTIVE) aux,χos
+24,archi,Gram: derivational marker for ordinal numerals,-bosdub
+25,archi,Gram: VERIFICATIVE,-kː-
+26,archi,Gram: ALLATIVE postposition,eq'en
+27,awadhi,Gram: PLURAL marker for animates,log
+28,ayacuchoquechua,Gram: HABITUAL (compound tense),-q ka
+29,ayacuchoquechua,Gram: DEONTIC construction,-na
+30,ayacuchoquechua,Gram: 'other',huk
+31,bactrian,Gram: DEFINITE article,i
+32,balantak,Gram: RELATIVIZER,men
+33,balochi,Gram: CHANGE-OF-STATE (vector verb for starting of an action),"āy-, āt"
+34,balochi,Gram: PROGRESSIVE,V(INF)-ā ã
+35,balochi,Gram: CHANGE-OF-STATE (vector verb for initiating an action),šut
+36,balochi,Gram: COMPLETIVE (vector verb),išt
+37,balochi,Gram: COMPLETIVE (vector verb),nešt
+38,balochi,Gram: COMPLETIVE (vector verb for physical transfer),"zūr-, zīr- / zurt, zūrt"
+39,balochi,Gram: EVIDENTIAL (say.PRS-3SG),guš-ī
+40,balochi,Gram: EVIDENTIAL (say.PRS.3SG),šī
+41,balochi,Gram: OBLIGATION,V(INF)-ī int
+42,balochi,Gram: PERMISSIVE (IRR-leave.IMP2SG),(b-)il
+43,balochi,Gram: NECESSITY,lōṭ-
+44,balochi,Gram: SINGULATIVE (individuation marker),=ē
+45,balochi,Gram: up' (adposition),sar
+46,balochi,Gram: BEHIND (adposition),pušt
+47,balochi,Gram: FUTURE,V(INF)-ī ą
+48,balochieastern,Gram: CHANGE-OF-STATE (vector verb for INTRANSITIVEs),šuθ
+49,balochiwestern,Gram: EVIDENTIAL (say.PRS-3PL),guš-an(t)
+50,balochiwestern,Gram: PROSPECTIVE (IMMEDIATE FUTURE),"āy-, āt (ki)"
+51,bambara,Gram: COMPLETIVE predicative marker in TRANSITIVE constructions,yé
+52,bambara,Gram: 'already' (particle in postverbal position),bán
+53,bambara,Gram: INCHOATIVE aux,sín
+54,bambara,Gram: REPETITIVE aux,sègín
+55,bambara,Gram: CONTINUATIVE/HABITUAL aux,tó
+56,bambara,Gram: aux meaning 'eventually',tílá
+57,bambara,"Gram: under the responsibility of', 'in the personal sphere of' (postposition)",bóló
+58,bambara,Gram: preposition 'starting from',kà bɔ́
+59,bambara,Gram: AGENT (postposition),bóló
+60,bambara,Gram: CAUSATIVE (prefix (indirect causation)),lá-
+61,bambara,Gram: PERMISSIVE CAUSATION aux,bìlá
+62,bambara,Gram: TEMPORAL SUBORDINATOR,sání
+63,bambara,Gram: SUBORDINATOR 'if',ní
+64,bambara,Gram: CAUSAL SUBORDINATOR 'because',sábú
+65,bambara,Gram: SIMILE,ko
+66,bambara,Gram: INDEFINITE (determiner),dɔ́
+67,bambara,Gram: 'only',dǎn
+68,bambara,Gram: 'alone' (adnominal particle),kélén
+69,bambara,Gram: only (adnominal particle),kélén
+70,bambara,Gram: FEMALE (derivational suffix),mùsó
+71,bambara,Gram: MALE (derivational suffix),-kɛ
+72,bambara,Gram: HORTATIVE/SUBJUNCTIVE modal markers,ká
+73,bambara,Gram: PROHIBITIVE marker,kànâ
+74,bambara,Gram: POSSIBILITY MODAL aux,sé
+75,bambara,Gram: OBLIGATION MODAL aux,kán
+76,bambara,Gram: ABILITY (aux verb),sé
+77,bambara,"Gram: DETERMINER in negative sense 'nothing, none'",sí
+78,bambara,Gram: 'other',dɔ́
+79,bambara,Gram: 'same',kélén
+80,bambara,Gram: DIMINUTIVE (derivational suffix),-nin
+81,bambara,Gram: H-POSSESSIVE (postposition 'at' + LOC COP),bóló
+82,bambara,Gram: emphatic third person PRONOUN ('the person in question'),à tìgî
+83,bambara,Gram: RECIPROCAL PRONOUN,ɲɔ́gɔ́n
+84,bambara,Gram: INDEFINITE PRONOUN,dɔ́
+85,bambara,Gram: INDEFINITE PRONOUN,féŋóofèŋ
+86,bambara,Gram: SPATIAL postposition 'on',kǔn
+87,bambara,Gram: SPATIAL postposition 'between',cɛ́
+88,bambara,"Gram: TEMPORAL/SPATIAL postposition 'behind','after'",kɔ́
+89,bambara,Gram: SPATIAL postposition 'in',kɔ́nɔ́
+90,bambara,"Gram: SPATIAL postposition 'in front of', 'before'",ɲɛ́
+91,bambara,Gram: preposition 'until',kà táa
+92,bambara,Gram: FUTURE,ná
+93,bambara,"Gram: TEMPORAL SUBORDINATOR 'when', 'since'",kàbíní
+94,bambara,"Gram: IMMINENCE aux 'come close to, be about to'",ɲíní
+95,bardi,Gram: COPULA (POSSESSIVE),jina
+96,bardi,Gram: COMITATIVE APPLICATIVE,-ng(a)
+97,bataviacreole,Gram: PERFECTIVE,dja
+98,bataviacreole,Gram: ACCUSATIVE/DATIVE marker,kung
+99,beja,"Gram: ""V2-conjugation"" marker (IMPERFECTIVE)",-ani
+100,beja,Gram: PERFECT,=wa
+101,beja,Gram: PERFECT,ak
+102,beja,Gram: phasal CONTINUATIVE aspect,harʔa baj
+103,beja,Gram: phasal TERMINATIVE aux,bʔa
+104,beja,Gram: until',(=eːb) hadiːd
+105,beja,Gram: until',(=eːb) oː=kiːk
+106,beja,Gram: next to' (SPATIAL postposition),geːb
+107,beja,Gram: COMPLEMENTIZER (mostly: REL.F + the thing),na
+108,beja,Gram: TEMPORAL marker 'when',=hoːb
+109,beja,Gram: TEMPORAL marker 'when',doːr
+110,beja,Gram: CONDITIONAL (doubt),=uːk
+111,beja,Gram: CONCESSION,=eːk
+112,beja,Gram: PURPOSE SUBORDINATOR,dhaːj
+113,beja,Gram: PURPOSE,mi-jaːd
+114,beja,Gram: Emphatic constructions,dʔi-
+115,beja,Gram: Emphatic constructions,-ni:n
+116,beja,Gram: INTENTION,-d-
+117,beja,Gram: POSSIBILITY,"ø, jʔ"
+118,beja,Gram: CONTRASTIVE NEGATION aux,rib
+119,beja,Gram: adnominal INTENSIFIER,(i=)kna(=ji)
+120,beja,Gram: adverbial INTENSIFIER (for predicate or entire phrase),(i=)kna
+121,beja,Gram: polar QUESTION marker,han
+122,beja,Gram: INTENSIFIER,"hoːk, =hoːk"
+123,beja,Gram: DISCOURSE marker (for the end of discursive unit in narratives and poetry),eːn
+124,beja,Gram: attributive POSSESSION marker,(i=)kna
+125,beja,Gram: 'you (SG)' (personal PRONOUN),baruːk
+126,beja,Gram: INDEFINITE PRONOUN,gali
+127,beja,Gram: question words,naː
+128,beja,Gram: RELATIVIZER,=t
+129,beja,Gram: RELATIVIZER,ti=
+130,beja,Gram: RELATIVIZER,w= + =e:b
+131,beja,Gram: aux 'upwards',ʔas
+132,beja,Gram: Centripetal Movement (lit. 'in our direction'),o:n mari(-i)
+133,beja,Gram: SPATIAL postposition 'towards' (ALLATIVE),beːti
+134,beja,Gram: FUTURE aux,di
+135,beja,Gram: IMMEDIATE FUTURE,gad
+136,beja,Gram: APPLICATIVE marker,hi
+137,bhojpuri,Gram: CLASSIFIER,t̩ho
+138,bhojpuri,Gram: PLURAL marker for animates,man
+139,bhojpuri,Gram: PLURAL marker for inanimates,sab
+140,bhojpuri,Gram: PRESENT,bāt̩
+141,bhojpuri,Gram: PAST ('IMPERFECT'),rahnā
+142,bislama,Gram: COMPLETIVE Aspect,finis
+143,bolivianquechua,"Gram: EXISTENTIAL ('to be', 'to live')",tiya-
+144,brazilianportuguese,Gram: HABITUAL,viver
+145,budugh,Gram: CAUSATIVE,vowel change in stem (low back V to high front V)
+146,bulgarian,Gram: IRREALIS marker (verbal proclitic),da
+147,bulgarian,Gram: FUTURE aux/PARTICLE,šte
+148,catalan,Gram: COMPLETIVE (aux),acabar
+149,catalan,Gram: ANDATIVE,anar
+150,catalan,Gram: PAST,ir
+151,cherokee,Gram: FUTURE,t(a)-
+152,chorasmian,Gram: POTENTIAL (particle),=k
+153,creolese,Gram: RECIPROCAL,matii
+154,croatianserbian,Gram: COMPLEMENTIZER,da
+155,croatianserbian,Gram: PROHIBITIVE aux,nemoj
+156,czech,Gram: recipient PASSIVE,dostat
+157,dakhinihindi,Gram: PERSONAL PRONOUN (1 person inclusive),āpan
+158,dakhinihindi,Gram: QUOTATIVE marker,bolke
+159,dakhinihindi,Gram: RELATIVIZER,so
+160,diuindoportuguese,Gram: DATIVE marker,pə
+161,diuindoportuguese,Gram: PLURAL,tud
+162,diuindoportuguese,Gram: POSSESSIVE PRONOUN,del
+163,earlyjudeopersian,Gram: FUTURE,be-
+164,earlysranan,Gram: PROGRESSIVE,de
+165,eastkhantic,Gram: ERGATIVE case,-na
+166,ecuadorianquichua,Gram: purpose of motion (associated motion),-gri-
+167,emai,Gram: against' ('momentary impact'),gbe
+168,emai,Gram: CAUSATIVE,rɛ
+169,emai,Gram: ('correlative') conjunction,khì
+170,emai,Gram: exhaustive (discourse) particle ('only'),ɔ̀kpá
+171,emai,Gram: MALE,ɔ́mɔ̀hè
+172,emai,Gram: FEMALE,òkpòsò
+173,emai,Gram: carefully,degbè
+174,emai,Gram: deliberately',dabɔ̀
+175,emai,"Gram: try, feign, pretend' ('cancel event occurence')",fee ghoo
+176,emai,Gram: in vain' (deactivate event fulfilment: adverbial),ba kun
+177,emai,Gram: a lot' ('absolute quantitative intensification'),zemi
+178,emai,Gram: against' ('oblique contact'),gɔn
+179,emai,Gram: onto' ('suspended attachment'),khuan
+180,emai,Gram: 'too much' ('excessive quantitive achievement'),gbe
+181,emai,Gram: emphatic subject REFLEXIVE,dobɔ̀
+182,emai,Gram: 'same',ɔ̀kpá
+183,emai,Gram: RECIPROCAL PRONOUN,égbè
+184,emai,Gram: Pro-Verb,u
+185,emai,Gram: INDEFINITE Pro,émì
+186,emai,Gram: (on the) bottom of',òtɔ̀ì
+187,emai,Gram: (on)to/against' ('affixed attachment'),baa
+188,emai,Gram: VENITIVE,re
+189,emai,Gram: to the end/top' ('terminal achievement'; postverbal),so
+190,emai,Gram: 'up',úhùnmì
+191,emai,Gram: inside',ɛ́kɛ́ìn
+192,emai,Gram: DATIVE/ALLATIVE marker/prep.,ye
+193,emai,"Gram: in, into' ('inclusive attachment')",ze
+194,emai,Gram: REFLEXIVE PRONOUN,égbè
+195,emai,Gram: together' ('COLLECTIVE'),gba
+196,estonian,Gram: COMITATIVE,=ga
+197,estonian,"Gram: ""oblique mood"" (EVIDENTIAL)",-va(-t)
+198,even,Gram: POSSESSIVE AGREEMENT (here: 1SG),"-w,-u,-bu"
+199,even,Gram: (Verbal) Subject AGREEMENT (here: 1SG),-m
+200,even,Gram: PROGRESSIVE,-d'-
+201,even,Gram: DATIVE-LOCATIVE,-du
+202,even,Gram: COMITATIVE ('by the side of'),-gi.li
+203,even,Gram: DESIGNATIVE Case,-gA
+204,even,Gram: CAUSATIVE,-wkAn
+205,even,Gram: numeral CLASSIFIER,-ndu
+206,even,Gram: DESIDERATIVE,-sči-
+207,even,Gram: (distant) IMPERATIVE,-dA
+208,even,Gram: MODALITY marker (‚not want'),ba-
+209,even,Gram: PLURAL,-l
+210,even,Gram: PREVENTIVE,-k(A)
+211,even,Gram: 3SG PRONOUN,noŋan
+212,even,Gram: VENTIVE,-ne-
+213,even,Gram: LOCATIVE,-lA
+214,even,Gram: FUTURE,-d'i-
+215,even,Gram: PASSIVE voice,"-w-, -m-"
+216,evenki,Gram: ATTENUATIVE,-soo-
+217,finnish,Gram: COMPARATIVE,-mpa
+218,finnish,Gram: postposition 'until',saa(-kka)
+219,finnish,Gram: CONDITIONAL mood,-i
+220,finnish,Gram: INDEFINITE article,yksi
+221,finnish,Gram: IMPERATIVE (2SG),< -' >
+222,finnish,Gram: POTENTIALIS,lie-
+223,finnish,Gram: INTERROGATION,=kO
+224,finnish,Gram: INESSIVE case,-ssA (?)
+225,finnish,Gram: VERBALIZER,"-ta-, -t.ta-"
+226,finnish,Gram: INFINITIVE marker,"-a, -ä"
+227,finnish,Gram: Deriving Adj from Verbals,-ke-
+228,french,Gram: HORTATIVE (invariable) (1st person plural),allons
+229,french,Gram: INDEFINITE PRONOUN,on
+230,garhwali,Gram: ERGATIVE case marker,le/-l
+231,garhwali,Gram: QUOTATIVE marker,bal
+232,garhwali,Gram: ABLATIVE,"bāt̩i, bāt̩"
+233,german,Gram: PURPOSE preposition,zu
+234,german,Gram: COMPLEMENTIZER (with finite clauses),dass
+235,german,Gram: adverbial clause marker,wo
+236,german,Gram: DEFINITE ARTICLE,der
+237,german,Gram: INDEFINITE article (here: masculine),ein
+238,german,Gram: SUBJUNCTIVE (periphrastic SUBJUNCTIVE),würde
+239,german,Gram: MODAL particle (implying shared knowledge),doch
+240,german,Gram: 'succeed',kriegen
+241,german,Gram: EXCLAMATION,Mann
+242,german,Gram: attributive POSSESSION (preposition),von
+243,german,Gram: INDEFINITE PRONOUN,man
+244,german,Gram: INDEFINITE PRONOUN (-NOM.SG.M),ein(-er)
+245,german,Gram: 'you' (PERSONAL PRONOUN 2SG/PL HONORIFIC),Sie
+246,german,Gram: RELATIVIZER (RELATIVE PRONOUN),welcher
+247,german,Gram: RELATIVIZER (RELATIVE PRONOUN),der
+248,german,Gram: PAST,(ge-...-t) haben
+249,german,Gram: FUTUTRE aux,werden
+250,german,Gram: PASSIVE aux,(ge-...-t) werden
+251,german,Gram: PASSIVE aux (recipient passive),bekommen
+252,german,Gram: ANTICAUSATIVE,sich
+253,german,Gram: INFINITIVE marker,zu
+254,guadelopeancreole,Gram: OBJECT PRONOUN,mwen
+255,guineabissaukriyol,Gram: INDEFINITE ARTICLE,utru
+256,guyanais,Gram: RECIPROCAL,kompannyen
+257,haitiancreole,Gram: PROGRESSIVE,ap
+258,haitiancreole,Gram: HABITUAL,konn
+259,haitiancreole,Gram: DEFINITE ARTICLE,=la
+260,haitiancreole,Gram: PLURAL (particle),yo
+261,hindi,Gram: DURATIVE continuative,rahnā
+262,hindi,Gram: PROGRESSIVE,rahnā
+263,hindi,Gram: HABITUAL /FREQUENTATIVE,karnā
+264,hindi,Gram: TERMINATIVE,cuknā
+265,hindi,Gram: INCHOATIVE,lagnā
+266,hindi,Gram: DATIVE case marker,ko
+267,hindi,Gram: ACCUSATIVE case marker,ko
+268,hindi,Gram: ERGATIVE case marker,ne
+269,hindi,Gram: 'by (means of)',dvārā
+270,hindi,Gram: near (SPATIAL postposition),pās
+271,hindi,Gram: TRANSITIVITY/CAUSATIVE marker,karnā
+272,hindi,Gram: PERMISSIVE CAUSATION aux,denā
+273,hindi,Gram: alternative QUESTION marker ('or'),ki
+274,hindi,"Gram: CONJUNCTION ('then, so')",to
+275,hindi,Gram: CONVERB marker,"-kar, -ke"
+276,hindi,"Gram: FOCUS, EMPHATIC marker (of possessor)",apnī
+277,hindi,Gram: TOPIC (Contrastive topic particle),to
+278,hindi,"Gram: constraining OBLIGATION ('be obliged to, have to')",paṛnā
+279,hindi,Gram: Specific DEONTIC OBLIGATION 'must',honā
+280,hindi,"Gram: default POSSIBILITY 'can, may'",saknā
+281,hindi,"Gram: POSSIBILITY mood ""can"" ""succeed""",pānā
+282,hindi,"Gram: ABILITY mood ""be able""",ānā
+283,hindi,"Gram: OBLIGATION ""should""",cāhie
+284,hindi,Gram: GENITIVE marker,kā
+285,hindi,Gram: PERSONAL PRONOUN (2. person HONORIFIC),āp
+286,hindi,Gram: RELATIVIZER (Correlative after a relative),to
+287,hindi,Gram: ABLATIVE,se
+288,hindi,Gram: behind (SPATIAL postposition),pīcche
+289,hindi,Gram: FUTURE (suffix),-gā
+290,hindi,Gram: REFLEXIVE 'self',apne
+291,hindi,Gram: INTRANSITIVE/MEDIO-PASSIVE marker,honā
+292,hindi,Gram: PASSIVE voice marker (transitive and intransitive),jānā
+293,hoocak,Gram: first person DUAL/PLURAL (inclusive) UNDERGOER prefix,"wąągá-, wąągá-...-wi"
+294,hoocak,Gram: CONTINUATIVE aspect,-he
+295,hoocak,Gram: CONTINUATIVE aspect,=(h)ak/=(h)ąk
+296,hoocak,Gram: FREQUENTATIVE,=ke
+297,hoocak,Gram: INSTRUMENTAL prefix ('by hand'),ru-
+298,hoocak,Gram: SUBORDINATOR (CONTINUATIVE),=ga
+299,hoocak,Gram: SUBORDINATOR (SIMULTANITY),='ų
+300,hoocak,Gram: DEFINITE ARTICLE,=ra
+301,hoocak,Gram: INDEFINITE ARTICLE,=(h)ižą
+302,hoocak,Gram: FOCUS marker,=ži
+303,hoocak,Gram: TOPIC marker,=gi
+304,hoocak,Gram: FEMALE (sexus marker for proper names),-wį
+305,hoocak,Gram: PROPER NAME marker,=ga
+306,hoocak,Gram: IMPERATIVE marker,=re
+307,hoocak,Gram: PLURAL marker (SAP),-wi
+308,hoocak,Gram: DIMINUTIVE marker,"=nįk, =įk"
+309,hoocak,"Gram: PERSONAL PRO (3rd person, emphatic)",'ee
+310,hoocak,Gram: QUOTATIVE marker,=že/=še
+311,hoocak,Gram: general LOCATIVE postposition,eeja
+312,hoocak,Gram: ADVERBIALIZER (TEMPORAL),=re
+313,huanca,Gram: DEFINITE DETERMINER,"-kaʔ, -ka:"
+314,hungarian,Gram: DEFINITE article,a/z
+315,hungarian,Gram: SUPERESSIVE,-(V)n
+316,hungarian,"Gram: inside, interior'",bel-
+317,hungarian,Gram: FUTURE aux,fog
+318,hungarian,Gram: TEMPORAL marker,=kor
+319,italian,Gram: change of state,andare
+320,italian,Gram: HABITUAL,andare
+321,italian,Gram: marker of adverbial  (temporal) clause,quando
+322,italian,Gram: succeed',arrivare
+323,italian,Gram: ABILITY,arrivare
+324,italian,"Gram: personal pronoun, 3SG.M","lui, egli"
+325,italian,Gram: pro-verb,fare
+326,italian,Gram: personal pronoun '(to) us/ourselves',ci
+327,italian,Gram: RELATIVIZER,dove
+328,italian,"Gram: PASSIVE (+ PAST.PARTICIPLE/INF) (e.g., si vide. RFL see.PST.3SG/si videro RFL see.PST.3PL)",veder-si (+V)
+329,jamaican,Gram: PAST,wehn
+330,japhug,Gram: PAST IMPERFECTIVE marker,"pɯ-, pjɤ-"
+331,japhug,Gram: (3SG-) DATIVE marker,ɯ-ɕki
+332,japhug,Gram: COMITATIVE,ɯ-rca
+333,japhug,Gram: periphrastic CAUSATIVE,sɯβzu
+334,japhug,Gram: alternative CONJUNCTION 'whether',me
+335,japhug,Gram: PURPOSIVE linker (SUBORDINATOR),ɯspa
+336,japhug,Gram: PURPOSIVE linker (SUBORDINATOR),nɯmga
+337,japhug,Gram: CAUSAL SUBORDINATOR ('for this reason'),núndʐa
+338,japhug,Gram: CONDITIONAL (SUBORDINATOR),apɯŋu
+339,japhug,Gram: UNEXPECTEDNESS marker,rcanɯ
+340,japhug,Gram: SENSORY prefix (EVIDENTIAL: knowledge mediated through observation or second hand),ɲɯ-
+341,japhug,Gram: EGOPHORIC prefix (EVIDENTIAL: personally experienced knowledge),ku-
+342,japhug,Gram: delimitive TOPIC marker,pɯpɯŋunɤ
+343,japhug,Gram: aforementioned TOPIC marker,jiɕqha
+344,japhug,Gram: FOCUS,ŋu
+345,japhug,Gram: DUAL clitic,=ni
+346,japhug,Gram: INTENSIVE(-REFLEXIVE),-ʑo
+347,japhug,Gram: DIMINUTIVE,-pɯ
+348,japhug,Gram: PERSONAL PRO (3rd person),nɯ
+349,japhug,Gram: INDEFINITE PRONOUN,tɯrme
+350,japhug,Gram: ANDATIVE prefix,"ɕɯ-, ɕ-, s-, z-"
+351,japhug,Gram: VENITIVE prefix,ɣɯ-
+352,japhug,Gram: ANTIPASSIVE voice marker,rɤ-
+353,japhug,Gram: REFLEXIVE,-ʑɣɤ-
+354,jubaarabic,Gram: CAUSATIVE,amulu
+355,jula,Gram: GENITIVE (alienable) postposition,tá
+356,ket,Gram: Adjective PLURAL AGREEMENT marker,-ŋ
+357,ket,Gram: 3rd PERSON AGREEMENT marker,-jə
+358,ket,Gram: Nominal Subject AGREEMENT Suffix,-du
+359,ket,Gram: STATIVE-RESULTATIVE Circumfix,-ja- + -aj
+360,ket,Gram: ITERATIVE,-iŋ
+361,ket,Gram: ITERATIVE for transitive verbs,-bɛt
+362,ket,Gram: DATIVE,-a
+363,ket,Gram: CARITIVE case marker,-an
+364,ket,Gram: (INCEPTIVE) CAUSATIVE,-q-...-it
+365,ket,Gram: INFINITIVE,ø
+366,ket,Gram: CONDITIONAL,sim
+367,ket,Gram: subordinate clause suffix (temporal subordinator),-kupka
+368,ket,Gram: COMPLEMENTIZER,bila
+369,ket,Gram: OPTATIVE,qān
+370,ket,Gram: Event PLURALITY,-(V)ŋ
+371,ket,"Gram: PLURAL, PLURACTIONAL marker",-ŋ
+372,ket,Gram: RELATIVIZER,qorɛ
+373,ket,Gram: top of,=ʌʌd=
+374,ket,Gram: between' (postposition),=bal=
+375,ket,Gram: PAST,-in
+376,ket,Gram: PROX FUTURE,qam
+377,ket,Gram: TRANSITIVIZER for motion verbs,-k-
+378,khmer,Gram: COMPLETIVE,cɔp
+379,khmer,Gram: PERFECTIVE,haǝy
+380,khmer,Gram: INCREMENTAL DEVELOPMENT,tɤ̀u
+381,khmer,Gram: CONTINUOUS,nɤ̀u
+382,khmer,Gram: until',dɔl
+383,khmer,Gram: COMITATIVE marker,cì:ǝ
+384,khmer,Gram: ACCORDING TO (preposition),ta:m
+385,khmer,Gram: INSTRUMENTAL (used only with vehicles),ta:m
+386,khmer,Gram: INSTRUMENTAL (general),daoy
+387,khmer,Gram: MATERIAL (in the sense of 'made of'),daoy
+388,khmer,Gram: BENEFACTIVE (preposition),Ɂaoy
+389,khmer,Gram: DATIVE,Ɂaoy
+390,khmer,Gram: 'together'/COMITATIVE,cì:ǝmù:ǝynɯ̒ŋ
+391,khmer,Gram: INSTRUMENTAL marker,yɔ̀:k
+392,khmer,Gram: CAUSATIVE,thvɤ̀
+393,khmer,Gram: CAUSATIVE,Ɂaoy
+394,khmer,Gram: CONCESSIVE,cì:ǝ
+395,khmer,Gram: CONSECUTIVE,rù:ǝc
+396,khmer,Gram: COORDINATIVE particle 'and',haǝy(-nɯ̒ŋ)
+397,khmer,Gram: adverbial SUBORDINATOR: CAUSE,daoy
+398,khmer,Gram: PURPOSE,Ɂaoy
+399,khmer,Gram: MANNER,Ɂaoy
+400,khmer,Gram: COMPLEMENTIZER,Ɂaoy
+401,khmer,Gram: DEFINITENESS,nùh
+402,khmer,Gram: INDEFINITNESS,mù:ǝy
+403,khmer,Gram: CLASSIFIER,kba:l
+404,khmer,Gram: ABILITY,ba:n
+405,khmer,Gram: PERMISSIVE,ba:n
+406,khmer,Gram: POSSIBILITY,ba:n
+407,khmer,Gram: succeed',ba:n
+408,khmer,Gram: HORTATIVE,tɤ̀u
+409,khmer,"Gram: in the function of, as' (preposition)",cì:ǝ
+410,khmer,Gram: POSSESSION marker,rǝbɔh
+411,khmer,Gram: QUOTATIVE marker,cì:ǝ
+412,khmer,Gram: QUOTATIVE marker,tha:
+413,khmer,Gram: VENITIVE (DIRECTIONAL verb),mɔ̀:k
+414,khmer,Gram: ANDATIVE (DIRECTIONAL verb),tɤ̀u
+415,khmer,Gram: EGRESSIVE (DIRECTIONAL verb),ceɲ
+416,khmer,Gram: LOCATIVE preposition,nɤ̀u
+417,khmer,Gram: ALLATIVE,dɔl
+418,khmer,Gram: preposition indicating DIRECTION to GOAL near speaker,mɔ̀:k
+419,khmer,Gram: SPATIAL ALONG/PATH,ta:m
+420,khmer,Gram: ALLATIVE,tɤ̀u
+421,khmer,Gram: LOCATIVE marker (prefix of relational noun),kha:ŋ-
+422,khmer,Gram: TEMPORAL adverbial,dɔl
+423,khmer,Gram: PAST,ba:n
+424,khmer,Gram: INTENSIFIER-REFLEXIVE,khlu:ǝn
+425,khmer,"Gram: derivational marker (of many adverbs, ""ADVERBIALIZER"")",cì:ǝ
+426,khmer,"Gram: marker of adverbials (""ADVERBIALIZER"")",daoy
+427,kitamaninka,Gram: PERFECT suffix (for inTRANSITIVE),-nín
+428,kitamaninka,Gram: PERFECT predicative marker (for TRANSITIVE),nànín
+429,kitamaninka,Gram: PAST,tèré
+430,korean,Gram: PROGRESSIVE,-ko.iss-
+431,korean,Gram: INCHOATIVE,-e.ci-
+432,korean,Gram: HABITUAL,-kon.ha-
+433,korean,Gram: COMPLETIVE Aspect,-e.mek-
+434,korean,Gram: RESULTATIVE (+HON),-ko.iss-
+435,korean,Gram: CONTINUATIVE aux,-e.o-
+436,korean,Gram: Change-of-State,-e.ka-
+437,korean,Gram: COMPLETIVE (aux),e.noh-
+438,korean,Gram: HABITUAL aux,-ko.ancass
+439,korean,Gram: DATIVE/LOCATIVE,-ey
+440,korean,Gram: NOMINATIVE (Honorific),-kkeyse
+441,korean,Gram: INSTRUMENTAL,-(ul)kac(i)ko
+442,korean,Gram: BENEFACTIVE,-(ul)wihay
+443,korean,"Gram: along, according to'",-(ul/ey) ttala
+444,korean,Gram: BENEFACTIVE,-e.cwu-
+445,korean,Gram: COMPARATIVE marker ('than'),-pota
+446,korean,Gram: Similative connective ('as'),-tasiphi
+447,korean,Gram: Similative,-chelem
+448,korean,Gram: CAUSATIVE,-key.ha-
+449,korean,Gram: COMPLEMENTIZER (Declarative),-tako
+450,korean,Gram: COMPLEMENTIZER,-l kes
+451,korean,Gram: Cause/Reason Subordinator,-ntey
+452,korean,Gram: after (TEMPORAL Conjunction),-n.twiey
+453,korean,Gram: Cause/Reason subordinator,-e.kacko
+454,korean,Gram: COPULA,i-
+455,korean,Gram: Inferential EVIDENTIALITY,-l.tus.ha-
+456,korean,Gram: Inferential EVIDENTIALITY,-na/kka.siph-
+457,korean,Gram: TOPIC PRESENTATION,-ketun
+458,korean,Gram: CLASSIFIER (for animals!),mali
+459,korean,Gram: CLASSIFIER (handful),son
+460,korean,Gram: Dissatisfaction (delimiting particle),-(i)nama
+461,korean,Gram: DESIDERATIVE,-ko.siph-
+462,korean,Gram: PROHIBITIVE,-myen.an.toy-
+463,korean,Gram: OBLIGATION,-nun.pep.i-
+464,korean,Gram: SUGGESTIVE,-myen.toy-
+465,korean,Gram: POSSIBILITY,-l.swu(to).iss-
+466,korean,Gram: CERTAINTY,thullim.eps-
+467,korean,Gram: (strong) INTENTION,-l.they-
+468,korean,Gram: (tentative) INTENTION,-lkka.po-
+469,korean,Gram: INTENTION,-lye(ko)ha-
+470,korean,Gram: OBLIGATION MODAL aux,-(e)ya.ha-
+471,korean,Gram: Promissive ('sentence-ender'),-l.key
+472,korean,"Gram: APPROXIMATIVE quantifier ('about', 'some')",han
+473,korean,Gram: Pers PRON 2SG HON,kutuy
+474,korean,Gram: Counterexpectation' ('[not] even'),-cocha
+475,korean,Gram: Counterexpectation,-mace
+476,korean,Gram: Pers PRON 1SG HUM,sosin
+477,korean,Gram: Pers PRON 2SG HON,imca
+478,korean,Gram: PREVENTIVE (APPREHENSIONAL),-lkkapwa
+479,korean,Gram: DIMINUTIVE SUFFIX,"-aci,-akwi"
+480,korean,Gram: PEJORATIVE (Derivational Suffix),-meli
+481,korean,Gram: identicality ('same'),han
+482,korean,Gram: GENITIVE,-uy
+483,korean,Gram: subject honorification,-si-
+484,korean,Gram: addressee honorification,"-sAp-, -zAp-, -cAp, -Ap-"
+485,korean,Gram: Pro-Verb,ha-
+486,korean,Gram: Pers Pro 3SG,i.salam
+487,korean,Gram: RELATIVIZER (Participle-formant),-n
+488,korean,Gram: ANDATIVE (PROGRESSIVE),-e.ka-
+489,korean,Gram: ABLATIVE (postposition),-pwuthe
+490,korean,Gram: Behind (Spatial postposition),-(uy).twiey
+491,korean,Gram: ALLATIVE postposition,-poko
+492,korean,"Gram: LOCATIVE postposition (near, next to, at)",(-uy) yephey
+493,korean,Gram: PAST,-eys-
+494,korean,Gram: FUTURE,-l.kesi-
+495,korean,Gram: AVERTIVE,-l.ppen.ha-
+496,korean,Gram: PASSIVE,-pat-
+497,korean,Gram: PASSIVE,-e.ci-
+498,korean,Gram: NOMINALIZER,kes
+499,korean,"Gram: NOMINALIZER (state of x [undesirable situation]), mermaid construction",cikyeng
+500,kott,Gram: Verbfinal Subject AGREEMENT,"-aŋ, -u, -toŋ, -oŋ"
+501,kott,Gram: LOCATIVE case Suffix,-(ŋ)ha:t
+502,koyaga,Gram: INTENTION MODAL aux,kó
+503,kryz,Gram: PROGRESSIVE,-ra ʕaǯa
+504,kryz,Gram: CAUSATIVE aux,vujiz
+505,kryz,Gram: derivational marker for ordinal numerals,liji
+506,kryz,Gram: FUTURE,-ija
+507,kurdishkurmanji,Gram: INDEFINITE,-ek
+508,kurdishsorani,Gram: DEFINITE article/marker,-ak
+509,lezgian,Gram: PERFECT,-nwa
+510,lezgian,Gram: CONTINUATIVE PRESENT,-zma
+511,lezgian,Gram: REPETITIVE,"q(i)-, χ(u)-, -χ-"
+512,lezgian,Gram: BENEFACTIVE postposition,pataldi
+513,lezgian,Gram: COMPLEMENTIZER,luhuz
+514,lezgian,Gram: INDEFINITE Pronoun marker,xajit'a꞊ni
+515,lezgian,Gram: hearsay EVIDENTIALITY,-lda
+516,lezgian,Gram: reinforced negative Pronoun,sa
+517,lezgian,Gram: VERIFICATIVE,(-t'a) akːʷ-
+518,lezgian,Gram: AORIST,-na
+519,lezgian,Gram: ANTICAUSATIVE,xun
+520,lezgian,Gram: INFINITIVE,-z
+521,lowersorbian,Gram: EXISTENTIAL COPULA,daś
+522,lowersorbian,Gram: HORTATIVE,daś
+523,luri,Gram: PLURAL suffix,-gal
+524,macedonian,Gram: concessive (conjunction),neka
+525,macedonian,Gram: Enclitic ARTICLE,-ov
+526,makassarese,Gram: DEFINITE article,-a
+527,manchu,Gram: DIRECTIONAL,-ŋgi
+528,mandarin,Gram: RESULTATIVE complement ('-finish'),wán < 完 >
+529,mandarin,Gram: PERFECTIVE suffix,-le <了 >
+530,mandarin,Gram: sentence-final PERFECT particle,le <了 >
+531,mandarin,"Gram: DURATIVE suffix, IMPERFECTIVE suffix",-zhe < 着 >
+532,mandarin,Gram: PROGRESSIVE aspect marker,zài < 在 >
+533,mandarin,Gram: EXPERIENTIAL aspect suffix,-guo < 过(過) >
+534,mandarin,Gram: RESULTATIVE complement,dào < 到 >
+535,mandarin,Gram: RESULTATIVE complement,jiàn < 见 >
+536,mandarin,Gram: RESULTATIVE (PERFECTIVE) complement,shàng < 上 >
+537,mandarin,"Gram: coverb, CAUSATIVE marker, disposal marker, etc.",bǎ < 把 >
+538,mandarin,"Gram: preposition/coverb 'until, til'",dào < 到 >
+539,mandarin,"Gram: preposition/coverb 'to, for'",gěi < 给 >
+540,mandarin,Gram: COMITATIVE marker,gēn < 跟 >
+541,mandarin,"Gram: COPULA (& FOCUS marker, verbal anaphor 'be so')",shì < 是 >
+542,mandarin,Gram: numeral CLASSIFIER,bǎ < 把 >
+543,mandarin,Gram: numeral CLASSIFIER,shŏu < 手 >
+544,mandarin,Gram: numeral CLASSIFIER,tóu < 头 >
+545,mandarin,Gram: numeral CLASSIFIER,shēn < 身 >
+546,mandarin,Gram: general numeral CLASSIFIER,gè < 个 >
+547,mandarin,"Gram: modal auxiliary (dynamic, deontic, epistemic)",yào < 要 >
+548,mandarin,"Gram: modal auxiliary (dynamic, deontic, epistemic)",néng < 能 >
+549,mandarin,Gram: POTENTIAL marker,de < 得 >
+550,mandarin,"Gram: all, whole'",yi <一 >
+551,mandarin,Gram: pronoun (3rd or 1st),rén < 人 >
+552,mandarin,Gram: VENITIVE DIRECTIONAL marker,lái < 来 >
+553,mandarin,Gram: VENITIVE DIRECTIONAL marker,qù < 去 >
+554,mandarin,Gram: postposition or relational noun (for time/space marking),shàng < 上 >
+555,mandarin,Gram: LOCATIVE preposition,zài < 在 >
+556,mandarin,"Gram: preposition/coverb 'behind, following' (in 'gēn-zhe')",gēn < 跟 >
+557,mandarin,Gram: preposition/coverb 'with back to' (in 'bèi-zhe'),bèi < 背 >
+558,mandarin,Gram: FUTURE auxiliary,yào < 要 >
+559,mandarin,Gram: modal auxiliary (epistemic NECESSITY > FUTURE),huì < 会(會) >
+560,mandarin,"Gram: PASSIVE marker, coverb",bèi < 被 >
+561,mandarin,"Gram: CAUSATIVE, PASSIVE",gěi < 给 >
+562,mandinka,Gram: person AGREEMENT marker,"ŋà, ŋá"
+563,mandinka,Gram: INCOMPLETIVE marker (HABITUAL situation),kà
+564,mandinka,Gram: INCHOATIVE aux,bòyí
+565,mandinka,Gram: PROXIMATIVE (aux verb),làfí
+566,mandinka,Gram: multifunctional postposition (e.g. INSTRUMENTAL),lá
+567,mandinka,Gram: CAUSATIVE,-ndí
+568,mandinka,Gram: conjunction/preposition 'like',kó
+569,mandinka,Gram: non-finite verbal suffix (COMPLEMENTIZER of MODAL verbs),-lá
+570,mandinka,Gram: COMPLEMENTIZER,kó
+571,mandinka,Gram: TEMPORAL SUBORDINATOR 'as soon as',dóróŋ
+572,mandinka,Gram: SUBORDINATOR 'whereas',à yè à tàrá
+573,mandinka,"Gram: saying that', 'under the pretext that', 'on the ground that' (quotative subordinator)",kó
+574,mandinka,Gram: PURPOSE (conjunction),ko
+575,mandinka,Gram: COPULA,yé
+576,mandinka,Gram: (default clitic) DETERMINER,=ò
+577,mandinka,Gram: (default clitic) DETERMINER,=ŋ̀
+578,mandinka,Gram: DEFINITE marker ('the N in question'),à
+579,mandinka,Gram: OBLIGATION marker,fó
+580,mandinka,Gram: INTENTION (aux verb),làfí
+581,mandinka,Gram: PLURAL suffix,-lú
+582,mandinka,Gram: INDEFINITE determiner 'some',dóo
+583,mandinka,Gram: 'except',fó
+584,mandinka,Gram: INTERROGATIVE marker,fó
+585,mandinka,Gram: GENITIVE (alienable) postposition,lá
+586,mandinka,Gram: H-POSSESSIVE (verb),sòtó
+587,mandinka,Gram: RELATIVIZER,"mɛ̂n, mîn"
+588,mandinka,Gram: 'in contact with' (postposition),bálá
+589,mandinka,Gram: SPATIAL postposition 'under',kɔ́rɔ́
+590,mandinka,Gram: centripetal marker,nǎŋ
+591,mandinka,Gram: VENITIVE (adverb),nǎŋ
+592,mandinka,Gram: SPATIAL postposition ('at N's place'),yǎa
+593,mandinka,Gram: PAST,nǔŋ
+594,mandinka,Gram: IMMINENCE aux 'be about to',kó
+595,mandinka,Gram: ANTIPASSIVE /NOMINALIZER suffix,-rí
+596,maninkamori,Gram: PERFECT predicative marker,"bárá, bádá"
+597,maninkamori,Gram: COMPLETIVE (TAM-marker),"bárá, bádá"
+598,mauritiancreole,Gram: DATIVE (particle),"avek, ek"
+599,mian,Gram: SUBJ AGREEMENT (2./3.PL.) suffix,-ib
+600,mian,Gram: 'keep doing',be-
+601,mian,Gram: CONTINUATIVE,-bi
+602,mian,Gram: COMPLETIVE,deibo᷈
+603,mian,Gram: PERFECTIVE,-lo
+604,mian,Gram: SWITCH-REFERENCE,-b
+605,mian,Gram: DEFINITE ARTICLE,=e
+606,mian,Gram: MALE (uninflected modifier),naka
+607,mian,Gram: FEMALE (uninflected modifier),unǎng
+608,mian,Gram: 'on' (SPATIAL/TEMPORAL),dim
+609,mian,Gram: (predicative) POSSESSION marker,dim=o bi
+610,mian,Gram: PERSONAL PRO (3rd person),é
+611,mian,Gram: QUOTATIVE,ge
+612,mian,Gram: LOCATIVE,-daa
+613,mian,Gram: SPATIAL marker 'in',tem
+614,mian,Gram: 'behind' (adposition),dǎang
+615,mian,Gram: HESTERNAL PAST,-so
+616,mian,Gram: (NON-HESTERNAL) PAST,-bio
+617,mian,Gram: APPLICATIVE,-ub
+618,middlepersian,Gram: COMPLEMENTIZER,kū
+619,middlepersian,Gram: FUTURE,kām-
+620,mohawk,Gram: BENEFACTIVE (HABITUAL),-awi
+621,mohawk,Gram: BENEFACTIVE,-ni
+622,mohawk,Gram: COMPLEMENTIZER,ne
+623,mohawk,Gram: DEFINITE ARTICLE,"ne, n"
+624,mohawk,Gram: EVIDENTIAL (hearsay),ia:ken
+625,mohawk,Gram: (internal ABILITY) modal marker,-kwé:ni'
+626,mohawk,Gram: PLURAL (allomorph),=okon'a
+627,mohawk,Gram: Augmentative,=kó:wa
+628,mohawk,"Gram: LOCATIVE ('in, into')",-akon
+629,mohawk,Gram: MEDIO-PASSIVE (middle voice),-at-
+630,mohawk,Gram: CAUSATIVE,-hst
+631,mohawk,Gram: APPLICATIVE,hkw-
+632,mohawk,Gram: derivational marker (for places),-akon
+633,mori,Gram: associative PLURAL marker (with personal names and kin terms),ondae
+634,nanai,Gram: NEG suffix,"-e-, -a-"
+635,nanai,Gram: PLURAL,"-sal, -sel"
+636,nanai,Gram: QUOTATIVE (enclitic),=(j)Am
+637,negerhollands,Gram: COMPLETIVE Aspect,kā
+638,negerhollands,Gram: FUTURE,lo
+639,newpersian,Gram: PROXIMATIVE,rav-
+640,newpersian,Gram: PROXIMATIVE,xwāh
+641,newpersian,Gram: marker (clitic) of DEFINITE direct objects,=rā
+642,newpersian,Gram: FOCUS marker (clitic),=rā
+643,newpersian,Gram: FEMALE,zan
+644,newpersian,"Gram: modal prefix, today SUBJUNCTIVE",be-
+645,newpersian,Gram: PLURAL suffix,-hā
+646,newpersian,Gram: INTENSIVE-REFL,tan
+647,newpersian,Gram: “ezâfe” (clitic linking head noun to depending elements),=e
+648,newpersian,Gram: 'have',dār-
+649,newpersian,Gram: PRESENT tense affix,mī-
+650,newpersian,Gram: FUTURE,xwāh
+651,newpersian,Gram: PASSIVE (MEDIO-PASSIVE light verb),šod
+652,newpersianafghan,Gram: CONTINUOUS,raw-
+653,northjuninquechua,Gram: PERFECTIVE aspect,"-ru, -ra"
+654,northjuninquechua,Gram: with special attention (INTENSIVE),-y(k)u
+655,nyigina,Gram: PROGRESSIVE marker,-arnda
+656,nyigina,Gram: until' (postposition),-yibur(u)
+657,nyulnyul,Gram: Change of State (Preverb),-jid
+658,nyulnyul,Gram: CONTINUOUS,"-na, -n"
+659,nyulnyul,Gram: COPULA (POSSESSIVE),jirr
+660,nyulnyul,Gram: INDEFINITE,warinyjirr
+661,nyulnyul,Gram: 'same',warinyjirr
+662,nyulnyul,Gram: predicative POSSESSION ('have'),-bakand
+663,ossetic,Gram: TRANSITIVE PAST endings (here: 1SG.TR),-t-
+664,ossetic,Gram: PASSIVE (analytical PASSIVE),cæu-
+665,pacaraosquechua,"Gram: TERMINATIVE case marker ('until', 'as long as')",-kama
+666,palenquero,Gram: HABITUAL,asé
+667,parthian,Gram: POTENTIAL,"kar-, kird"
+668,pashto,Gram: COPULA (here: 3SG M),dəy
+669,persian,Gram: CAUSATIVE,"kon-, kard"
+670,persian,Gram: CAUSATIVE,dā-
+671,persian,Gram: general subordinator,ke
+672,persian,Gram: MALE,mard
+673,persian,Gram: PERSONAL PRO (3rd person),ū
+674,pimabajo,Gram: AGREEMENT marker,a=
+675,pimabajo,Gram: CONTINUOUS/PROGRESSIVE aspect,-im
+676,pimabajo,Gram: STATIVE suffix,-ka
+677,pimabajo,Gram: CAUSATIVE,tar
+678,pimabajo,Gram: CAUSATIVE,-tua
+679,pimabajo,Gram: COMPLEMENTIZER,-dam
+680,pimabajo,Gram: inflected subordinator,ko
+681,pimabajo,Gram: DEFINITE DETERMINER,ɨg
+682,pimabajo,Gram: INDEFINITE ARTICLE 'a',(h)ɨmak
+683,pimabajo,Gram: EVIDENTIAL,tua
+684,pimabajo,Gram: CLASSIFIER for pet POSSESSION,soig
+685,pimabajo,Gram: PLURAL suffix on nouns,-(i)m
+686,pimabajo,Gram: POSSESSIVE alienable marker,-ga
+687,pimabajo,Gram: inalienable POSSESSION,-di/-r
+688,pimabajo,Gram: PERSONAL PRO (3rd person),(h)ɨg
+689,pimabajo,Gram: QUOTATIVE (also: EVIDENTIAL/REPORTATIVE),as [aš]
+690,pimabajo,Gram: RELATIVIZER,ɨbiga
+691,pimabajo,Gram: MIDDLE marker,a=
+692,pimabajo,Gram: NOMINALIZER,-ka
+693,pimabajo,Gram: ADJECTIVIZER,-kam
+694,polish,Gram: Verbal AGREEMENT,-m
+695,polish,Gram: (resultative) PERFECT,mieć
+696,polish,Gram: PASSIVE aux,Zostać
+697,principense,Gram: PAST,tava
+698,quechuai,Gram: PROGRESSIVE aspect,"-yka(:)-, -ya(:)-"
+699,quechuai,Gram: behind' (SPATIAL postposition),waqta
+700,quechuai,"Gram: CONJUNCTION (causal, consecutive, temporal)",čay
+701,quechuai,Gram: COMPLEMENTIZER,ni-
+702,quechuai,Gram: 'upper part of body (positional meaning)',uma
+703,quechuai,Gram: 'same',huk
+704,quechuai,Gram: ABLATIVE case marker,-pita
+705,quechuai,Gram: LOCATIVE case marker,-č̣aw
+706,quechuai,Gram: behind' (SPATIAL postposition),waša
+707,quechuai,Gram: VENITIVE,-mu-
+708,quechuai,Gram: after' (TEMPORAL postposition),uša-
+709,quechuaii,Gram: PLURALIZER (for 1st and 3rd person),-ku
+710,quechuaii,Gram: INCEPTIVE derivational marker,ri-
+711,quechuaii,Gram: FEMALE,warmi
+712,quechuaii,Gram: (verbal) PLURAL (2nd person),-čik
+713,quechuaii,Gram: (verbal) PLURAL marker (1st and 3rd person),-ku
+714,quechuaii,Gram: INDEFINITE PRON ('someone else'),runa
+715,quechuaii,Gram: RELATIVIZER,čay
+716,quechuaii,Gram: ABLATIVE case marker,-manta
+717,quechuaii,Gram: NARRATIVE PAST (with a mirative overtone),-sqa
+718,ratahan,Gram: VENITIVE marker,mai
+719,romanian,Gram: FUTURE (spoken and informal registers) (+ subjunctive complementizer),=o (+ să)
+720,romansh,Gram: INDEFINITE MARKER,ins
+721,russian,Gram: Adjective inflection,-(o/e)j + V
+722,russian,Gram: CAUSATIVE aux,dat'
+723,russian,Gram: Counterfactual CONDITIONAL,"-i, -j"
+724,russian,Gram: INEXPECTATIVE (MODAL aux),vzjat'
+725,russian,Gram: MODAL aux ('can'),moč'
+726,russian,Gram: HORTATIVE particle,pust'
+727,russian,Gram: circumstantical MUST (acquisitive modal),prixodit'sja
+728,russian,Gram: FUTURE aux,budet
+729,russian,Gram: GENERAL PAST,-l
+730,russian,Gram: ANTIRESULTATIVE,bylo (+ -l-)
+731,russian,Gram: PASSIVE voice,-sja
+732,rutul,Gram: because,his xujnɨ
+733,rutul,Gram: HORTATIVE,jɨq'a
+734,rutul,Gram: FUTURE,-si
+735,semnani,Gram: verbal affix in PAST (here: 3SG),=eš
+736,seychellescreole,Gram: COMPLETIVE Aspect,"fin, (i)n"
+737,seychellescreole,Gram: INSTRUMENTAL,pran
+738,seychellescreole,Gram: PATIENT marker,pran
+739,seychellescreole,Gram: COMPLEMENTIZER,pourdir
+740,seychellescreole,Gram: FOCUS marker,sa
+741,seychellescreole,Gram: PLURAL (particle),bann
+742,seychellescreole,Gram: RECIPROCAL,kanmarad
+743,seychellescreole,Gram: LOCATIVE (marker),kot
+744,seychellescreole,Gram: FUTURE,pou
+745,seychellescreole,Gram: PAST,ti
+746,seychellescreole,Gram: PASSIVE,ganny
+747,slovak,Gram: HORTATIVE aux,nech
+748,sogdian,Gram: TRANSITIVE PERFECT marker,δˀr-
+749,sogdian,Gram: COPULA,(ə)xu
+750,sogdian,Gram: DEFINITE ARTICLE (here: M),(ə)xu
+751,sogdian,Gram: PLURAL suffix,-t
+752,sogdian,Gram: FUTURE (prefix),kām
+753,sogdian,Gram: POTENTIAL for MIDDLE voice / PASSIVE,bw-
+754,sogdianmanichean,Gram: PROGRESSIVE,skwn
+755,solomonislandspijin,"Gram: 'before', 'in front of'",fastaem
+756,southernaymara,Gram: existential VERBALIZER,-nk(a)
+757,spanish,Gram: PERFECT marker,haber
+758,spanish,Gram: PROGRESSIVE,estar
+759,spanish,Gram: motion PROGRESSIVE periphrasis,andar
+760,spanish,Gram: CONTINUOUS,venir
+761,spanish,Gram: CONTINUOUS,ir
+762,spanish,Gram: CONTINUOUS,seguir
+763,spanish,Gram: DATIVE marker,a
+764,spanish,Gram: marker of non-canonical Os (DOM),a
+765,spanish,Gram: PARTITIVE marker,de
+766,spanish,Gram: CAUSATIVE,hacer
+767,spanish,Gram: CAUSATIVE,hacer
+768,spanish,Gram: COMPLEMENTIZER,que
+769,spanish,Gram: INDEFINITE article  (M),un
+770,spanish,Gram: DEFINITE ARTICLE (F),la
+771,spanish,Gram: impersonal/INDEFINITE marker,se
+772,spanish,Gram: IMPERSONAL/INDEFINITE marker,la gente
+773,spanish,Gram: INDEFINITE ARTICLE,unum/-am
+774,spanish,Gram: feminine SINGULAR,-a
+775,spanish,Gram: epistemic MODALITY,haber
+776,spanish,Gram: epistemic MODALITY aux,deber
+777,spanish,Gram: PLURAL,-s
+778,spanish,Gram: marker of the lack of control of the subject,se
+779,spanish,Gram: POSSESSION marker 'of',de
+780,spanish,Gram: POSSESSION,tener
+781,spanish,Gram: prenominal determiner POSSESSIVE (clitic),mi
+782,spanish,Gram: invariant RELATIVIZER,que
+783,spanish,Gram: FUTURE (aux),ir (a)
+784,spanish,Gram: RECENT PAST,acabar (de)
+785,spanish,Gram: marker of PASSIVE voice,se
+786,spanish,Gram: PASSIVE aux,ser
+787,spanish,Gram: PASSIVE-like aux,quedar
+788,sranan,Gram: COMPLEMENTIZER,taki
+789,sranan,Gram: DEFINITE ARTICLE,a
+790,sranan,Gram: INDEFINITE ARTICLE,wan
+791,sranan,Gram: SPATIAL postposition,tapu
+792,srilankaportugese,Gram: ACCUSATIVE,-pa
+793,tabasaran,"Gram: AGREEMENT marker (here:2SG, dative)",-vuz
+794,tabasaran,Gram: PERFECTIVE prefix,ʁ-
+795,tabasaran,Gram: COMPLEMENTIZER,k'uri
+796,tabasaran,Gram: derivational marker for ordinal numerals,-pi
+797,tajio,Gram: INCOMPLETIVE clitic,=po
+798,tajio,Gram: numeral CLASSIFIER (default for objects),bua
+799,tajio,Gram: RELATIVIZER,to
+800,talyshi,Gram: FOCUS,=m
+801,talyshi,Gram: GENITIVE prefix (of PRONOUNs),ča-
+802,tatjewish,Gram: COMPLEMENTIZER,=ho
+803,tatjewish,Gram: PASSIVE aux,omor-
+804,tatmuslim,Gram: HORTATIVE (IRR-leave.IMP2SG),(b-)il
+805,tatmuslim,Gram: PRESENT tense,ba-V(PST)-an=üm
+806,ternatechabacano,Gram: RECIPROCAL,hugá
+807,thai,Gram: COMPLETIVE,sèt
+808,thai,Gram: CONTINUOUS,yùu
+809,thai,Gram: ACCORDING TO,taam
+810,thai,Gram: BENEFACTIVE (preposition),hâj
+811,thai,Gram: DATIVE,hâj
+812,thai,Gram: beside',(khâŋ)khâaŋ
+813,thai,Gram: INSTRUMENTAL,Ɂaw
+814,thai,Gram: CAUSATIVE,tham
+815,thai,Gram: CAUSATIVE,hâj
+816,thai,Gram: 'until',thy̌ŋ
+817,thai,Gram: CONCESSIVE,thy̌ŋ
+818,thai,Gram: CONSECUTIVE,maa
+819,thai,Gram: COORDINATIVE particle,lɛ̒Ɂ
+820,thai,Gram: PURPOSE,hâj
+821,thai,Gram: MANNER,hâj
+822,thai,Gram: COMPLEMENTIZER,hâj
+823,thai,Gram: DEFINITENESS,nán
+824,thai,Gram: INDEFINITNESS,nỳŋ
+825,thai,Gram: CLASSIFIER,lăŋ
+826,thai,Gram: CLASSIFIER,lûuk
+827,thai,Gram: CLASSIFIER,tua
+828,thai,Gram: CLASSIFIER,khon
+829,thai,Gram: ABILITY (in terms of LEARNED ABILITY),pen
+830,thai,Gram: ABILITY,dâj
+831,thai,Gram: PERMISSIVE,dâj
+832,thai,Gram: POSSIBILITY,dâj
+833,thai,Gram: 'succeed',dâj
+834,thai,"Gram: preposition/coverb meaning 'in the function of, as'",pen
+835,thai,Gram: POSSESSION marker,khɔ̌ɔŋ
+836,thai,Gram: QUOTATIVE marker,wâa
+837,thai,Gram: behind',lăŋ
+838,thai,Gram: VENITIVE (DIRECTIONAL verb),maa
+839,thai,Gram: ANDATIVE (DIRECTIONAL verb),paj
+840,thai,Gram: ALLATIVE,thy̌ŋ
+841,thai,Gram: Coverb/preposition indicating DIRECTION to GOAL near speaker,maa
+842,thai,Gram: SPATIAL:ALONG/PATH,taam
+843,thai,Gram: preposition (indication DIRECTION to GOAL away from speaker),paj
+844,thai,Gram: ALLATIVE (preposition),Ɂɔ̀ɔk
+845,thai,Gram: ABLATIVE (preposition),càak
+846,thai,Gram: LOCATIVE marker (relational noun),khâŋ
+847,thai,Gram: after',lăŋ
+848,thai,Gram: earlier',lăŋ
+849,thai,Gram: TEMPORAL reference,maa
+850,thai,Gram: PAST,dâj
+851,tokpisin,Gram: PROGRESSIVE,i stap
+852,tokpisin,Gram: PLURAL,ol
+853,tokpisin,Gram: GENITIVE marker ('of'),bilong
+854,tokpisin,Gram: FUTURE,bai
+855,tsakhur,Gram: CAUSATIVE,"-haʔas, -aʔas"
+856,tsakhur,Gram: INDEFINITE Pronoun marker (here: gender IV),-xe-d
+857,tsakhur,Gram: OBLIGATION (here: gender IV),-s꞊od
+858,tswana,Gram: CONTINUATIVE aux,áχá
+859,tswana,"Gram: HABITUAL aux ('do something often, or in great quantity')",àtìsà
+860,tswana,Gram: REPETITIVE aux,bʊ́á
+861,tswana,Gram: have ceased doing something' [TERMINATIVE aux],χá...tɬhɔ̀lɩ́
+862,tswana,Gram: do something usually',nà lɩ́-
+863,tswana,Gram: CONTINUATIVE aux 'continue to do something',nàmà
+864,tswana,Gram: have eventually done something' (aux),nàmílé
+865,tswana,Gram: be still doing something' (aux),ńná
+866,tswana,"Gram: do something continually', or 'be still doing something'",ńtsé
+867,tswana,Gram: 'be already doing something',sétsɩ́
+868,tswana,Gram: do something continually',tɬhɔ̀là
+869,tswana,Gram: do something continually',tsàmàjà
+870,tswana,Gram: do something continually',tshɩ́lá
+871,tswana,Gram: INSTRUMENTAL preposition,ká
+872,tswana,Gram: CAUSATOR preposition (marking agent in PASSIVEs),kɩ́
+873,tswana,Gram: 'since',(fá) ɩ́sàlɩ́
+874,tswana,Gram: 'regarding',fá !ɩ́lɩ́
+875,tswana,Gram: 'except',fá !ɩ́sɩ́
+876,tswana,Gram: 'according to',go ya ka [χʊ̀-jà ká]
+877,tswana,Gram: COMPLEMENTIZER,χʊ̀rɩ̀
+878,tswana,"Gram: since, as",ká
+879,tswana,"Gram: CONDITIONAL CONJUNCTION (when, if)",fá
+880,tswana,Gram: until,χʊ̀fìtɬhɛ̀là
+881,tswana,Gram: PURPOSIVE (subordinator?) 'so that',χʊ̀rɩ̀
+882,tswana,Gram: conjunctions expressing sequentiality ('and then'),tɬà
+883,tswana,Gram: conjunction expressing simultaneity,ɛ́tá
+884,tswana,Gram: CAUSE (conjunction),ka gore [ká χʊ́rɩ̀]
+885,tswana,Gram: after (preposition),morago [mʊ̀ráχʊ́]
+886,tswana,Gram: CONSECUTIVE (aux ),-tla [tɬà]
+887,tswana,Gram: do something unexpectedly',tshʊ̀χànà
+888,tswana,Gram: POTENTIAL marker,-ká
+889,tswana,Gram: NECESSITY aux ('need to do something'),bàtɬà
+890,tswana,Gram: be obliged to do something' (aux),nà lɩ́-
+891,tswana,Gram: be obliged to do something,tshwánétsɩ́
+892,tswana,Gram: INTENTION (aux),rátá [rátá]
+893,tswana,Gram: never do something' [NEGATIVE aux],χà...ńnɩ́
+894,tswana,Gram: NEGATION (prefix),-sɩ̀
+895,tswana,Gram: NEGATION aux,χáná
+896,tswana,Gram: plain PLURAL marker (human),bó-
+897,tswana,Gram: some (determiner),ngwe [ŋʷɩ̀]
+898,tswana,Gram: 'other',ngwe [ŋʷɩ̀]
+899,tswana,"Gram: 'except, instead'",ɩ́sɩ̀ŋ́
+900,tswana,Gram: noun-modifier LINKER,jó
+901,tswana,Gram: noun-modifier LINKER in counting constructions,lɩ́
+902,tswana,Gram: DIMINUTIVE (derivational suffix),-ana
+903,tswana,Gram: GENITIVE LINKER (person names & kinship terms),-áχá-
+904,tswana,Gram: relative verb form marker,-ŋ́
+905,tswana,Gram: LOCATIVE preposition,fá
+906,tswana,Gram: LOCATIVE suffix,-ŋ̀
+907,tswana,Gram: LOCATIVE prefix,χʊ́-
+908,tswana,Gram: LOCATIVE prefix,χá-
+909,tswana,Gram: LOCATIVE preposition,morago [mʊ̀ráχʊ́]
+910,tswana,Gram: 'from',go simolola [χʊ̀ -símʊ́lʊ́là]
+911,tswana,Gram: 'from',go tloga [χʊ̀-tɬʊ̀χà]
+912,tswana,Gram: 'from',go tswa [χʊ̀-tswà]
+913,tswana,Gram: behind (preposition),morago [mʊ̀ráχʊ́]
+914,tswana,Gram: have done something in the PAST year' [PAST aux],díkílé
+915,tswana,Gram: have done something the day before' [RECENT PAST aux],létsɩ́
+916,tswana,"Gram: have done something long ago, or for the last time'",sàlɩ́
+917,tswana,Gram: have just done something',sátswá
+918,tswana,Gram: do something during the next year',tɬàà-díká
+919,tswana,Gram: do something before the end of the day',tɬàà-lálá
+920,tswana,Gram: do something the next day',tɬàà-tsʊ́χá
+921,tswana,Gram: have done something in the morning',tsʊ́χílé
+922,tswana,Gram: IMMINENCE aux ('seem to be about to do something'),bàtɬà
+923,tswana,Gram: have nearly done something' [aux],bàtɬílé
+924,tswana,Gram: IMMINENCE aux ('seem to be about to do something'),lʊ̀sètsà
+925,tswana,Gram: have nearly done something',rátílé
+926,tswana,Gram: have nearly done something',sɩ́ŋ́kílé
+927,tswana,Gram: be close to doing something',tɬʊ̀χà
+928,tswana,Gram: be close to doing something',tsàmàɛ̀là
+929,tswana,Gram: seem to be close to do something',tsìlé
+930,tswana,Gram: be close to doing something',jà
+931,tswana,Gram: AVERTIVE (aux),rátá [rátá]
+932,tundranenets,"Gram: ""objective conjugation"" (used with topicalized objects)",-w⁰
+933,tundranenets,Gram: IMPERATIVE (2SG),-q
+934,tundranenets,Gram: nominal DUAL,-q
+935,tundranenets,Gram: PRONOUN (Stem) ACCUSATIVE,syiq-
+936,tundranenets,Gram: Personal Pro (3SG),pida
+937,tundranenets,Gram: PAST,-e-sy⁰
+938,tundranenets,"Gram: ""finite morphem"", marker of finite conjugation",-e-
+939,tuscarora,Gram: DEFINITE ARTICLE,ha'
+940,udi,Gram: DATIVE,-a
+941,udi,Gram: CAUSATIVE,-d- (-tː- after s)
+942,udi,Gram: INDEFINITE Pronoun marker,꞊(n)esa
+943,udi,Gram: internal + external POSSIBILITY aux,baksun
+944,udi,Gram: reinforced HORTATIVE,ek-i
+945,udi,Gram: PERMISSIVE,barta
+946,udi,Gram: TEMPORAL POSSESSION postposition,kije
+947,udi,Gram: behind,bačːˁaneχun
+948,udi,"Gram: SPATIAL postposition 'at, near'",bel
+949,udi,Gram: PRESENT tense,-(e)sa
+950,udi,Gram: FUTURE (here: 3SG),-al=e
+951,udi,Gram: DECAUSATIVE (here: past tense allomorph),-ec-
+952,uppersorbian,Gram: EXISTENTIAL COPULA,sydać
+953,uppersorbian,Gram: INDEFINITE article,jen
+954,veps,Gram: ABLATIVE Clitic,=päi
+955,vincentiancreole,Gram: GENITIVE marker ('of'),fo
+956,wakhi,Gram: DATIVE suffix,-ər(k)
+957,warrwa,Gram: INSTRUMENTAL,-ngany
+958,warrwa,Gram: inalienable POSSESSION marking (on possessum),-jina
+959,warrwa,Gram: TRANSITIVE conjugation marker,na-
+960,warrwa,Gram: REFLEXIVE/RECIPROCAL action,-banyji
+961,xufipamir,Gram: LOCATIVE,-ard
+962,yaghnobi,Gram: PRESENT TENSE,=išt
+963,yaqui,Gram: DURATIVE,-sime
+964,yaqui,Gram: CESSATIVE aspect,-yaate
+965,yaqui,Gram: DESIDERATIVE,-bae
+966,yaqui,Gram: indirect DESIDERATIVE,-ii'aa
+967,yaqui,Gram: SUBJUNCTIVE,-'ea
+968,yawuru,Gram: ERGATIVE,-ni
+969,yawuru,Gram: GEN of Animates,-jina
+970,yawuru,Gram: predicative POSSESSION ('have'),-nga...-ngany
+971,yawuru,Gram: INSTRUMENTAL NOMINALIZER,-jinaburu
+972,yucatec,Gram: IMPERFECTIVE aspect,k
+973,yucatec,Gram: PROGRESSIVE aspect,"tíin, táan, túun"
+974,yucatec,Gram: TERMINATIVE aspect,ts'
+975,yucatec,Gram: PERFECTIVE,t
+976,yucatec,Gram: adposition 'on account of' (preposition),o'l
+977,yucatec,Gram: CAUSATIVE,ts'a'
+978,yucatec,Gram: 'in order that',yo'lal
+979,yucatec,Gram: COORDINATOR,(y)éetel
+980,yucatec,Gram: discourse-level conjunction,"ts'o'le, ts'o'kole"
+981,yucatec,Gram: DEFINITE ARTICLE,le
+982,yucatec,Gram: INDEFINITE ARTICLE,"hun, un"
+983,yucatec,Gram: inanimate object CLASSIFIER,-p'éel
+984,yucatec,Gram: 'who' (INTERROGATIVE PRONOUN),máax
+985,yucatec,Gram: 'what' (INTERROGATIVE PRONOUN),ba'x
+986,yucatec,"Gram: 'on, above' (preposition)",óok'ol
+987,yucatec,Gram: this' (deictic clitics),"=la', =a'"
+988,yucatec,Gram: 'behind' (preposition),t=u paach
+989,yucatec,Gram: FUTURE,yan
+990,yucatec,Gram: PREDICTIVE FUTURE,bíin
+991,yucatec,Gram: REFLEXIVE ('self'),báah
+992,zazaki,Gram: “ezâfe” (clitic linking head noun to depending elements),o
