@@ -1,4 +1,5 @@
 import pathlib
+import re
 from collections import defaultdict
 from itertools import chain, zip_longest
 
@@ -133,6 +134,15 @@ def aligned_example(analysed, gloss, indent=0):
     return f'{prefix}{line1}\n{prefix}{line2}'
 
 
+def unquote(translation):
+    translation = translation.strip("'")
+    translation = translation.replace("' / '", ' / ')
+    translation = re.sub(r"(\s|\()'", r'\1', translation)
+    translation = re.sub(r"'(\s|\))", r'\1', translation)
+    translation = translation.replace("',", '; ')
+    return translation
+
+
 def make_example(row):
     row_id = make_row_id(row)
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
@@ -150,7 +160,7 @@ def make_example(row):
         'Primary_Text': row['Example:Material'].strip(),
         'Analyzed_Word': row['Example:Material'].strip().split(),
         'Gloss': row['Example:Glossing'].strip().split(),
-        'Translated_Text': row['Example:Translation'],
+        'Translated_Text': unquote(row['Example:Translation']),
         # FIXME: 'Example:Reference'
     }
 
