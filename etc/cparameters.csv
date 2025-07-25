@@ -1,6 +1,6 @@
 ID,Original_Column_Name,Name,Description
 target-meaning-type,Target:Label_Group,Target meaning type,
-source-form,Source:Form,Source form,
+source,Source:Meaning,Source,
 path-comment,Comments,Path Comment,
 value-semantic-integrity,value:semantic_integrity,value:semantic_integrity,
 value-phonetic-reduction,value:phonetic_reduction,value:phonetic_reduction,

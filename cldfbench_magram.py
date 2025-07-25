@@ -201,8 +201,8 @@ def make_constructions(raw_data):
         {
             'ID': row_no,
             'Language_ID': make_language_id(row),
-            'Name': 'Gram: {}'.format(row['Target:Form']),
-            'Description': row['Target:Meaning'],
+            'Name': 'Gram: {}'.format(row['Target:Meaning']),
+            'Description': row['Target:Form'],
         }
         for row_no, row in enumerate(raw_data, 1)]
 
@@ -226,8 +226,8 @@ def make_cvalues(raw_data, cparameters, ccodes):
                 'Code_ID': code['ID'] if code else '',
                 'Value': code['Name'] if code else value,
             }
-            if parameter['ID'] == 'source-form':
-                cvalue['Comment'] = row['Source:Meaning']
+            if parameter['ID'] == 'source':
+                cvalue['Comment'] = row['Source:Form']
                 cvalue['Example_IDs'] = [make_row_id(row)]
             cvalues.append(cvalue)
     return cvalues
@@ -258,8 +258,8 @@ def make_lvalues(raw_data, lparameters):
             'Language_ID': language_id,
             'Parameter_ID': (param_id := lparameters[label_group]['ID']),
             'ID': f'{language_id}-{param_id}',
-            'Value': ' / '.join(form['form'] for form in forms),
-            'Comment': ' / '.join(form['meaning'] for form in forms),
+            'Value': ' / '.join(form['meaning'] for form in forms),
+            'Comment': ' / '.join(form['form'] for form in forms),
             'Description': row['Target:Meaning'],
         }
         for (language_id, label_group), forms in label_groups.items()]
