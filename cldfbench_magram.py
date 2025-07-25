@@ -181,6 +181,7 @@ def make_paths(raw_data):
             'Target_Form_ID': f'{row_id}-t',
             'Subset': make_contrib_id(row),
             'Example_ID': row_id,
+            'Comment': row.get('Comments'),
         }
         for row in raw_data]
 
@@ -204,7 +205,7 @@ def make_cvalues(raw_data, cparameters, ccodes):
     cvalues = []
     for row_no, row in enumerate(raw_data, 1):
         for col_name, parameter in cparameters.items():
-            value = row[col_name]
+            value = row.get(col_name)
             if not value:
                 continue
             code = ccodes.get((parameter['ID'], normalise_cvalue(value)))
@@ -264,6 +265,7 @@ def define_wordlist_schema(cldf):
         'http://cldf.clld.org/v1.0/terms.rdf#id',
         'http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference',
         'http://cldf.clld.org/v1.0/terms.rdf#targetFormReference',
+        'http://cldf.clld.org/v1.0/terms.rdf#comment',
         {"name": "Subset",
          "datatype": "string",
          "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference"},
