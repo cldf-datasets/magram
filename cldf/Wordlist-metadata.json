@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "14e24bb",
+            "dc:created": "b116273",
             "dc:title": "Repository"
         },
         {
@@ -418,6 +418,11 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
                         "name": "Target_Form_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
                     },
                     {
                         "datatype": "string",

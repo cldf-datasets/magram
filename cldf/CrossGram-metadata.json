@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "14e24bb",
+            "dc:created": "b116273",
             "dc:title": "Repository"
         },
         {
@@ -140,7 +140,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 42,
+            "dc:extent": 43,
             "tableSchema": {
                 "columns": [
                     {
@@ -460,7 +460,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 17856,
+            "dc:extent": 18143,
             "tableSchema": {
                 "columns": [
                     {
@@ -490,13 +490,13 @@
                         "name": "Code_ID"
                     },
                     {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
-                        "separator": ";",
-                        "name": "Example_IDs"
+                        "datatype": "string",
+                        "null": [
+                            "?",
+                            ""
+                        ],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "name": "Value"
                     },
                     {
                         "datatype": "string",
@@ -506,12 +506,17 @@
                     },
                     {
                         "datatype": "string",
-                        "null": [
-                            "?",
-                            ""
-                        ],
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
-                        "name": "Value"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": ";",
+                        "name": "Example_IDs"
                     }
                 ],
                 "foreignKeys": [
