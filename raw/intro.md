@@ -1,7 +1,3 @@
-MAGRAM, the MAinz GRAMmaticalization data base
-==============================================
-
-
 ## 1. History and Development of the Project
 
 [MAGRAM](https://en.magram.fb05.uni-mainz.de/) stands for the MAinz GRAMmaticalization project. It was funded by the German Research Foundation (DFG; under BI 591/12--1) and conducted at the Johannes Gutenberg Universität Mainz under the leadership of [Prof. Dr. Walter Bisang](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/walter-bisang/) and [apl. Prof. Dr. Andrej Malchukov](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/andrej-malchukov/), from January 2016 to March 2020.
@@ -224,11 +220,3 @@ CC-BY-SA
 
 **Full database citation**:
 > Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2022. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
-
-
-## CLDF Datasets
-
-The following CLDF datasets are available in [cldf](cldf):
-
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/Wordlist-metadata.json](cldf/Wordlist-metadata.json)
-- CLDF [StructureDataset](https://github.com/cldf/cldf/tree/master/modules/StructureDataset) at [cldf/CrossGram-metadata.json](cldf/CrossGram-metadata.json)

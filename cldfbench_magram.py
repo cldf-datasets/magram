@@ -320,6 +320,14 @@ class Dataset(BaseDataset):
                     'CodeTable': 'crossgram-codes.csv'}),
         }
 
+    def cmd_readme(self, args):
+        section_header = (
+            'MAGRAM, the MAinz GRAMmaticalization data base\n'
+            '==============================================\n'
+            '\n')
+        section_content = self.raw_dir.read('intro.md')
+        return f'{section_header}\n{section_content}'
+
     def cmd_download(self, args):
         pass
 
