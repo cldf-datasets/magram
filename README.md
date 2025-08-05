@@ -1,6 +1,28 @@
 MAGRAM, the MAinz GRAMmaticalization data base
 ==============================================
 
+<!-- TOC -->
+- [1. History and Development of the Project](#1-history-and-development-of-the-project)
+- [2. Methodology](#2-methodology)
+  - [2.1 Basics](#21-basics)
+  - [2.2 Data](#22-data)
+  - [2.3 Parameters](#23-parameters)
+  - [2.4 Evaluation](#24-evaluation)
+- [3. Team & Contributors](#3-team--contributors)
+  - [3.1 Core Team](#31-core-team)
+  - [3.2 Contributors](#32-contributors)
+- [4. Workflow & Design](#4-workflow--design)
+  - [4.1 General Design Principles](#41-general-design-principles)
+  - [4.2 Form Columns](#42-form-columns)
+  - [4.3 Meaning Columns](#43-meaning-columns)
+  - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
+  - [4.5 Examples](#45-examples)
+  - [4.6 Comments](#46-comments)
+  - [4.7. Grammaticalization Parameters](#47-grammaticalization-parameters)
+- [5. Bibliography](#5-bibliography)
+- [6. License, Contact & Citation](#6-license-contact--citation)
+- [7. CLDF Datasets](#7-cldf-datasets)
+<!-- TOCstop -->
 
 
 ## 1. History and Development of the Project
