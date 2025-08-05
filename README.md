@@ -243,10 +243,10 @@ CC-BY-SA
 ### How to Cite MAGRAM
 
 **Dataset citation** (e.g., Yucatec Maya):
-> Christian Lehmann & MAGRAM team. 2022. *Yucatec Maya*. In: Bisang, Walter & Malchukov, Andrej & Martiny, Marvin (eds.) *Mainz Grammaticalization Project*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
+> Christian Lehmann & MAGRAM team. 2025. *Yucatec Maya*. In: Bisang, Walter & Malchukov, Andrej & Martiny, Marvin (eds.) *Mainz Grammaticalization Project*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
 
 **Full database citation**:
-> Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2022. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
+> Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2025. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
 
 
 ## 7. CLDF Datasets
