@@ -16,9 +16,10 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [4.2 Form Columns](#42-form-columns)
   - [4.3 Meaning Columns](#43-meaning-columns)
   - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
-  - [4.5 Examples](#45-examples)
-  - [4.6 Comments](#46-comments)
-  - [4.7. Grammaticalization Parameters](#47-grammaticalization-parameters)
+  - [4.5 Labelgroup Columns] (#45-simplified-meaning-columns)
+  - [4.6 Examples](#46-examples)
+  - [4.7 Comments](#47-comments)
+  - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
 - [5. Bibliography](#5-bibliography)
 - [6. License, Contact & Citation](#6-license-contact--citation)
 - [7. CLDF Datasets](#7-cldf-datasets)
@@ -198,19 +199,23 @@ There are three main data types:
 
 ### 4.4 Simplified Meaning Columns
 
-- Grammatical labels: We use a fixed set of grammatical labels defined in a separate document.
+- Grammatical labels: We use a fixed set of grammatical labels defined in a separate document ('grammatical labels').
 - Polygrammaticalization: When multiple targets stem from the same source, we display the most grammaticalized meaning; others may appear in the comments.
 
-### 4.5 Examples
+### 4.5 Labelgroup Columns
+
+For the web version of the database, we have added groupings of grams for easier access. Those groupings are based on broad interpretations of the items' functions. And although they have some theoretical background, they are not to be seen as proper comparative concepts. They are there for your convenience and have been assigned in a short amount of time, without the necessary attention to detail necessary for strict grouping.
+
+### 4.6 Examples
 
 - **Glossing** follows the Leipzig Glossing Rules
 - If no citation is given for an example, the contributor is the source (p.c.)
 
-### 4.6 Comments
+### 4.7 Comments
 
 Multiple comments are separated by semicolons.
 
-### 4.7. Grammaticalization Parameters
+### 4.8 Grammaticalization Parameters
 
 Each of the 8 parameters is defined in detail in the methodology paper (Bisang et al. 2020b). Additional notes:
 
