@@ -16,7 +16,7 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [4.2 Form Columns](#42-form-columns)
   - [4.3 Meaning Columns](#43-meaning-columns)
   - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
-  - [4.5 Labelgroup Columns] (#45-simplified-meaning-columns)
+  - [4.5 Labelgroup Columns] (#45-labelgroup-columns)
   - [4.6 Examples](#46-examples)
   - [4.7 Comments](#47-comments)
   - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
