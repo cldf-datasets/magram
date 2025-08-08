@@ -1,5 +1,6 @@
 import pathlib
 import re
+import unicodedata
 from collections import defaultdict
 from itertools import chain, zip_longest
 
@@ -124,13 +125,22 @@ def make_concepts(raw_data):
     return concepts
 
 
+def visual_len(s):
+    return sum(1 for c in s if unicodedata.category(c) not in {'Mn', 'Me', 'Cf'})
+
+
+def visual_pad(s, new_width):
+    vl = visual_len(s)
+    return '{}{}'.format(s, ' ' * (new_width - vl)) if new_width > vl else s
+
+
 def aligned_example(analysed, gloss, indent=0):
     widths = [
-        max(len(a), len(g))
+        max(visual_len(a), visual_len(g))
         for a, g in zip_longest(analysed, gloss, fillvalue='')]
     prefix = ' ' * indent if indent else ''
-    line1 = '  '.join(a.ljust(w) for a, w in zip(analysed, widths))
-    line2 = '  '.join(g.ljust(w) for g, w in zip(gloss, widths))
+    line1 = '  '.join(visual_pad(a, w) for a, w in zip(analysed, widths))
+    line2 = '  '.join(visual_pad(g, w) for g, w in zip(gloss, widths))
     return f'{prefix}{line1}\n{prefix}{line2}'
 
 
