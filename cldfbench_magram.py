@@ -160,7 +160,7 @@ def make_example(row):
     gloss = row['Example:Glossing'].strip().split()
     translation = unquote(row['Example:Translation'])
     if len(analysed) != len(gloss):
-        print(f'example {row_id}: ERR: misaligned gloss')
+        print('example {} ({}): ERR: misaligned gloss'.format(row_id, row['Language']))
         print(' ', row['Example:Material'])
         print(aligned_example(analysed, gloss, indent=2))
         print(f'  ‘{translation}’')
