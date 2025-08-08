@@ -15,7 +15,7 @@
   - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
   - [4.5 Labelgroup Columns](#45-labelgroup-columns)
   - [4.6 Examples](#46-examples)
-  - [4.7 Comments] (#47-comments)
+  - [4.7 Comments](#47-comments)
   - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
 - [5. Bibliography](#5-bibliography)
 - [6. License, Contact & Citation](#6-license-contact--citation)
@@ -237,7 +237,7 @@ Each of the 8 parameters is defined in detail in the methodology paper (Bisang e
 ## 6. License, Contact & Citation
 
 ### License
-CC BY-SA
+[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Contact
 📧 [wbisang@uni-mainz.de](mailto:wbisang@uni-mainz.de)
