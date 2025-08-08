@@ -1,6 +1,7 @@
 MAGRAM, the MAinz GRAMmaticalization data base
 ==============================================
 
+
 <!-- TOC -->
 - [1. History and Development of the Project](#1-history-and-development-of-the-project)
 - [2. Methodology](#2-methodology)
@@ -16,13 +17,13 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [4.2 Form Columns](#42-form-columns)
   - [4.3 Meaning Columns](#43-meaning-columns)
   - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
-  - [4.5 Labelgroup Columns] (#45-labelgroup-columns)
+  - [4.5 Labelgroup Columns](#45-labelgroup-columns)
   - [4.6 Examples](#46-examples)
   - [4.7 Comments](#47-comments)
   - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
 - [5. Bibliography](#5-bibliography)
 - [6. License, Contact & Citation](#6-license-contact--citation)
-- [7. CLDF Datasets](#7-cldf-datasets)
+- [CLDF Datasets](#cldf-datasets)
 <!-- TOCstop -->
 
 
@@ -240,7 +241,7 @@ Each of the 8 parameters is defined in detail in the methodology paper (Bisang e
 ## 6. License, Contact & Citation
 
 ### License
-CC-BY-SA
+[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Contact
 📧 [wbisang@uni-mainz.de](mailto:wbisang@uni-mainz.de)
@@ -254,7 +255,7 @@ CC-BY-SA
 > Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2025. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
 
 
-## 7. CLDF Datasets
+## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
