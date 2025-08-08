@@ -1,6 +1,31 @@
+<!-- TOC -->
+- [1. History and Development of the Project](#1-history-and-development-of-the-project)
+- [2. Methodology](#2-methodology)
+  - [2.1 Basics](#21-basics)
+  - [2.2 Data](#22-data)
+  - [2.3 Parameters](#23-parameters)
+  - [2.4 Evaluation](#24-evaluation)
+- [3. Team & Contributors](#3-team--contributors)
+  - [3.1 Core Team](#31-core-team)
+  - [3.2 Contributors](#32-contributors)
+- [4. Workflow & Design](#4-workflow--design)
+  - [4.1 General Design Principles](#41-general-design-principles)
+  - [4.2 Form Columns](#42-form-columns)
+  - [4.3 Meaning Columns](#43-meaning-columns)
+  - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
+  - [4.5 Labelgroup Columns](#45-labelgroup-columns)
+  - [4.6 Examples](#46-examples)
+  - [4.7 Comments] (#47-comments)
+  - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
+- [5. Bibliography](#5-bibliography)
+- [6. License, Contact & Citation](#6-license-contact--citation)
+- [CLDF Datasets](#cldf-datasets)
+<!-- TOCstop -->
+
+
 ## 1. History and Development of the Project
 
-[MAGRAM](https://en.magram.fb05.uni-mainz.de/) stands for the MAinz GRAMmaticalization project. It was funded by the German Research Foundation (DFG; under BI 591/12--1) and conducted at the Johannes Gutenberg Universität Mainz under the leadership of [Prof. Dr. Walter Bisang](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/walter-bisang/) and [apl. Prof. Dr. Andrej Malchukov](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/andrej-malchukov/), from January 2016 to March 2020.
+[MAGRAM](https://en.magram.fb05.uni-mainz.de/) stands for MAinz GRAMmaticalization project. It was funded by the German Research Foundation (DFG; under BI 591/12--1) and conducted at the Johannes Gutenberg Universität Mainz under the leadership of [Prof. Dr. Walter Bisang](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/walter-bisang/) and [apl. Prof. Dr. Andrej Malchukov](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/andrej-malchukov/), from January 2016 to March 2020.
 
 MAGRAM began with the hypothesis that grammaticalization is not necessarily cross-linguistically homogeneous (cf. Bisang 2011). The project explored areal and/or cross-phylogenetic variation based on two key hypotheses:
 
@@ -171,19 +196,23 @@ There are three main data types:
 
 ### 4.4 Simplified Meaning Columns
 
-- Grammatical labels: We use a fixed set of grammatical labels defined in a separate document.
+- Grammatical labels: We use a fixed set of grammatical labels defined in a separate document ('grammatical labels').
 - Polygrammaticalization: When multiple targets stem from the same source, we display the most grammaticalized meaning; others may appear in the comments.
 
-### 4.5 Examples
+### 4.5 Labelgroup Columns
+
+For the web version of the database, we have added groupings of grams for easier access. Those groupings are based on broad interpretations of the items' functions. And although they have some theoretical background, they are not to be seen as proper comparative concepts. They are there for your convenience and have been assigned in a short amount of time, without the necessary attention to detail necessary for strict grouping.
+
+### 4.6 Examples
 
 - **Glossing** follows the Leipzig Glossing Rules
 - If no citation is given for an example, the contributor is the source (p.c.)
 
-### 4.6 Comments
+### 4.7 Comments
 
 Multiple comments are separated by semicolons.
 
-### 4.7. Grammaticalization Parameters
+### 4.8 Grammaticalization Parameters
 
 Each of the 8 parameters is defined in detail in the methodology paper (Bisang et al. 2020b). Additional notes:
 
@@ -205,10 +234,10 @@ Each of the 8 parameters is defined in detail in the methodology paper (Bisang e
 
 ---
 
-## 8. License, Contact & Citation
+## 6. License, Contact & Citation
 
 ### License
-CC-BY-SA
+CC BY-SA
 
 ### Contact
 📧 [wbisang@uni-mainz.de](mailto:wbisang@uni-mainz.de)
@@ -216,7 +245,7 @@ CC-BY-SA
 ### How to Cite MAGRAM
 
 **Dataset citation** (e.g., Yucatec Maya):
-> Christian Lehmann & MAGRAM team. 2022. *Yucatec Maya*. In: Bisang, Walter & Malchukov, Andrej & Martiny, Marvin (eds.) *Mainz Grammaticalization Project*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
+> Christian Lehmann & MAGRAM team. 2025. *Yucatec Maya*. In: Bisang, Walter & Malchukov, Andrej & Martiny, Marvin (eds.) *Mainz Grammaticalization Project*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
 
 **Full database citation**:
-> Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2022. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
+> Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2025. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
