@@ -148,11 +148,12 @@ def make_example(row):
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
     analysed = analysed.strip().split()
     gloss = row['Example:Glossing'].strip().split()
+    translation = unquote(row['Example:Translation'])
     if len(analysed) != len(gloss):
         print(f'example {row_id}: ERR: misaligned gloss')
         print(' ', row['Example:Material'])
         print(aligned_example(analysed, gloss, indent=2))
-        print('  ‘{}’'.format(row['Example:Translation']))
+        print(f'  ‘{translation}’')
         print()
     return {
         'ID': row_id,
@@ -160,7 +161,7 @@ def make_example(row):
         'Primary_Text': row['Example:Material'].strip(),
         'Analyzed_Word': row['Example:Material'].strip().split(),
         'Gloss': row['Example:Glossing'].strip().split(),
-        'Translated_Text': unquote(row['Example:Translation']),
+        'Translated_Text': translation,
         # FIXME: 'Example:Reference'
     }
 
