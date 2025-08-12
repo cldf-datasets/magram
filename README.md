@@ -1,8 +1,6 @@
 MAGRAM, the MAinz GRAMmaticalization data base
 ==============================================
 
-
-<!-- TOC -->
 - [1. History and Development of the Project](#1-history-and-development-of-the-project)
 - [2. Methodology](#2-methodology)
   - [2.1 Basics](#21-basics)
@@ -23,9 +21,9 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
 - [5. Bibliography](#5-bibliography)
 - [6. License, Contact & Citation](#6-license-contact--citation)
-- [CLDF Datasets](#cldf-datasets)
-<!-- TOCstop -->
-
+  - [License](#license)
+  - [Contact](#contact)
+  - [How to Cite MAGRAM](#how-to-cite-magram)
 
 ## 1. History and Development of the Project
 
@@ -165,6 +163,7 @@ The contributors to our database in alphabetical order of their area of expertis
 This is a schematic overview of the steps leading to the creation of the database:
 
 ![Workflow Diagram](workflow.png)
+
 **Figure 1.** Schematic overview of the project workflow.
 
 ---

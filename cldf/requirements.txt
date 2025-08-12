@@ -4,7 +4,7 @@ bibtexparser==2.0.0b8
 bs4==0.0.2
 certifi==2025.8.3
 cldfbench==1.14.2
--e git+https://github.com/cldf-datasets/magram@6d7ab1cbd8808afd9825631f763e03b12dd4fab7#egg=cldfbench_magram
+-e git+https://github.com/cldf-datasets/magram@2ab82bec9352af76db5e63fa8276c6d618ae4495#egg=cldfbench_magram
 cldfcatalog==1.6.0
 cldfzenodo==2.1.2
 clldutils==3.24.2

@@ -1,27 +1,3 @@
-<!-- TOC -->
-- [1. History and Development of the Project](#1-history-and-development-of-the-project)
-- [2. Methodology](#2-methodology)
-  - [2.1 Basics](#21-basics)
-  - [2.2 Data](#22-data)
-  - [2.3 Parameters](#23-parameters)
-  - [2.4 Evaluation](#24-evaluation)
-- [3. Team & Contributors](#3-team--contributors)
-  - [3.1 Core Team](#31-core-team)
-  - [3.2 Contributors](#32-contributors)
-- [4. Workflow & Design](#4-workflow--design)
-  - [4.1 General Design Principles](#41-general-design-principles)
-  - [4.2 Form Columns](#42-form-columns)
-  - [4.3 Meaning Columns](#43-meaning-columns)
-  - [4.4 Simplified Meaning Columns](#44-simplified-meaning-columns)
-  - [4.5 Labelgroup Columns](#45-labelgroup-columns)
-  - [4.6 Examples](#46-examples)
-  - [4.7 Comments](#47-comments)
-  - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
-- [5. Bibliography](#5-bibliography)
-- [6. License, Contact & Citation](#6-license-contact--citation)
-- [CLDF Datasets](#cldf-datasets)
-<!-- TOCstop -->
-
 
 ## 1. History and Development of the Project
 
@@ -160,7 +136,42 @@ The contributors to our database in alphabetical order of their area of expertis
 
 This is a schematic overview of the steps leading to the creation of the database:
 
-![Workflow Diagram](workflow.png)
+```
+         Starting point:
+   written text by contributors
+       (Handbook & SL30)
+
+               |
+               v
+
+ Coding (data, metadata, evaluation)
+  from text by MAGRAM team *coders*
+using questionnaire & *team* meetings
+
+               |
+               v
+
+     Improving coding (*team*) <-------.
+                                       |
+               |                    Feedback
+               v                       |
+                                       |
+     sending coding sheets to  --------´
+          *contributors*
+
+               |
+               v
+
+ Formatting, streamlining glossing
+       & grammatical labels
+          (*MAGRAM team*)
+
+               |
+               v
+
+  Roll-out of MAGRAM version 1.0
+```
+
 **Figure 1.** Schematic overview of the project workflow.
 
 ---
