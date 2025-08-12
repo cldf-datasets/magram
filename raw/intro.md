@@ -136,41 +136,40 @@ The contributors to our database in alphabetical order of their area of expertis
 
 This is a schematic overview of the steps leading to the creation of the database:
 
-```
-         Starting point:
-   written text by contributors
-       (Handbook & SL30)
+             Starting point:
+       written text by contributors
+           (Handbook & SL30)
 
-               |
-               v
+                   |
+                   v
 
- Coding (data, metadata, evaluation)
-  from text by MAGRAM team *coders*
-using questionnaire & *team* meetings
+     Coding (data, metadata, evaluation)
+      from text by MAGRAM team *coders*
+    using questionnaire & *team* meetings
 
-               |
-               v
+                   |
+                   v
 
-     Improving coding (*team*) <-------.
-                                       |
-               |                    Feedback
-               v                       |
-                                       |
-     sending coding sheets to  --------´
-          *contributors*
+         Improving coding (*team*) <-------.
+                                           |
+                   |                    Feedback
+                   v                       |
+                                           |
+         sending coding sheets to  --------´
+              *contributors*
 
-               |
-               v
+                   |
+                   v
 
- Formatting, streamlining glossing
-       & grammatical labels
-          (*MAGRAM team*)
+     Formatting, streamlining glossing
+           & grammatical labels
+              (*MAGRAM team*)
 
-               |
-               v
+                   |
+                   v
 
-  Roll-out of MAGRAM version 1.0
-```
+      Roll-out of MAGRAM version 1.0
+
 
 **Figure 1.** Schematic overview of the project workflow.
 
