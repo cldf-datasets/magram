@@ -1,6 +1,7 @@
 MAGRAM, the MAinz GRAMmaticalization data base
 ==============================================
 
+<!-- TOC -->
 - [1. History and Development of the Project](#1-history-and-development-of-the-project)
 - [2. Methodology](#2-methodology)
   - [2.1 Basics](#21-basics)
@@ -21,9 +22,9 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [4.8 Grammaticalization Parameters](#48-grammaticalization-parameters)
 - [5. Bibliography](#5-bibliography)
 - [6. License, Contact & Citation](#6-license-contact--citation)
-  - [License](#license)
-  - [Contact](#contact)
-  - [How to Cite MAGRAM](#how-to-cite-magram)
+- [7. CLDF Datasets](#7-cldf-datasets)
+<!-- TOCstop -->
+
 
 ## 1. History and Development of the Project
 
@@ -163,7 +164,6 @@ The contributors to our database in alphabetical order of their area of expertis
 This is a schematic overview of the steps leading to the creation of the database:
 
 ![Workflow Diagram](workflow.png)
-
 **Figure 1.** Schematic overview of the project workflow.
 
 ---
@@ -240,7 +240,7 @@ Each of the 8 parameters is defined in detail in the methodology paper (Bisang e
 ## 6. License, Contact & Citation
 
 ### License
-[CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+CC-BY-SA
 
 ### Contact
 📧 [wbisang@uni-mainz.de](mailto:wbisang@uni-mainz.de)
@@ -254,7 +254,7 @@ Each of the 8 parameters is defined in detail in the methodology paper (Bisang e
 > Bisang, Walter, Malchukov, Andrej & Martiny, Marvin (eds.). 2025. *MAGRAM: Mainz Grammaticalization Project Database*. Leipzig: Max Planck Institute for Evolutionary Anthropology. [https://crossgram.clld.org/contributions/magram](https://crossgram.clld.org/contributions/magram)
 
 
-## CLDF Datasets
+## 7. CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
