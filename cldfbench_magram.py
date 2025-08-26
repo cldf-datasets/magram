@@ -410,6 +410,7 @@ class Dataset(BaseDataset):
             _toc_entry(line)
             for line in intro_text.splitlines()
             if line.startswith(('## ', '### ')))
+        prefix.append('- [CLDF Datasets](#cldf-datasets)')
         prefix.append('')
         intro_template = Template(intro_text)
         return intro_template.substitute(
