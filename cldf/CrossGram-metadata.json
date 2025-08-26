@@ -7,14 +7,14 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://crossgram.clld.org/contributions/magram",
-    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "dc:title": "MAGRAM grammaticalization database",
     "dcat:accessURL": "https://github.com/cldf-datasets/magram",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "40b68c8",
+            "dc:created": "v0.1-11-g2ab82be",
             "dc:title": "Repository"
         },
         {
@@ -39,7 +39,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 545,
+            "dc:extent": 522,
             "tableSchema": {
                 "columns": [
                     {

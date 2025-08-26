@@ -1,4 +1,4 @@
-
+$prefix
 ## 1. History and Development of the Project
 
 [MAGRAM](https://en.magram.fb05.uni-mainz.de/) stands for MAinz GRAMmaticalization project. It was funded by the German Research Foundation (DFG; under BI 591/12--1) and conducted at the Johannes Gutenberg Universität Mainz under the leadership of [Prof. Dr. Walter Bisang](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/walter-bisang/) and [apl. Prof. Dr. Andrej Malchukov](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/andrej-malchukov/), from January 2016 to March 2020.
@@ -136,40 +136,7 @@ The contributors to our database in alphabetical order of their area of expertis
 
 This is a schematic overview of the steps leading to the creation of the database:
 
-             Starting point:
-       written text by contributors
-           (Handbook & SL30)
-
-                   |
-                   v
-
-     Coding (data, metadata, evaluation)
-      from text by MAGRAM team *coders*
-    using questionnaire & *team* meetings
-
-                   |
-                   v
-
-         Improving coding (*team*) <-------.
-                                           |
-                   |                    Feedback
-                   v                       |
-                                           |
-         sending coding sheets to  --------´
-              *contributors*
-
-                   |
-                   v
-
-     Formatting, streamlining glossing
-           & grammatical labels
-              (*MAGRAM team*)
-
-                   |
-                   v
-
-      Roll-out of MAGRAM version 1.0
-
+$workflowdiagram
 
 **Figure 1.** Schematic overview of the project workflow.
 

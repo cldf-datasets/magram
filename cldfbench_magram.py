@@ -1,7 +1,9 @@
 import pathlib
 import re
+import unicodedata
 from collections import defaultdict
 from itertools import chain, zip_longest
+from string import Template
 
 from clldutils.misc import slug
 from cldfbench import Dataset as BaseDataset, CLDFSpec
@@ -50,6 +52,43 @@ COLUMN_MAP = {
     'f40':                     'change:decategorization',
     'f41':                     'change:allomorphy',
 }
+
+
+ASCII_DIAGRAM = '''\
+             Starting point:
+       written text by contributors
+           (Handbook & SL30)
+
+                   |
+                   v
+
+     Coding (data, metadata, evaluation)
+      from text by MAGRAM team *coders*
+    using questionnaire & *team* meetings
+
+                   |
+                   v
+
+         Improving coding (*team*) <-------.
+                                           |
+                   |                    Feedback
+                   v                       |
+                                           |
+         sending coding sheets to  --------´
+              *contributors*
+
+                   |
+                   v
+
+     Formatting, streamlining glossing
+           & grammatical labels
+              (*MAGRAM team*)
+
+                   |
+                   v
+
+      Roll-out of MAGRAM version 1.0
+'''
 
 
 def parse_raw_data(raw_data):
@@ -124,13 +163,22 @@ def make_concepts(raw_data):
     return concepts
 
 
+def visual_len(s):
+    return sum(1 for c in s if unicodedata.category(c) not in {'Mn', 'Me', 'Cf'})
+
+
+def visual_pad(s, new_width):
+    vl = visual_len(s)
+    return '{}{}'.format(s, ' ' * (new_width - vl)) if new_width > vl else s
+
+
 def aligned_example(analysed, gloss, indent=0):
     widths = [
-        max(len(a), len(g))
+        max(visual_len(a), visual_len(g))
         for a, g in zip_longest(analysed, gloss, fillvalue='')]
     prefix = ' ' * indent if indent else ''
-    line1 = '  '.join(a.ljust(w) for a, w in zip(analysed, widths))
-    line2 = '  '.join(g.ljust(w) for g, w in zip(gloss, widths))
+    line1 = '  '.join(visual_pad(a, w) for a, w in zip(analysed, widths))
+    line2 = '  '.join(visual_pad(g, w) for g, w in zip(gloss, widths))
     return f'{prefix}{line1}\n{prefix}{line2}'
 
 
@@ -148,11 +196,12 @@ def make_example(row):
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
     analysed = analysed.strip().split()
     gloss = row['Example:Glossing'].strip().split()
+    translation = unquote(row['Example:Translation'])
     if len(analysed) != len(gloss):
-        print(f'example {row_id}: ERR: misaligned gloss')
+        print('example {} ({}): ERR: misaligned gloss'.format(row_id, row['Language']))
         print(' ', row['Example:Material'])
         print(aligned_example(analysed, gloss, indent=2))
-        print('  ‘{}’'.format(row['Example:Translation']))
+        print(f'  ‘{translation}’')
         print()
     return {
         'ID': row_id,
@@ -160,7 +209,7 @@ def make_example(row):
         'Primary_Text': row['Example:Material'].strip(),
         'Analyzed_Word': row['Example:Material'].strip().split(),
         'Gloss': row['Example:Glossing'].strip().split(),
-        'Translated_Text': unquote(row['Example:Translation']),
+        'Translated_Text': translation,
         # FIXME: 'Example:Reference'
     }
 
@@ -331,12 +380,41 @@ class Dataset(BaseDataset):
         }
 
     def cmd_readme(self, args):
-        section_header = (
-            'MAGRAM, the MAinz GRAMmaticalization data base\n'
-            '==============================================\n'
-            '\n')
-        section_content = self.raw_dir.read('intro.md')
-        return f'{section_header}\n{section_content}'
+        HEADER_LETTERS = 'abcdefghijklmnopqrstuvwxyz0123456789-_'
+
+        def _toc_entry(header):
+            if header.startswith('### '):
+                header_text = header.lstrip('# ')
+                header_id = ''.join(
+                    c
+                    for c in header_text.lower().replace(' ', '-')
+                    if c in HEADER_LETTERS)
+                return f'  - [{header_text}](#{header_id})'
+            elif header.startswith('## '):
+                header_text = header.lstrip('# ')
+                header_id = ''.join(
+                    c
+                    for c in header_text.lower().replace(' ', '-')
+                    if c in HEADER_LETTERS)
+                return f'- [{header_text}](#{header_id})'
+            else:
+                raise AssertionError('UNREACHABLE')
+
+        intro_text = self.raw_dir.read('intro-template.md')
+        prefix = [
+            'MAGRAM, the MAinz GRAMmaticalization data base',
+            '==============================================',
+            '',
+        ]
+        prefix.extend(
+            _toc_entry(line)
+            for line in intro_text.splitlines()
+            if line.startswith(('## ', '### ')))
+        prefix.append('')
+        intro_template = Template(intro_text)
+        return intro_template.substitute(
+            prefix='\n'.join(prefix),
+            workflowdiagram='![Workflow Diagram](workflow.png)')
 
     def cmd_download(self, args):
         pass
@@ -374,6 +452,13 @@ class Dataset(BaseDataset):
         lvalues = make_lvalues(raw_data, lparameters)
 
         # write cldf data
+
+        intro_template = Template(self.raw_dir.read('intro-template.md'))
+        intro_text = intro_template.substitute(
+            prefix='',
+            workflowdiagram=ASCII_DIAGRAM)
+        with open(self.raw_dir / 'intro.md', 'w', encoding='utf-8') as f:
+            print(intro_text, end='', file=f)
 
         with self.cldf_writer(args) as writer:
             define_wordlist_schema(writer.cldf)
