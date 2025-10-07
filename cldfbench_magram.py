@@ -54,7 +54,7 @@ COLUMN_MAP = {
 }
 
 
-ASCII_DIAGRAM = '''\
+ASCII_DIAGRAM = """\
              Starting point:
        written text by contributors
            (Handbook & SL30)
@@ -88,7 +88,7 @@ ASCII_DIAGRAM = '''\
                    v
 
       Roll-out of MAGRAM version 1.0
-'''
+"""
 
 
 def parse_raw_data(raw_data):
@@ -188,7 +188,7 @@ def unquote(translation):
     translation = re.sub(r"(\s|\()'", r'\1', translation)
     translation = re.sub(r"'(\s|\))", r'\1', translation)
     translation = translation.replace("',", '; ')
-    return translation
+    return translation  # noqa: RET504
 
 
 def make_example(row):
@@ -379,8 +379,8 @@ class Dataset(BaseDataset):
                     'CodeTable': 'crossgram-codes.csv'}),
         }
 
-    def cmd_readme(self, args):
-        HEADER_LETTERS = 'abcdefghijklmnopqrstuvwxyz0123456789-_'
+    def cmd_readme(self, _args):
+        header_letters = 'abcdefghijklmnopqrstuvwxyz0123456789-_'
 
         def _toc_entry(header):
             if header.startswith('### '):
@@ -388,14 +388,14 @@ class Dataset(BaseDataset):
                 header_id = ''.join(
                     c
                     for c in header_text.lower().replace(' ', '-')
-                    if c in HEADER_LETTERS)
+                    if c in header_letters)
                 return f'  - [{header_text}](#{header_id})'
             elif header.startswith('## '):
                 header_text = header.lstrip('# ')
                 header_id = ''.join(
                     c
                     for c in header_text.lower().replace(' ', '-')
-                    if c in HEADER_LETTERS)
+                    if c in header_letters)
                 return f'- [{header_text}](#{header_id})'
             else:
                 raise AssertionError('UNREACHABLE')
