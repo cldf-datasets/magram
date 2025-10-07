@@ -2,15 +2,14 @@ attrs==25.3.0
 babel==2.17.0
 bibtexparser==2.0.0b8
 bs4==0.0.2
-certifi==2025.8.3
+certifi==2025.10.5
 cldfbench==1.14.2
--e git+https://github.com/cldf-datasets/magram@2ab82bec9352af76db5e63fa8276c6d618ae4495#egg=cldfbench_magram
+-e git+https://github.com/cldf-datasets/magram@df3a68899f006d78055467ea921dcb00c5195b4e#egg=cldfbench_magram
 cldfcatalog==1.6.0
 cldfzenodo==2.1.2
 clldutils==3.24.2
-colorama==0.4.6
 colorlog==6.9.0
-csvw==3.5.1
+csvw==3.6.0
 exceptiongroup==1.3.0
 gitdb==4.0.12
 greenlet==3.1.1
@@ -19,7 +18,7 @@ importlib_resources==6.4.5
 iniconfig==2.1.0
 isodate==0.7.2
 jsonschema==4.23.0
-lxml==6.0.0
+lxml==6.0.2
 Markdown==3.7
 nameparser==1.1.3
 newick==1.10.0
@@ -33,7 +32,7 @@ pylatexenc==2.10
 pytest==8.3.5
 python-dateutil==2.9.0.post0
 pytz==2025.2
-rdflib==7.1.4
+rdflib==7.2.1
 referencing==0.35.1
 requests==2.32.4
 rfc3986==1.5.0
