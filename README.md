@@ -24,6 +24,7 @@ MAGRAM, the MAinz GRAMmaticalization data base
   - [License](#license)
   - [Contact](#contact)
   - [How to Cite MAGRAM](#how-to-cite-magram)
+- [CLDF Datasets](#cldf-datasets)
 
 ## 1. History and Development of the Project
 
