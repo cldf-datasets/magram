@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-14-gdf3a688",
+            "dc:created": "v0.1-20-g392b640",
             "dc:title": "Repository"
         },
         {
@@ -27,7 +27,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.19"
+            "dc:description": "3.10.18"
         },
         {
             "dc:title": "python-packages",
