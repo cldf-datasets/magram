@@ -8,13 +8,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://crossgram.clld.org/contributions/magram",
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "MAGRAM grammaticalization database",
     "dcat:accessURL": "https://github.com/cldf-datasets/magram",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-20-g392b640",
+            "dc:created": "v0.1-23-ge733bb3",
             "dc:title": "Repository"
         },
         {
@@ -288,7 +289,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 992,
+            "dc:extent": 991,
             "tableSchema": {
                 "columns": [
                     {
@@ -365,6 +366,16 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
                         "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_comment"
                     }
                 ],
                 "foreignKeys": [
