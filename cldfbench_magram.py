@@ -7,6 +7,7 @@ from string import Template
 
 from clldutils.misc import slug
 from cldfbench import Dataset as BaseDataset, CLDFSpec
+from simplepybtex.database import BibliographyData, parse_file
 
 # file maker do be like that sometimes...
 COLUMN_MAP = {
@@ -33,6 +34,7 @@ COLUMN_MAP = {
     'f21_Ex':                  'Example:Material',
     'f22_Ex_gloss':            'Example:Glossing',
     'f23_Ex_translation':      'Example:Translation',
+    'Example_Bibkeys':         'Example_Bibkeys',
     'f24_Ex_reference':        'Example:Reference',
     'f25':                     'Comments',
     'f26':                     'value:semantic_integrity',
@@ -192,6 +194,9 @@ def unquote(translation):
 
 
 def make_example(row):
+    if row['Example:Material'] == '-':
+        return None
+
     row_id = make_row_id(row)
     analysed = row['Example:Material'].replace(' \u0301', '\u0301')
     analysed = analysed.strip().split()
@@ -203,6 +208,13 @@ def make_example(row):
         print(aligned_example(analysed, gloss, indent=2))
         print(f'  ‘{translation}’')
         print()
+
+    source_comment = row.get('Example:Reference', '').strip()
+    sources = [
+        bibkey
+        for bibkey in re.split(r'\s*;\s*', row.get('Example_Bibkeys', '').strip())
+        if bibkey]
+
     return {
         'ID': row_id,
         'Language_ID': make_language_id(row),
@@ -210,8 +222,21 @@ def make_example(row):
         'Analyzed_Word': row['Example:Material'].strip().split(),
         'Gloss': row['Example:Glossing'].strip().split(),
         'Translated_Text': translation,
-        # FIXME: 'Example:Reference'
+        'Source': sources,
+        'Source_comment': source_comment if not sources else '',
     }
+
+
+def used_sources(bibliography, example_table):
+    used_bibkeys = {
+        src.split('[')[0] if '[' in src else src
+        for example in example_table
+        for src in example.get('Source', ())}
+    entries = {
+        bibkey: entry
+        for bibkey, entry in bibliography.entries.items()
+        if bibkey in used_bibkeys}
+    return BibliographyData(entries=entries)
 
 
 def make_forms(raw_data):
@@ -239,7 +264,7 @@ def make_paths(raw_data):
             'Source_Form_ID': f'{row_id}-s',
             'Target_Form_ID': f'{row_id}-t',
             'Subset': make_contrib_id(row),
-            'Example_ID': row_id,
+            'Example_ID': row_id if row['Example:Material'] != '-' else '',
             'Comment': row.get('Comments'),
         }
         for row in raw_data]
@@ -277,7 +302,8 @@ def make_cvalues(raw_data, cparameters, ccodes):
             }
             if parameter['ID'] == 'source':
                 cvalue['Comment'] = row['Source:Form']
-                cvalue['Example_IDs'] = [make_row_id(row)]
+                if row['Example:Material'] != '-':
+                    cvalue['Example_IDs'] = [make_row_id(row)]
             cvalues.append(cvalue)
     return cvalues
 
@@ -317,7 +343,10 @@ def make_lvalues(raw_data, lparameters):
 def define_wordlist_schema(cldf):
     cldf.add_component('LanguageTable')
     cldf.add_component('ContributionTable')
-    cldf.add_component('ExampleTable')
+    cldf.add_component(
+        'ExampleTable',
+        'http://cldf.clld.org/v1.0/terms.rdf#source',
+        'Source_comment')
     cldf.add_columns('FormTable', 'Type')
     cldf.add_table(
         'paths.csv',
@@ -333,7 +362,10 @@ def define_wordlist_schema(cldf):
 
 def define_crossgram_schema(cldf):
     cldf.add_component('LanguageTable')
-    cldf.add_component('ExampleTable')
+    cldf.add_component(
+        'ExampleTable',
+        'http://cldf.clld.org/v1.0/terms.rdf#source',
+        'Source_comment')
     cldf.add_table(
         'constructions.csv',
         'http://cldf.clld.org/v1.0/terms.rdf#id',
@@ -435,11 +467,18 @@ class Dataset(BaseDataset):
         ccodes = parse_ccodes(
             self.etc_dir.read_csv('ccodes.csv', dicts=True))
 
+        bibfile = self.raw_dir / 'MAGRAM_database_example_reference_bibliography.bib'
+        bibliography = parse_file(bibfile)
+
         # make cldf data
 
         # shared tables
         languages = make_languages(raw_data)
-        example_table = list(map(make_example, raw_data))
+        example_table = [
+            example
+            for row in raw_data
+            if (example := make_example(row))]
+        bibliography = used_sources(bibliography, example_table)
 
         # wordlist tables
         contributions = make_contributions(raw_data)
@@ -469,6 +508,7 @@ class Dataset(BaseDataset):
             writer.objects['ContributionTable'] = contributions.values()
             writer.objects['FormTable'] = form_table
             writer.objects['paths.csv'] = path_table
+            writer.cldf.add_sources(bibliography)
 
         with self.cldf_writer(args, cldf_spec='crossgram', clean=False) as writer:
             define_crossgram_schema(writer.cldf)
@@ -480,3 +520,4 @@ class Dataset(BaseDataset):
             writer.objects['CodeTable'] = ccodes.values()
             writer.objects['cvalues.csv'] = cvalues
             writer.objects['ValueTable'] = lvalues
+            writer.cldf.add_sources(bibliography)
