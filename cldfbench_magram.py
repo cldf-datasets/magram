@@ -108,6 +108,13 @@ def parse_ccodes(csv_rows):
         for row in csv_rows}
 
 
+def get_languoids(glottolog, rows):
+    all_glottocodes = {gc for row in rows if (gc := row.get('Glottocode'))}
+    return {
+        lg.id: lg
+        for lg in glottolog.languoids(ids=all_glottocodes)}
+
+
 def make_row_id(row):
     return '{}-{}-{}-{}'.format(
         row['Code'],
@@ -124,14 +131,27 @@ def make_contrib_id(row):
     return slug(row['Subset'])
 
 
-def make_languages(raw_data):
+def valid_glottocode(glottocode, language_name, languoids):
+    if not glottocode:
+        return ''
+    elif glottocode in languoids:
+        return glottocode
+    else:
+        print(f'Language {language_name}: invalid glottocode: {glottocode}')
+        return ''
+
+
+def make_languages(raw_data, languoids):
     languages = {}
     for row in raw_data:
         if (language_id := make_language_id(row)) not in languages:
             languages[language_id] = {
                 'ID': language_id,
                 'Name': row['Language'],
-                'Glottocode': row['Glottocode'],
+                'Glottocode': valid_glottocode(
+                    row['Glottocode'],
+                    row['Language'],
+                    languoids),
             }
     return languages
 
@@ -470,10 +490,12 @@ class Dataset(BaseDataset):
         bibfile = self.raw_dir / 'MAGRAM_database_example_reference_bibliography.bib'
         bibliography = parse_file(bibfile)
 
+        languoids = get_languoids(args.glottolog.api, raw_data)
+
         # make cldf data
 
         # shared tables
-        languages = make_languages(raw_data)
+        languages = make_languages(raw_data, languoids)
         example_table = [
             example
             for row in raw_data
