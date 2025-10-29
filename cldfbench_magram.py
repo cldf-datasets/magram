@@ -131,28 +131,34 @@ def make_contrib_id(row):
     return slug(row['Subset'])
 
 
-def valid_glottocode(glottocode, language_name, languoids):
-    if not glottocode:
-        return ''
-    elif glottocode in languoids:
-        return glottocode
+def get_languoid(languoids, row):
+    if (glottocode := row.get('Glottocode')):
+        if (languoid := languoids.get(glottocode)):
+            return languoid
+        else:
+            print('Language {}: invalid glottocode: {}'.format(
+                row['Language'], glottocode))
+            return None
     else:
-        print(f'Language {language_name}: invalid glottocode: {glottocode}')
-        return ''
+        return None
 
 
 def make_languages(raw_data, languoids):
     languages = {}
     for row in raw_data:
         if (language_id := make_language_id(row)) not in languages:
-            languages[language_id] = {
+            language = {
                 'ID': language_id,
                 'Name': row['Language'],
-                'Glottocode': valid_glottocode(
-                    row['Glottocode'],
-                    row['Language'],
-                    languoids),
             }
+            if (languoid := get_languoid(languoids, row)):
+                language['Glottocode'] = languoid.id
+                language['ISO639P3code'] = languoid.iso or ''
+                language['Latitude'] = languoid.latitude or ''
+                language['Longitude'] = languoid.longitude or ''
+                if languoid.macroareas:
+                    language['Macroarea'] = languoid.macroareas[0].name
+            languages[language_id] = language
     return languages
 
 
