@@ -1,136 +1,136 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-abyanei,Abyanei,,,,abya1234,
-africanamericanvernacularenglish,African-American Vernacular English,,,,afri1276,
-aghul,Aghul,,,,aghu1253,
-angolar,Angolar,,,,ango1258,
-archi,Archi,,,,arch1244,
-awadhi,Awadhi,,,,awad1243,
-ayacuchoquechua,Ayacucho Quechua,,,,ayac1239,
-bactrian,Bactrian,,,,bact1239,
-balantak,Balantak,,,,bala1315,
+abyanei,Abyanei,Eurasia,,,abya1234,
+africanamericanvernacularenglish,African-American Vernacular English,Eurasia,,,afri1276,
+aghul,Aghul,Eurasia,41.9242,47.5843,aghu1253,agx
+angolar,Angolar,Africa,0.11438,6.59486,ango1258,aoa
+archi,Archi,Eurasia,42.3239,46.8267,arch1244,aqc
+awadhi,Awadhi,Eurasia,27.5907,82.4663,awad1243,awa
+ayacuchoquechua,Ayacucho Quechua,South America,-13.84714,-74.32246,ayac1239,quy
+bactrian,Bactrian,Eurasia,36.81,66.85,bact1239,xbc
+balantak,Balantak,Papunesia,-0.86809,123.289,bala1315,blz
 balochi,Balochi,,,,balo1260,
-balochieastern,Balochi (Eastern),,,,east2304,
-balochiwestern,Balochi (Western),,,,west2368,
-bambara,Bambara,,,,bamb1269,
-bardi,Bardi,,,,bard1255,
-bataviacreole,Batavia Creole,,,,mala1533,
-beja,Beja,,,,beja1238,
-bhojpuri,Bhojpuri,,,,bhoj1244,
-bislama,Bislama,,,,bisl1239,
+balochieastern,Balochi (Eastern),Eurasia,29.38213,69.05834,east2304,bgp
+balochiwestern,Balochi (Western),Eurasia,29.49928,66.02877,west2368,bgn
+bambara,Bambara,Africa,12.9,-7.65,bamb1269,bam
+bardi,Bardi,Australia,-16.6274,122.906,bard1255,bcj
+bataviacreole,Batavia Creole,Eurasia,2.188087,102.262059,mala1533,mcm
+beja,Beja,Africa,17.2436,36.6666,beja1238,bej
+bhojpuri,Bhojpuri,Eurasia,26.458455,84.817115,bhoj1244,bho
+bislama,Bislama,Papunesia,-15.4,166.89,bisl1239,bis
 bolivianquechua,Bolivian Quechua,,,,boli1262,
-brazilianportuguese,Brazilian Portuguese,,,,braz1246,
-budugh,Budugh,,,,budu1248,
-bulgarian,Bulgarian,,,,bulg1262,
-catalan,Catalan,,,,stan1289,
-cherokee,Cherokee,,,,cher1273,
-chorasmian,Chorasmian,,,,khwa1238,
-creolese,Creolese,,,,creo1235,
-croatianserbian,Croatian/Serbian,,,,sout1528,
-czech,Czech,,,,czec1258,
-dakhinihindi,Dakhini Hindi,,,,dakh1243,
-diuindoportuguese,Diu Indo-Portuguese,,,,dama1278,
-earlyjudeopersian,Early Judeo-Persian,,,,jude1257,
-earlysranan,Early Sranan,,,,sran1240,
-eastkhantic,East Khantic,,,,khan1273,
+brazilianportuguese,Brazilian Portuguese,Eurasia,,,braz1246,
+budugh,Budugh,Eurasia,41.2272,48.3353,budu1248,bdk
+bulgarian,Bulgarian,Eurasia,43.3646,25.047,bulg1262,bul
+catalan,Catalan,Eurasia,41.453,1.569,stan1289,cat
+cherokee,Cherokee,North America,35.4664,-83.163,cher1273,chr
+chorasmian,Chorasmian,Eurasia,41.68,60.75,khwa1238,xco
+creolese,Creolese,South America,9.0,-62.0,creo1235,gyn
+croatianserbian,Croatian/Serbian,Eurasia,44.15,18.81,sout1528,hbs
+czech,Czech,Eurasia,49.873398,15.10437,czec1258,ces
+dakhinihindi,Dakhini Hindi,Eurasia,,,dakh1243,
+diuindoportuguese,Diu Indo-Portuguese,Eurasia,20.396759,72.84146,dama1278,idb
+earlyjudeopersian,Early Judeo-Persian,Eurasia,31.45071,43.57147,jude1257,jpr
+earlysranan,Early Sranan,South America,5.83,-55.33,sran1240,srn
+eastkhantic,East Khantic,Eurasia,62.4308,66.1218,khan1273,kca
 ecuadorianquichua,Ecuadorian Quichua,,,,colo1257,
-emai,Emai,,,,emai1241,
-estonian,Estonian,,,,esto1258,
-even,Even,,,,even1260,
-evenki,Evenki,,,,even1259,
-finnish,Finnish,,,,finn1318,
-french,French,,,,stan1290,
-garhwali,Garhwali,,,,garh1243,
-german,German,,,,stan1295,
-guadelopeancreole,Guadelopean Creole,,,,guad1242,
-guineabissaukriyol,Guinea-Bissau Kriyol,,,,uppe1455,
-guyanais,Guyanais,,,,guia1246,
-haitiancreole,Haitian Creole,,,,hait1244,
-hindi,Hindi,,,,hind1269,
-hoocak,Hoocak,,,,hoch1243,
-huanca,Huanca,,,,jauj1238,
-hungarian,Hungarian,,,,hung1274,
-italian,Italian,,,,stan1288,
-jamaican,Jamaican,,,,jama1262,
-japhug,Japhug,,,,japh1234,
-jubaarabic,Juba Arabic,,,,suda1237,
-jula,Jula,,,,dyul1238,
-ket,Ket,,,,kett1243,
+emai,Emai,Africa,7.09089,5.84494,emai1241,ema
+estonian,Estonian,Eurasia,58.55,25.82,esto1258,ekk
+even,Even,Eurasia,70.6687,130.914,even1260,eve
+evenki,Evenki,Eurasia,61.972,94.689,even1259,evn
+finnish,Finnish,Eurasia,64.7628,25.5577,finn1318,fin
+french,French,Eurasia,48.0,2.0,stan1290,fra
+garhwali,Garhwali,Eurasia,30.5061,78.7201,garh1243,gbm
+german,German,Eurasia,48.649,12.4676,stan1295,deu
+guadelopeancreole,Guadelopean Creole,North America,16.304875,-61.405914,guad1242,gcf
+guineabissaukriyol,Guinea-Bissau Kriyol,Africa,13.2335066667,-15.33254,uppe1455,pov
+guyanais,Guyanais,South America,4.94804,-52.7336,guia1246,gcr
+haitiancreole,Haitian Creole,North America,18.795135,-72.136115,hait1244,hat
+hindi,Hindi,Eurasia,25.0,77.0,hind1269,hin
+hoocak,Hoocak,North America,43.5,-88.5,hoch1243,win
+huanca,Huanca,South America,-11.6747,-75.2786,jauj1238,qxw
+hungarian,Hungarian,Eurasia,46.9068585714,19.6555271429,hung1274,hun
+italian,Italian,Eurasia,40.4414,-1.11788,stan1288,spa
+jamaican,Jamaican,North America,18.13,-77.2612,jama1262,jam
+japhug,Japhug,Eurasia,32.1,102.36,japh1234,
+jubaarabic,Juba Arabic,Africa,5.654,28.774,suda1237,pga
+jula,Jula,Africa,10.4536,-4.72007,dyul1238,dyu
+ket,Ket,Eurasia,63.7551,87.5466,kett1243,ket
 khmer,Khmer,,,,khme1253,
-kitamaninka,Kita Maninka,,,,kita1249,
-korean,Korean,,,,kore1280,
-kott,Kott,,,,kott1239,
-koyaga,Koyaga,,,,mand1436,
-kryz,Kryz,,,,kryt1240,
-kurdishkurmanji,Kurdish (Kurmanji),,,,nort2641,
-kurdishsorani,Kurdish (Sorani),,,,sora1257,
-lezgian,Lezgian,,,,lezg1247,
-lowersorbian,Lower Sorbian,,,,lowe1385,
+kitamaninka,Kita Maninka,Africa,13.1798,-9.49151,kita1249,mwk
+korean,Korean,Eurasia,37.54,126.98,kore1280,kor
+kott,Kott,Eurasia,55.0,94.0,kott1239,zko
+koyaga,Koyaga,Africa,12.8165233333,-15.6539466667,mand1436,mnk
+kryz,Kryz,Eurasia,41.1811,48.1846,kryt1240,kry
+kurdishkurmanji,Kurdish (Kurmanji),Eurasia,37.0,43.0,nort2641,kmr
+kurdishsorani,Kurdish (Sorani),Eurasia,,,sora1257,
+lezgian,Lezgian,Eurasia,41.5157,47.8951,lezg1247,lez
+lowersorbian,Lower Sorbian,Eurasia,51.6621,13.9407,lowe1385,dsb
 luri,Luri,,,,bakh1252,
-macedonian,Macedonian,,,,mace1250,
-makassarese,Makassarese,,,,maka1311,
-manchu,Manchu,,,,manc1252,
-mandarin,Mandarin,,,,mand1415,
-mandinka,Mandinka,,,,mand1436,
-maninkamori,Maninka-mori,,,,mand1436,
-mauritiancreole,Mauritian Creole,,,,mori1278,
-mian,Mian,,,,mian1254,
-middlepersian,Middle Persian,,,,pahl1241,
-mohawk,Mohawk,,,,moha1258,
-mori,Mori,,,,anem1248,
-nanai,Nanai,,,,nana1257,
-negerhollands,Negerhollands,,,,nege1244,
+macedonian,Macedonian,Eurasia,41.5957,21.7932,mace1250,mkd
+makassarese,Makassarese,Papunesia,-5.65551,119.838,maka1311,mak
+manchu,Manchu,Eurasia,47.31225,126.55713,manc1252,mnc
+mandarin,Mandarin,Eurasia,40.0209,116.228,mand1415,cmn
+mandinka,Mandinka,Africa,12.8165233333,-15.6539466667,mand1436,mnk
+maninkamori,Maninka-mori,Africa,12.8165233333,-15.6539466667,mand1436,mnk
+mauritiancreole,Mauritian Creole,Africa,-20.2613,57.5517,mori1278,mfe
+mian,Mian,Papunesia,-4.42116,145.276,mian1254,pla
+middlepersian,Middle Persian,Eurasia,30.06,52.7,pahl1241,pal
+mohawk,Mohawk,North America,43.72,-74.66836,moha1258,moh
+mori,Mori,Papunesia,-9.75911,148.479,anem1248,aby
+nanai,Nanai,Eurasia,48.43426,134.79726,nana1257,gld
+negerhollands,Negerhollands,North America,18.3416,-64.8922,nege1244,dcr
 newpersian,New Persian,,,,fars1255,
-newpersianafghan,New Persian (Afghan),,,,dari1249,
-northjuninquechua,North Junín Quechua,,,,nort2980,
-nyigina,Nyigina,,,,nyig1240,
-nyulnyul,Nyulnyul,,,,nyul1247,
-ossetic,Ossetic,,,,osse1243,
-pacaraosquechua,Pacaraos Quechua,,,,paca1245,
-palenquero,Palenquero,,,,pale1260,
-parthian,Parthian,,,,part1239,
-pashto,Pashto,,,,nucl1276,
-persian,Persian,,,,west2369,
-pimabajo,Pima Bajo,,,,pima1248,
-polish,Polish,,,,poli1260,
-principense,Principense,,,,prin1242,
+newpersianafghan,New Persian (Afghan),Eurasia,34.39757,66.14961,dari1249,prs
+northjuninquechua,North Junín Quechua,South America,-11.2132,-75.8128,nort2980,qvn
+nyigina,Nyigina,Australia,-17.9594,124.348,nyig1240,nyh
+nyulnyul,Nyulnyul,Australia,-16.9129,122.851,nyul1247,nyv
+ossetic,Ossetic,Eurasia,42.98,44.61,osse1243,
+pacaraosquechua,Pacaraos Quechua,South America,-11.14278,-76.73046,paca1245,qvp
+palenquero,Palenquero,South America,10.3881,-75.2949,pale1260,pln
+parthian,Parthian,Eurasia,37.052,56.056,part1239,xpr
+pashto,Pashto,Eurasia,,,nucl1276,pus
+persian,Persian,Eurasia,32.9,53.3,west2369,pes
+pimabajo,Pima Bajo,North America,28.654,-108.326,pima1248,pia
+polish,Polish,Eurasia,51.8439,18.6255,poli1260,pol
+principense,Principense,Africa,1.614,7.392,prin1242,pre
 quechuai,Quechua I,,,,quec1386,
-quechuaii,Quechua II,,,,quec1388,
-ratahan,Ratahan,,,,rata1244,
-romanian,Romanian,,,,roma1327,
-romansh,Romansh,,,,roma1326,
-russian,Russian,,,,russ1263,
-rutul,Rutul,,,,rutu1240,
-semnani,Semnani,,,,semn1249,
-seychellescreole,Seychelles Creole,,,,sese1246,
-slovak,Slovak,,,,slov1269,
-sogdian,Sogdian,,,,sogd1245,
-sogdianmanichean,Sogdian (Manichean),,,,sogd1245,
-solomonislandspijin,Solomon Islands Pijin,,,,piji1239,
-southernaymara,Southern Aymara,,,,sout2996,
-spanish,Spanish,,,,stan1288,
-sranan,Sranan,,,,sran1240,
-srilankaportugese,Sri Lanka Portugese,,,,mala1544,
-tabasaran,Tabasaran,,,,taba1259,
-tajio,Tajio,,,,taji1246,
-talyshi,Talyshi,,,,taly1247,
-tatjewish,Tat (Jewish),,,,jude1256,
-tatmuslim,Tat (Muslim),,,,musl1236,
-ternatechabacano,Ternate Chabacano,,,,chav1241,
-thai,Thai,,,,thai1261,
-tokpisin,Tok Pisin,,,,tokp1240,
-tsakhur,Tsakhur,,,,tsak1249,
-tswana,Tswana,,,,tswa1253,
-tundranenets,Tundra Nenets,,,,nene1249,
-tuscarora,Tuscarora,,,,tusc1257,
-udi,Udi,,,,udii1243,
-uppersorbian,Upper Sorbian,,,,uppe1395,
-veps,Veps,,,,veps1250,
-vincentiancreole,Vincentian Creole,,,,vinc1243,
-wakhi,Wakhi,,,,wakh1245,
-warrwa,Warrwa,,,,warr1258,
+quechuaii,Quechua II,,,,,
+ratahan,Ratahan,Papunesia,1.07592,124.858,rata1244,rth
+romanian,Romanian,Eurasia,46.3913,24.2256,roma1327,ron
+romansh,Romansh,Eurasia,46.5538,9.92812,roma1326,roh
+russian,Russian,Eurasia,59.0,50.0,russ1263,rus
+rutul,Rutul,Eurasia,41.6187,47.3244,rutu1240,rut
+semnani,Semnani,Eurasia,35.5295,53.2868,semn1249,smy
+seychellescreole,Seychelles Creole,Africa,-4.62314,55.4503,sese1246,crs
+slovak,Slovak,Eurasia,48.545705,18.78479,slov1269,slk
+sogdian,Sogdian,Eurasia,39.7,66.983,sogd1245,sog
+sogdianmanichean,Sogdian (Manichean),Eurasia,39.7,66.983,sogd1245,sog
+solomonislandspijin,Solomon Islands Pijin,Papunesia,-9.567,160.137,piji1239,pis
+southernaymara,Southern Aymara,South America,-17.1417,-70.3442,sout2996,ayc
+spanish,Spanish,Eurasia,40.4414,-1.11788,stan1288,spa
+sranan,Sranan,South America,5.83,-55.33,sran1240,srn
+srilankaportugese,Sri Lanka Portugese,Eurasia,8.5867,81.211885,mala1544,
+tabasaran,Tabasaran,Eurasia,42.0198,47.8379,taba1259,tab
+tajio,Tajio,Papunesia,-0.31553,120.01,taji1246,tdj
+talyshi,Talyshi,Eurasia,38.4552,48.6349,taly1247,tly
+tatjewish,Tat (Jewish),Eurasia,42.068306,48.264749,jude1256,jdt
+tatmuslim,Tat (Muslim),Eurasia,41.425062,46.645589,musl1236,ttt
+ternatechabacano,Ternate Chabacano,Papunesia,7.435034,122.18849,chav1241,cbk
+thai,Thai,Eurasia,14.192,100.671,thai1261,tha
+tokpisin,Tok Pisin,Papunesia,-9.41971,147.303,tokp1240,tpi
+tsakhur,Tsakhur,Eurasia,41.5916,46.8858,tsak1249,tkr
+tswana,Tswana,Africa,-24.368,24.7587,tswa1253,tsn
+tundranenets,Tundra Nenets,Eurasia,66.1775,71.0234,nene1249,yrk
+tuscarora,Tuscarora,North America,35.75362,-77.60117,tusc1257,tus
+udi,Udi,Eurasia,40.9,47.7236,udii1243,udi
+uppersorbian,Upper Sorbian,Eurasia,51.2403,14.4098,uppe1395,hsb
+veps,Veps,Eurasia,60.3353,34.7865,veps1250,vep
+vincentiancreole,Vincentian Creole,North America,13.2436,-61.1963,vinc1243,svc
+wakhi,Wakhi,Eurasia,37.1768,73.9777,wakh1245,wbl
+warrwa,Warrwa,Australia,-17.0965,123.971,warr1258,wwr
 xufipamir,Xufi (Pamir),,,,shug1253,
-yaghnobi,Yaghnobi,,,,yagn1238,
-yaqui,Yaqui,,,,yaqu1251,
-yawuru,Yawuru,,,,yawu1244,
-yucatec,Yucatec,,,,yuca1254,
-zazaki,Zazaki,,,,zaza1246,
+yaghnobi,Yaghnobi,Eurasia,39.1486,69.2422,yagn1238,yai
+yaqui,Yaqui,North America,29.9446,-110.681,yaqu1251,yaq
+yawuru,Yawuru,Australia,-18.004,122.693,yawu1244,ywr
+yucatec,Yucatec,North America,18.7757,-88.9567,yuca1254,yua
+zazaki,Zazaki,Eurasia,,,zaza1246,zza
