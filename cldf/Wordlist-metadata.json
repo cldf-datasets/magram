@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-28-gf4c04eb",
+            "dc:created": "v0.1-30-gd35f2d0",
             "dc:title": "Repository"
         },
         {
@@ -234,6 +234,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
                     }
                 ],
                 "primaryKey": [
