@@ -158,6 +158,9 @@ def make_languages(raw_data, languoids):
                 language['Longitude'] = languoid.longitude or ''
                 if languoid.macroareas:
                     language['Macroarea'] = languoid.macroareas[0].name
+            elif language['Name'] == 'Quechua II':
+                # TODO(johannes): coordinates
+                language['Family'] = 'quec1387'
             languages[language_id] = language
     return languages
 
@@ -367,7 +370,7 @@ def make_lvalues(raw_data, lparameters):
 
 
 def define_wordlist_schema(cldf):
-    cldf.add_component('LanguageTable')
+    cldf.add_component('LanguageTable', 'Family')
     cldf.add_component('ContributionTable')
     cldf.add_component(
         'ExampleTable',
@@ -387,7 +390,7 @@ def define_wordlist_schema(cldf):
 
 
 def define_crossgram_schema(cldf):
-    cldf.add_component('LanguageTable')
+    cldf.add_component('LanguageTable', 'Family')
     cldf.add_component(
         'ExampleTable',
         'http://cldf.clld.org/v1.0/terms.rdf#source',
