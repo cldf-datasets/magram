@@ -329,7 +329,10 @@ def make_cvalues(raw_data, cparameters, ccodes):
                 'Code_ID': code['ID'] if code else '',
                 'Value': code['Name'] if code else value,
             }
-            if parameter['ID'] == 'source':
+            if parameter['ID'] == 'target-meaning-type':
+                if (comment := row.get('Comments')):
+                    cvalue['Comment'] = comment
+            elif parameter['ID'] == 'source':
                 cvalue['Comment'] = row['Source:Form']
                 if row['Example:Material'] != '-':
                     cvalue['Example_IDs'] = [make_row_id(row)]
