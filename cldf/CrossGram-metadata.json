@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-30-gd35f2d0",
+            "dc:created": "v0.1-32-gf7dbbbf",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.18"
+            "dc:description": "3.10.19"
         },
         {
             "dc:title": "python-packages",
@@ -141,7 +141,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 43,
+            "dc:extent": 42,
             "tableSchema": {
                 "columns": [
                     {
@@ -475,7 +475,7 @@
             "url": "constructions.csv"
         },
         {
-            "dc:extent": 18148,
+            "dc:extent": 17856,
             "tableSchema": {
                 "columns": [
                     {
