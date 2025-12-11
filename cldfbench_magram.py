@@ -143,13 +143,14 @@ def get_languoid(languoids, row):
         return None
 
 
-def make_languages(raw_data, languoids):
+def make_languages(raw_data, languoids, language_sources):
     languages = {}
     for row in raw_data:
         if (language_id := make_language_id(row)) not in languages:
             language = {
                 'ID': language_id,
                 'Name': row['Language'],
+                'Source_comment': language_sources[language_id],
             }
             if (languoid := get_languoid(languoids, row)):
                 language['Glottocode'] = languoid.id
@@ -373,7 +374,7 @@ def make_lvalues(raw_data, lparameters):
 
 
 def define_wordlist_schema(cldf):
-    cldf.add_component('LanguageTable', 'Family')
+    cldf.add_component('LanguageTable', 'Family', 'Source_comment')
     cldf.add_component('ContributionTable')
     cldf.add_component(
         'ExampleTable',
@@ -393,7 +394,7 @@ def define_wordlist_schema(cldf):
 
 
 def define_crossgram_schema(cldf):
-    cldf.add_component('LanguageTable', 'Family')
+    cldf.add_component('LanguageTable', 'Family', 'Source_comment')
     cldf.add_component(
         'ExampleTable',
         'http://cldf.clld.org/v1.0/terms.rdf#source',
@@ -499,6 +500,10 @@ class Dataset(BaseDataset):
         ccodes = parse_ccodes(
             self.etc_dir.read_csv('ccodes.csv', dicts=True))
 
+        language_sources = {
+            row['ID']: row['Source']
+            for row in self.etc_dir.read_csv('language-sources.csv', dicts=True)}
+
         bibfile = self.raw_dir / 'MAGRAM_database_example_reference_bibliography.bib'
         bibliography = parse_file(bibfile)
 
@@ -507,7 +512,7 @@ class Dataset(BaseDataset):
         # make cldf data
 
         # shared tables
-        languages = make_languages(raw_data, languoids)
+        languages = make_languages(raw_data, languoids, language_sources)
         example_table = [
             example
             for row in raw_data
