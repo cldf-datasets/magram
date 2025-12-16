@@ -159,9 +159,13 @@ def make_languages(raw_data, languoids, language_sources):
                 language['Longitude'] = languoid.longitude or ''
                 if languoid.macroareas:
                     language['Macroarea'] = languoid.macroareas[0].name
-            elif language['Name'] == 'Quechua II':
-                # TODO(johannes): coordinates
+            if language['Name'] == 'Quechua I':
+                language['Latitude'] = -9.57135
+                language['Longitude'] = -75.594
+            if language['Name'] == 'Quechua II':
                 language['Family'] = 'quec1387'
+                language['Latitude'] = -7.09314
+                language['Longitude'] = -78.3214
             languages[language_id] = language
     return languages
 
