@@ -123,23 +123,6 @@ def make_row_id(row):
         slug(row['Target:Meaning_simplified']))
 
 
-def normalise_cvalue(value):
-    return value.lower()
-
-
-def only_used_ccodes(ccodes, cparameters, raw_data):
-    used_ccodes = {
-        code['ID']
-        for row in raw_data
-        for col_name, parameter in cparameters.items()
-        if (value := row.get(col_name))
-        and (code := ccodes.get((parameter['ID'], normalise_cvalue(value))))}
-    return {
-        k: code
-        for k, code in ccodes.items()
-        if code['ID'] in used_ccodes}
-
-
 def make_language_id(row):
     return slug(row['Language'])
 
@@ -330,6 +313,10 @@ def make_constructions(raw_data):
             'Description': row['Target:Form'],
         }
         for row_no, row in enumerate(raw_data, 1)]
+
+
+def normalise_cvalue(value):
+    return value.lower()
 
 
 def make_cvalues(raw_data, cparameters, ccodes):
@@ -527,8 +514,6 @@ class Dataset(BaseDataset):
         languoids = get_languoids(args.glottolog.api, raw_data)
 
         # make cldf data
-
-        ccodes = only_used_ccodes(ccodes, cparameters, raw_data)
 
         # shared tables
         languages = make_languages(raw_data, languoids, language_sources)
