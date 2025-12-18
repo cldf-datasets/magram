@@ -2,8 +2,8 @@
 
 Name              | GitHub user  | Description                                  | Role
 ---               | ---          | ---                                          | ---
-Andrej Malchukov  |              | study author, collected data                 | Author
 Walter Bisang     |              | study author, collected data                 | Author
+Andrej Malchukov  |              | study author, collected data                 | Author
 Marvin Martiny    | @marvinmainz | annotation and evaluation, database curation | Author
 Linlin Sun        |              | annotation and evaluation                    | Other
 Iris Rieder       |              | annotation and evaluation                    | Other
