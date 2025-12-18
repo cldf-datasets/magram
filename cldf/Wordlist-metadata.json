@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-36-g45ac25f",
+            "dc:created": "v0.1-39-g750495c",
             "dc:title": "Repository"
         },
         {
