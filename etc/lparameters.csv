@@ -1,25 +1,25 @@
 ID,Original_Name,Name,Description
-agreement,agreement,agreement,
-aspect,aspect,aspect,
-case-adposition,case/adposition,case/adposition,
-conjunction,conjunction,conjunction,
-copulaic,copulaic,copulaic,
-definiteness,definiteness,definiteness,
-evaluative,evaluative,evaluative,
-evidential,evidential,evidential,
-identity,identity,identity,
-information-structure-devices,information structure devices,information structure devices,
-modality,modality,modality,
-negative,negative,negative,
-noun-classification,noun classification,noun classification,
-number,number,number,
-other,other,other grams,
-possession,possession,possession,
-pronoun-proverb,pronoun/proverb,pronoun/proverb,
-quantification,quantification,quantification,
-relativization,relativization,relativization,
-tense,tense,tense,
-valency-change,valency change,valency change,
-verbal-categories-other,"verbal categories, other",other verbal categories,
-verbal-deixis,verbal deixis,verbal deixis,
-word-class-change,word class change,word class change,
+agreement,agreement,Grams for agreement,"Target grams expressing agreement features (e.g. number agreement, person indexing, adjective inflection)"
+aspect,aspect,Grams for aspect,"Target grams expressing aspectuality (e.g. perfective, durative, progressive)"
+case-adposition,case/adposition,Grams for case/adposition function,"Target grams which are adpositions or express cases (e.g. accusative, comitative, locative, benefactive)"
+conjunction,conjunction,Grams for conjunction,"Target grams for conjunction marking (e.g. adverbial subordinator, complementizer)"
+copulaic,copulaic,Grams for copula function,"Target grams for copula function (e.g. copula, focus marker, existential copula)"
+definiteness,definiteness,Grams for definiteness,"Target grams for definiteness marking (e.g. definite article, indefinite article)"
+evaluative,evaluative,Grams for evaluative marking,"Target grams for evaluative marking on nouns (diminutive, augmentative)"
+evidential,evidential,Grams for evidential meaning,"Target grams for evidential marking (e.g. sensory, hearsay, inferential)"
+identity,identity,Grams for identity meanings,"Target grams for identity-related meanings (same, other)"
+information-structure-devices,information structure devices,Grams for information structure,"Target grams for information structure (focus, topic)"
+modality,modality,Grams for modality,"Target grams for verbal modality marking (e.g. irrealis, potential, obligation)"
+negative,negative,Grams for negation,"Target grams for negation meanings (e.g. never, not want, none)"
+noun-classification,noun classification,Grams for noun classification,"Target grams for noun classification (e.g. female, male, inanimate, classifier)"
+number,number,Grams for number,"Target grams for number meanings (singulative, dual, plural)"
+other,other,Other grams,Target grams that do not fall into any of the other classes
+possession,possession,Grams for possession,"Target grams for possessive relations (e.g. genitive, ‘have’)"
+pronoun-proverb,pronoun/proverb,Grams for pronouns,"Target grams that represent pronouns (e.g. personal, reciprocal, indefinite)"
+quantification,quantification,Grams for quantification,"Target grams for quantification (all, some, much)"
+relativization,relativization,Grams for relativization,Target grams that are relativizers
+tense,tense,Grams for tense,"Target grams for tense meanings (e.g. present, past, future)"
+valency-change,valency change,Grams for valency change,"Target grams for valency change (e.g. causative, passive, applicative)"
+verbal-categories-other,"verbal categories, other",Grams for other verbal categories,"Target grams expressing other verbal categories that do not fit into any of the other categories (e.g. quotative, avertive, directional)"
+verbal-deixis,verbal deixis,Grams for verbal deixis,Target grams for venitive or andative
+word-class-change,word class change,Grams for word class change,"Target grams for word class change (e.g. nominalizer, verbalizer)"
