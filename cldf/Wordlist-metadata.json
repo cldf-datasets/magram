@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-52-gc8214f5",
+            "dc:created": "v0.1-55-gf1d95bb",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.19"
+            "dc:description": "3.10.20"
         },
         {
             "dc:title": "python-packages",

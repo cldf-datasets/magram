@@ -32,7 +32,7 @@ The database was put together on the basis of the following contributions. Almos
 
  * [Beja (Cushitic, Afroasiatic)](https://zenodo.org/records/19010947): **Martine Vanhove**
  * [Chinese (Sinitic, Sino-Tibetan)](https://zenodo.org/records/19010812): **Linlin Sun** and **Walter Bisang**
- * [Creoles and Pidgins]](https://zenodo.org/records/19010138): **Susanne Maria Michaelis** and **Martin Haspelmath**
+ * [Creoles and Pidgins](https://zenodo.org/records/19010138): **Susanne Maria Michaelis** and **Martin Haspelmath**
  * [Emai (Edoid, Niger-Congo)](https://zenodo.org/records/19010710): **Ronald P. Schaefer** and **Francis O. Egbokhare**
  * [Germanic (Indo-European)](https://zenodo.org/records/19010361): **Luise Kempf** and **Damaris Nübling**
  * [Hoocąk (Core Siouan)](https://zenodo.org/records/19005830): **Johannes Helmbrecht**
