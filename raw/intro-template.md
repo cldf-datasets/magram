@@ -75,6 +75,9 @@ A major outcome of MAGRAM was the two-volume work [Grammaticalization scenarios:
  * a methodology paper (Bisang et al. 2020b), and
  * 25 detailed studies on grammaticalization scenarios across languages and areas.
 
+The analyses presented in the position paper Bisang et al. 2020a were conducted on an earlier version of the database, dating back to Nov 2019. Replicating these analyses with the current version (v1.0) will give you deviating results. We failed to include version used in the paper ('v0.1') in the versioning process; to still provide access to it for replication we set up a separate zenodo record for it which you can find [here](https://zenodo.org/records/19498825).
+
+
 The core team of MAGRAM consisted of
 
  * [**Walter Bisang**](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/walter-bisang/) (WB) – Principal Investigator
@@ -82,7 +85,7 @@ The core team of MAGRAM consisted of
  * [**Linlin Sun**](https://www.linguistik.fb05.uni-mainz.de/mitarbeiter/linlin-sun/) (LS) – annotation and evaluation
  * [**Iris Rieder**](https://magram.fb05.uni-mainz.de/iris-rieder/) (IR) – annotation and evaluation
  * [**Eduard Schroeder**](https://magram.fb05.uni-mainz.de/eduard-schroeder/) (ES) – annotation and evaluation
- * [**Marvin Martiny**](https://magram.fb05.uni-mainz.de/marvin-martiny/) (MM) – annotation and evaluation, database curation
+ * [**Marvin Martiny**](https://magram.fb05.uni-mainz.de/marvin-martiny/) (MM) – annotation and evaluation, database curation, database management
 
 ## References
 
