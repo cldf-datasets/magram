@@ -449,6 +449,14 @@ class Dataset(BaseDataset):
         cvalues = make_cvalues(raw_data, cparameters, ccodes)
         lvalues = make_lvalues(raw_data, lparameters)
 
+        # sort crossgram tables, so they look consistent in the webapp
+        constr_order = {c['ID']: i for i, c in enumerate(constructions)}
+        cparam_order = {p['ID']: i for i, p in enumerate(cparameters.values())}
+        lparam_order = {p['ID']: i for i, p in enumerate(lparameters.values())}
+        lang_order = {lg['ID']: i for i, lg in enumerate(languages.values())}
+        cvalues.sort(key=lambda r: (constr_order[r['Construction_ID']], cparam_order[r['Parameter_ID']]))
+        lvalues.sort(key=lambda r: (lang_order[r['Language_ID']], lparam_order[r['Parameter_ID']]))
+
         # write cldf data
 
         intro_template = Template(self.raw_dir.read('intro-template.md'))
