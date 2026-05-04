@@ -409,7 +409,7 @@ class Dataset(BaseDataset):
 
         raw_data = parse_raw_data(
             self.raw_dir.read_csv('MAGRAM_database.csv', dicts=True))
-        raw_data.sort(key=lambda row: make_language_id(row))
+        raw_data.sort(key=make_language_id)
         cparameters = {
             row['Original_Column_Name']: row
             for row in self.etc_dir.read_csv('cparameters.csv', dicts=True)}
