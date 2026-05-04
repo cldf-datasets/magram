@@ -7,7 +7,7 @@
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://crossgram.clld.org/contributions/magram",
-    "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "MAGRAM grammaticalization database",
     "dcat:accessURL": "https://github.com/cldf-datasets/magram",
@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/magram",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-57-g925ceb9",
+            "dc:created": "v0.1-61-gb1d66e0",
             "dc:title": "Repository"
         },
         {
