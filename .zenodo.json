@@ -1,0 +1,58 @@
+{
+    "creators": [
+        {
+            "name": "Walter Bisang"
+        },
+        {
+            "name": "Andrej Malchukov"
+        },
+        {
+            "name": "Marvin Martiny"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Linlin Sun",
+            "type": "Other"
+        },
+        {
+            "name": "Iris Rieder",
+            "type": "Other"
+        },
+        {
+            "name": "Eduard Schroeder",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        },
+        {
+            "name": "Martin Haspelmath",
+            "type": "Other"
+        }
+    ],
+    "title": "MAGRAM grammaticalization database",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "crossgram"
+        }
+    ]
+}
